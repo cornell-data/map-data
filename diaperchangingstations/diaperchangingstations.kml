@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document><Folder><name>csv_20150916032356</name>
+<Schema name="csv_20150916032356" id="csv_20150916032356">
+	<SimpleField name="Name" type="string"></SimpleField>
+	<SimpleField name="Description" type="string"></SimpleField>
+	<SimpleField name="Latitude" type="string"></SimpleField>
+	<SimpleField name="Longitude" type="string"></SimpleField>
+</Schema>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150916032356">
+		<SimpleData name="Latitude">42.44581222963363</SimpleData>
+		<SimpleData name="Longitude">-76.47632285816071</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.476322858160714,42.445812229633631</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150916032356">
+		<SimpleData name="Latitude">42.44409729042231</SimpleData>
+		<SimpleData name="Longitude">-76.47767982542101</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.477679825421006,42.444097290422313</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150916032356">
+		<SimpleData name="Latitude">42.44390512207395</SimpleData>
+		<SimpleData name="Longitude">-76.48220966171218</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.482209661712176,42.44390512207395</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150916032356">
+		<SimpleData name="Latitude">42.44388543425705</SimpleData>
+		<SimpleData name="Longitude">-76.48332424790645</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.483324247906452,42.443885434257048</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150916032356">
+		<SimpleData name="Latitude">42.44438571993272</SimpleData>
+		<SimpleData name="Longitude">-76.48476771767727</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.484767717677272,42.444385719932718</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150916032356">
+		<SimpleData name="Latitude">42.44477565177797</SimpleData>
+		<SimpleData name="Longitude">-76.48416611186553</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.484166111865534,42.444775651777967</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150916032356">
+		<SimpleData name="Latitude">42.44567940302476</SimpleData>
+		<SimpleData name="Longitude">-76.48465087265757</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.484650872657568,42.445679403024762</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150916032356">
+		<SimpleData name="Latitude">42.4458260293997</SimpleData>
+		<SimpleData name="Longitude">-76.48330011902215</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.483300119022147,42.445826029399697</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150916032356">
+		<SimpleData name="Latitude">42.44722883905914</SimpleData>
+		<SimpleData name="Longitude">-76.48315639630894</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.483156396308942,42.447228839059143</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150916032356">
+		<SimpleData name="Latitude">42.44920684570562</SimpleData>
+		<SimpleData name="Longitude">-76.47828477550402</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.478284775504022,42.449206845705618</coordinates></Point>
+  </Placemark>
+</Folder></Document></kml>
+
+

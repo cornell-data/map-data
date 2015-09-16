@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document><Folder><name>csv_20150916031703</name>
+<Schema name="csv_20150916031703" id="csv_20150916031703">
+	<SimpleField name="Name" type="string"></SimpleField>
+	<SimpleField name="Description" type="string"></SimpleField>
+	<SimpleField name="Latitude" type="string"></SimpleField>
+	<SimpleField name="Longitude" type="string"></SimpleField>
+</Schema>
+  <Placemark>
+	<name>B-Lot (southeast corner)</name>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150916031703">
+		<SimpleData name="Name">B-Lot (southeast corner)</SimpleData>
+		<SimpleData name="Latitude">42.445736</SimpleData>
+		<SimpleData name="Longitude">-76.463699</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.463699,42.445736</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sage Hall</name>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150916031703">
+		<SimpleData name="Name">Sage Hall</SimpleData>
+		<SimpleData name="Latitude">42.445916</SimpleData>
+		<SimpleData name="Longitude">-76.483243</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.483243,42.445916</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>North Campus</name>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150916031703">
+		<SimpleData name="Name">North Campus</SimpleData>
+		<SimpleData name="Latitude">42.45695294359842</SimpleData>
+		<SimpleData name="Longitude">-76.47848231970252</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.478482319702522,42.456952943598417</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cornell Club of New York City</name>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150916031703">
+		<SimpleData name="Name">Cornell Club of New York City</SimpleData>
+		<SimpleData name="Latitude">40.75441425183247</SimpleData>
+		<SimpleData name="Longitude">-73.97934035554515</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.979340355545148,40.754414251832472</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Weill Cornell Medical College</name>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150916031703">
+		<SimpleData name="Name">Weill Cornell Medical College</SimpleData>
+		<SimpleData name="Latitude">40.764963</SimpleData>
+		<SimpleData name="Longitude">-73.95511399999998</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.955114,40.764963</coordinates></Point>
+  </Placemark>
+</Folder></Document></kml>
+
+

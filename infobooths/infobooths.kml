@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document><Folder><name>csv_20150916032102</name>
+<Schema name="csv_20150916032102" id="csv_20150916032102">
+	<SimpleField name="Name" type="string"></SimpleField>
+	<SimpleField name="Description" type="string"></SimpleField>
+	<SimpleField name="Latitude" type="string"></SimpleField>
+	<SimpleField name="Longitude" type="string"></SimpleField>
+</Schema>
+  <Placemark>
+	<name>Info Booth - Campus Road</name>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150916032102">
+		<SimpleData name="Name">Info Booth - Campus Road</SimpleData>
+		<SimpleData name="Latitude">42.44506420110299</SimpleData>
+		<SimpleData name="Longitude">-76.48437607685075</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.484376076850751,42.445064201102987</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Info Booth - Hoy Road</name>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150916032102">
+		<SimpleData name="Name">Info Booth - Hoy Road</SimpleData>
+		<SimpleData name="Latitude">42.44321883182631</SimpleData>
+		<SimpleData name="Longitude">-76.48024331537873</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.480243315378729,42.443218831826307</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Info Booth - Tower Road</name>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150916032102">
+		<SimpleData name="Name">Info Booth - Tower Road</SimpleData>
+		<SimpleData name="Latitude">42.44766148647454</SimpleData>
+		<SimpleData name="Longitude">-76.47249816568575</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.472498165685749,42.447661486474537</coordinates></Point>
+  </Placemark>
+</Folder></Document></kml>
+
+

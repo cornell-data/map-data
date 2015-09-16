@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document><Folder><name>csv_20150916030823</name>
+<Schema name="csv_20150916030823" id="csv_20150916030823">
+	<SimpleField name="Name" type="string"></SimpleField>
+	<SimpleField name="Description" type="string"></SimpleField>
+	<SimpleField name="ID" type="string"></SimpleField>
+	<SimpleField name="Latitude" type="string"></SimpleField>
+	<SimpleField name="Longitude" type="string"></SimpleField>
+	<SimpleField name="Address" type="string"></SimpleField>
+	<SimpleField name="Notes" type="string"></SimpleField>
+</Schema>
+  <Placemark>
+	<name>University Avenue</name>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150916030823">
+		<SimpleData name="Name">University Avenue</SimpleData>
+		<SimpleData name="ID">4101</SimpleData>
+		<SimpleData name="Latitude">42.448629</SimpleData>
+		<SimpleData name="Longitude">-76.492116</SimpleData>
+		<SimpleData name="Address">467-575 University Ave</SimpleData>
+		<SimpleData name="Notes">Hourly rate:   $.75 (max.: 8 hours)&lt;br /&gt;Daily rate: $6 (max.: 7 days)&lt;br /&gt;Rate Days: Mon-Sun&lt;br /&gt;Hours: 12:00am - 11:59pm&lt;br /&gt;Day Rate Exp.: Next Day at 7:30</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.492116,42.448629</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Stewart and Williams</name>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150916030823">
+		<SimpleData name="Name">Stewart and Williams</SimpleData>
+		<SimpleData name="ID">4102</SimpleData>
+		<SimpleData name="Latitude">42.442699</SimpleData>
+		<SimpleData name="Longitude">-76.489359</SimpleData>
+		<SimpleData name="Address">415 Stewart Ave</SimpleData>
+		<SimpleData name="Notes">Hourly rate:   $.75 (max.: 8 hours)&lt;br /&gt;Daily rate: $6 (max.: 7 days)&lt;br /&gt;Rate Days: Mon-Sun&lt;br /&gt;Hours: 12:00am - 11:59pm&lt;br /&gt;Day Rate Exp.: Next Day at 7:30</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.489359,42.442699</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Anna Comstock</name>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150916030823">
+		<SimpleData name="Name">Anna Comstock</SimpleData>
+		<SimpleData name="ID">4103</SimpleData>
+		<SimpleData name="Latitude">42.45433</SimpleData>
+		<SimpleData name="Longitude">-76.482407</SimpleData>
+		<SimpleData name="Address">Kelvin Pl</SimpleData>
+		<SimpleData name="Notes">Hourly rate:   $.75 (max.: 8 hours)&lt;br /&gt;Daily rate: $6 (max.: 7 days)&lt;br /&gt;Rate Days: Mon-Sun&lt;br /&gt;Hours: 12:00am - 11:59pm&lt;br /&gt;Day Rate Exp.: Next Day at 7:30</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.482407,42.45433</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>CC Lot</name>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150916030823">
+		<SimpleData name="Name">CC Lot</SimpleData>
+		<SimpleData name="ID">4104</SimpleData>
+		<SimpleData name="Latitude">42.456244</SimpleData>
+		<SimpleData name="Longitude">-76.479092</SimpleData>
+		<SimpleData name="Address">Jessup Rd</SimpleData>
+		<SimpleData name="Notes">Hourly rate:   $.75 (max.: 8 hours)&lt;br /&gt;Daily rate: $6 (max.: 7 days)&lt;br /&gt;Rate Days: Mon-Sun&lt;br /&gt;Hours: 12:00am - 11:59pm&lt;br /&gt;Day Rate Exp.: Next Day at 7:30</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.479092,42.456244</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hurlburt House</name>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150916030823">
+		<SimpleData name="Name">Hurlburt House</SimpleData>
+		<SimpleData name="ID">4105</SimpleData>
+		<SimpleData name="Latitude">42.458278</SimpleData>
+		<SimpleData name="Longitude">-76.483748</SimpleData>
+		<SimpleData name="Address">111 Country Club Rd</SimpleData>
+		<SimpleData name="Notes">Hourly rate:   $.75 (max.: 8 hours)&lt;br /&gt;Daily rate: $6 (max.: 7 days)&lt;br /&gt;Rate Days: Mon-Sun&lt;br /&gt;Hours: 12:00am - 11:59pm&lt;br /&gt;Day Rate Exp.: Next Day at 7:30</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.483748,42.458278</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hasbrouck Apartments</name>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150916030823">
+		<SimpleData name="Name">Hasbrouck Apartments</SimpleData>
+		<SimpleData name="ID">4106</SimpleData>
+		<SimpleData name="Latitude">42.455921</SimpleData>
+		<SimpleData name="Longitude">-76.47148</SimpleData>
+		<SimpleData name="Address">2205 Hasbrouck Cir</SimpleData>
+		<SimpleData name="Notes">Hourly rate:   $.75 (max.: 8 hours)&lt;br /&gt;Daily rate: $6 (max.: 7 days)&lt;br /&gt;Rate Days: Mon-Sun&lt;br /&gt;Hours: 12:00am - 11:59pm&lt;br /&gt;Day Rate Exp.: Next Day at 7:30</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.47148,42.455921</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Maplewood Apartments/Maplewood Main</name>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150916030823">
+		<SimpleData name="Name">Maplewood Apartments/Maplewood Main</SimpleData>
+		<SimpleData name="ID">4107</SimpleData>
+		<SimpleData name="Latitude">42.440173</SimpleData>
+		<SimpleData name="Longitude">-76.473652</SimpleData>
+		<SimpleData name="Address">Veteran's Pl</SimpleData>
+		<SimpleData name="Notes">Hourly rate:   $.75 (max.: 8 hours)&lt;br /&gt;Daily rate: $6 (max.: 7 days)&lt;br /&gt;Rate Days: Mon-Sun&lt;br /&gt;Hours: 12:00am - 11:59pm&lt;br /&gt;Day Rate Exp.: Next Day at 7:30</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.473652,42.440173</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TRB Lot</name>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150916030823">
+		<SimpleData name="Name">TRB Lot</SimpleData>
+		<SimpleData name="ID">4108</SimpleData>
+		<SimpleData name="Latitude">42.445169</SimpleData>
+		<SimpleData name="Longitude">-76.466281</SimpleData>
+		<SimpleData name="Address">New York 366</SimpleData>
+		<SimpleData name="Notes">Hourly rate:   $.75 (max.: 8 hours)&lt;br /&gt;Daily rate: $6 (max.: 3 days)&lt;br /&gt;Rate Days: Mon-Fri&lt;br /&gt;Hours: 07:30am - 05:00pm&lt;br /&gt;Day Rate Exp.: Next Day at 7:30</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.466281,42.445169</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>East Hill Office Building</name>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150916030823">
+		<SimpleData name="Name">East Hill Office Building</SimpleData>
+		<SimpleData name="ID">4109</SimpleData>
+		<SimpleData name="Latitude">42.439342</SimpleData>
+		<SimpleData name="Longitude">-76.463728</SimpleData>
+		<SimpleData name="Address">395 Pine Tree Rd</SimpleData>
+		<SimpleData name="Notes">Hourly rate:   $.75 (max.: 8 hours)&lt;br /&gt;Daily rate: $6 (max.: 3 days)&lt;br /&gt;Rate Days: Mon-Fri&lt;br /&gt;Hours: 07:30am - 05:00pm&lt;br /&gt;Day Rate Exp.: Next Day at 7:30</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.463728,42.439342</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>CISER</name>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150916030823">
+		<SimpleData name="Name">CISER</SimpleData>
+		<SimpleData name="ID">4110</SimpleData>
+		<SimpleData name="Latitude">42.439563</SimpleData>
+		<SimpleData name="Longitude">-76.465681</SimpleData>
+		<SimpleData name="Address">391 Pine Tree Rd</SimpleData>
+		<SimpleData name="Notes">Hourly rate:   $.75 (max.: 8 hours)&lt;br /&gt;Daily rate: $6 (max.: 3 days)&lt;br /&gt;Rate Days: Mon-Fri&lt;br /&gt;Hours: 07:30am - 05:00pm&lt;br /&gt;Day Rate Exp.: Next Day at 7:30</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.465681,42.439563</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dywer Dam Lot</name>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150916030823">
+		<SimpleData name="Name">Dywer Dam Lot</SimpleData>
+		<SimpleData name="ID">4111</SimpleData>
+		<SimpleData name="Latitude">42.443997</SimpleData>
+		<SimpleData name="Longitude">-76.474392</SimpleData>
+		<SimpleData name="Address">644-684 Dryden Rd</SimpleData>
+		<SimpleData name="Notes">Hourly rate:   $.75 (max.: 8 hours)&lt;br /&gt;Daily rate: $6 (max.: 3 days)&lt;br /&gt;Rate Days: Mon-Fri&lt;br /&gt;Hours: 07:30am - 05:00pm&lt;br /&gt;Day Rate Exp.: Next Day at 7:30</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.474392,42.443997</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Friedman Visitor Lot</name>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150916030823">
+		<SimpleData name="Name">Friedman Visitor Lot</SimpleData>
+		<SimpleData name="ID">4112</SimpleData>
+		<SimpleData name="Latitude">42.445929</SimpleData>
+		<SimpleData name="Longitude">-76.474682</SimpleData>
+		<SimpleData name="Address">Campus Rd</SimpleData>
+		<SimpleData name="Notes">Hourly rate:  $1.50 (max.: 8 hours)&lt;br /&gt;Daily rate: $10 (max.: 1 day)&lt;br /&gt;Rate Days: Mon-Fri&lt;br /&gt;Hours: 07:30am - 05:00pm&lt;br /&gt;Day Rate Exp.: Next Day at 7:30</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.474682,42.445929</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Friedman Visitor Lot</name>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150916030823">
+		<SimpleData name="Name">Friedman Visitor Lot</SimpleData>
+		<SimpleData name="ID">4112</SimpleData>
+		<SimpleData name="Latitude">42.445929</SimpleData>
+		<SimpleData name="Longitude">-76.474682</SimpleData>
+		<SimpleData name="Address">Campus Rd</SimpleData>
+		<SimpleData name="Notes">Hourly rate:  $1.50 (max.: 8 hours)&lt;br /&gt;Daily rate: $10 (max.: 1 day)&lt;br /&gt;Rate Days: Mon-Fri&lt;br /&gt;Hours: 07:30am - 05:00pm&lt;br /&gt;Day Rate Exp.: Next Day at 7:30</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.474682,42.445929</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>West Avenue</name>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150916030823">
+		<SimpleData name="Name">West Avenue</SimpleData>
+		<SimpleData name="ID">4113</SimpleData>
+		<SimpleData name="Latitude">42.448692</SimpleData>
+		<SimpleData name="Longitude">-76.487573</SimpleData>
+		<SimpleData name="Address">240 West Ave</SimpleData>
+		<SimpleData name="Notes">Hourly rate:  $1.50 (max.: 8 hours)&lt;br /&gt;Daily rate: $10 (max.: 1 day)&lt;br /&gt;Rate Days: Mon-Fri&lt;br /&gt;Hours: 07:30am - 05:00pm&lt;br /&gt;Day Rate Exp.: Next Day at 7:30</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.487573,42.448692</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Toboggan Lodge</name>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150916030823">
+		<SimpleData name="Name">Toboggan Lodge</SimpleData>
+		<SimpleData name="ID">4114</SimpleData>
+		<SimpleData name="Latitude">42.451091</SimpleData>
+		<SimpleData name="Longitude">-76.478673</SimpleData>
+		<SimpleData name="Address">38 Forest Home Drive</SimpleData>
+		<SimpleData name="Notes">Hourly rate:  $1.50 (max.: 8 hours)&lt;br /&gt;Daily rate: $10 (max.: 1 day)&lt;br /&gt;Rate Days: Mon-Fri&lt;br /&gt;Hours: 07:30am - 05:00pm&lt;br /&gt;Day Rate Exp.: Next Day at 7:30</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.478673,42.451091</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>B Lot</name>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150916030823">
+		<SimpleData name="Name">B Lot</SimpleData>
+		<SimpleData name="ID">4115</SimpleData>
+		<SimpleData name="Latitude">42.44623</SimpleData>
+		<SimpleData name="Longitude">-76.463642</SimpleData>
+		<SimpleData name="Address">930 Campus Rd</SimpleData>
+		<SimpleData name="Notes">Hourly rate:   $.75 (max.: 8 hours)&lt;br /&gt;Daily rate: $6 (max.: 14 days)&lt;br /&gt;Rate Days: Mon-Fri&lt;br /&gt;Hours: 07:30am - 05:00pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.463642,42.44623</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>B Lot</name>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150916030823">
+		<SimpleData name="Name">B Lot</SimpleData>
+		<SimpleData name="ID">4115</SimpleData>
+		<SimpleData name="Latitude">42.44623</SimpleData>
+		<SimpleData name="Longitude">-76.463642</SimpleData>
+		<SimpleData name="Address">930 Campus Rd</SimpleData>
+		<SimpleData name="Notes">Hourly rate:   $.75 (max.: 8 hours)&lt;br /&gt;Daily rate: $6 (max.: 14 days)&lt;br /&gt;Rate Days: Mon-Fri&lt;br /&gt;Hours: 07:30am - 05:00pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.463642,42.44623</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Schuyler House</name>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150916030823">
+		<SimpleData name="Name">Schuyler House</SimpleData>
+		<SimpleData name="ID">4116</SimpleData>
+		<SimpleData name="Latitude">42.44007</SimpleData>
+		<SimpleData name="Longitude">-76.49129</SimpleData>
+		<SimpleData name="Address">100-160 Sage Pl</SimpleData>
+		<SimpleData name="Notes">Hourly rate:   $.75 (max.: 8 hours)&lt;br /&gt;Daily rate: $6 (max.: 7 days)&lt;br /&gt;Rate Days: Mon-Sun&lt;br /&gt;Hours: 07:30am - 10:00pm&lt;br /&gt;Day Rate Exp.: Next Day at 7:30</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.49129,42.44007</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Thurston Court Apts.</name>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150916030823">
+		<SimpleData name="Name">Thurston Court Apts.</SimpleData>
+		<SimpleData name="ID">4117</SimpleData>
+		<SimpleData name="Latitude">42.453603</SimpleData>
+		<SimpleData name="Longitude">-76.486902</SimpleData>
+		<SimpleData name="Address">223 Thurston Ave</SimpleData>
+		<SimpleData name="Notes">Hourly rate:   $.75 (max.: 8 hours)&lt;br /&gt;Daily rate: $6 (max.: 7 days)&lt;br /&gt;Rate Days: Mon-Sun&lt;br /&gt;Hours: 07:30am - 10:00pm&lt;br /&gt;Day Rate Exp.: Next Day at 7:30</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.486902,42.453603</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Alumni House North Campus</name>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150916030823">
+		<SimpleData name="Name">Alumni House North Campus</SimpleData>
+		<SimpleData name="ID">4119</SimpleData>
+		<SimpleData name="Latitude">42.45215</SimpleData>
+		<SimpleData name="Longitude">-76.480996</SimpleData>
+		<SimpleData name="Address">Thurston Ave</SimpleData>
+		<SimpleData name="Notes">Hourly rate:  $1.50 (max.: 8 hours)&lt;br /&gt;Daily rate: $10 (max.: 1 day)&lt;br /&gt;Rate Days: Mon-Fri&lt;br /&gt;Hours: 07:30am - 05:00pm&lt;br /&gt;Day Rate Exp.: Next Day at 7:30</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.480996,42.45215</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cornell Plantations Nevin Welcome Center</name>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150916030823">
+		<SimpleData name="Name">Cornell Plantations Nevin Welcome Center</SimpleData>
+		<SimpleData name="ID">4120</SimpleData>
+		<SimpleData name="Latitude">42.44873</SimpleData>
+		<SimpleData name="Longitude">-76.472638</SimpleData>
+		<SimpleData name="Address"></SimpleData>
+		<SimpleData name="Notes">Hourly rate:  $1.50 (max.: 3 hours)&lt;br /&gt;Daily rate: $3 (max.: 0 day)&lt;br /&gt;Rate Days: Mon-Fri&lt;br /&gt;Hours: 07:30am - 05:00pm&lt;br /&gt;Notes: 1st hour is Free</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.472638,42.44873</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hoy South Lot (Hoy Road; adjacent to garage)</name>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150916030823">
+		<SimpleData name="Name">Hoy South Lot (Hoy Road; adjacent to garage)</SimpleData>
+		<SimpleData name="ID">4121</SimpleData>
+		<SimpleData name="Latitude">42.443514</SimpleData>
+		<SimpleData name="Longitude">-76.480111</SimpleData>
+		<SimpleData name="Address">Hoy Road</SimpleData>
+		<SimpleData name="Notes">Hourly rate:  $1.50 (max.: 8 hours)&lt;br /&gt;Daily rate: $10 (max.: 1 day)&lt;br /&gt;Rate Days: Mon-Fri&lt;br /&gt;Hours: 07:30am - 05:00pm&lt;br /&gt;Day Rate Exp.: Next Day at 7:30</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.480111,42.443514</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Peterson Lot</name>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150916030823">
+		<SimpleData name="Name">Peterson Lot</SimpleData>
+		<SimpleData name="ID">4122</SimpleData>
+		<SimpleData name="Latitude">42.448017</SimpleData>
+		<SimpleData name="Longitude">-76.470471</SimpleData>
+		<SimpleData name="Address">Tower Road</SimpleData>
+		<SimpleData name="Notes">Hourly rate:  $1.50 (max.: 8 hours)&lt;br /&gt;Daily rate: $10 (max.: 1 day)&lt;br /&gt;Rate Days: Mon-Fri&lt;br /&gt;Hours: 07:30am - 05:00pm&lt;br /&gt;Day Rate Exp.: Next Day at 7:30</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.470471,42.448017</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Appel Commons Lot North Campus</name>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150916030823">
+		<SimpleData name="Name">Appel Commons Lot North Campus</SimpleData>
+		<SimpleData name="ID">4124</SimpleData>
+		<SimpleData name="Latitude">42.45366</SimpleData>
+		<SimpleData name="Longitude">-76.475047</SimpleData>
+		<SimpleData name="Address">Pleasant Grove Rd</SimpleData>
+		<SimpleData name="Notes">Hourly rate:  $1.00 (max.: 10 hours)&lt;br /&gt;Daily rate: $10 (max.: 1 day)&lt;br /&gt;Rate Days: Mon-Fri&lt;br /&gt;Hours: 07:30am - 05:00pm&lt;br /&gt;Day Rate Exp.: Next Day at 7:30</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.475047,42.45366</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Willard Straight Hall/Gannett Health Central Campus</name>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150916030823">
+		<SimpleData name="Name">Willard Straight Hall/Gannett Health Central Campus</SimpleData>
+		<SimpleData name="ID">4123</SimpleData>
+		<SimpleData name="Latitude">42.446456</SimpleData>
+		<SimpleData name="Longitude">-76.48609</SimpleData>
+		<SimpleData name="Address">Campus Rd</SimpleData>
+		<SimpleData name="Notes">Hourly rate:  $1.50 (max.: 2 hours)&lt;br /&gt;Daily rate: $3 (max.: 0 day)&lt;br /&gt;Rate Days: Mon-Fri&lt;br /&gt;Hours: 07:30am - 05:00pm</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.48609,42.446456</coordinates></Point>
+  </Placemark>
+</Folder></Document></kml>
+
+

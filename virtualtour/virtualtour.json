@@ -1,0 +1,782 @@
+[
+  {
+    "ID":82,
+    "Name":"C2C Bus - Statler",
+    "Description":"C2C",
+    "PanDegrees":310,
+    "TiltDegrees":3,
+    "Latitude":42.445494,
+    "Longitude":-76.482761,
+    "View":"http://cumedia.univcomm.cornell.edu/tour2/C2Cstatler.html"
+  },
+  {
+    "ID":83,
+    "Name":"C2C Bus - Oxley",
+    "Description":"C2C",
+    "PanDegrees":97,
+    "TiltDegrees":2,
+    "Latitude":42.433781,
+    "Longitude":-76.463808,
+    "View":"http://cumedia.univcomm.cornell.edu/tour2/C2Coxley.html"
+  },
+  {
+    "ID":60,
+    "Name":"Maplewood Apts.",
+    "Description":"None",
+    "PanDegrees":67,
+    "TiltDegrees":17,
+    "Latitude":42.439922,
+    "Longitude":-76.473161,
+    "View":"http://cumedia.univcomm.cornell.edu/tour2/Maplewood.html"
+  },
+  {
+    "ID":61,
+    "Name":"Dendrochronology Lab, Goldwin Smith Hall",
+    "Description":"None",
+    "PanDegrees":23,
+    "TiltDegrees":-10,
+    "Latitude":42.448921,
+    "Longitude":-76.483611,
+    "View":"http://cumedia.univcomm.cornell.edu/tour2/DendroLab.html"
+  },
+  {
+    "ID":1,
+    "Name":"Bailey Hall",
+    "Description":"None",
+    "PanDegrees":60,
+    "TiltDegrees":12,
+    "Latitude":42.44895920947072,
+    "Longitude":-76.48024149103549,
+    "View":"http://cumedia.univcomm.cornell.edu/tour2/Bailey_Hall.html"
+  },
+  {
+    "ID":2,
+    "Name":"A. D. White Garden",
+    "Description":"None",
+    "PanDegrees":4,
+    "TiltDegrees":4,
+    "Latitude":42.44822080307561,
+    "Longitude":-76.48174423388247,
+    "View":"http://cumedia.univcomm.cornell.edu/tour2/A_D_White_Garden.html"
+  },
+  {
+    "ID":3,
+    "Name":"A. D. White Statue, Arts Quad",
+    "Description":"None",
+    "PanDegrees":83,
+    "TiltDegrees":22,
+    "Latitude":42.44904722222222,
+    "Longitude":-76.48400232482737,
+    "View":"http://cumedia.univcomm.cornell.edu/tour2/A_D_White_Statue.html"
+  },
+  {
+    "ID":4,
+    "Name":"Ag Quad",
+    "Description":"None",
+    "PanDegrees":131,
+    "TiltDegrees":-5,
+    "Latitude":42.44855945266236,
+    "Longitude":-76.47877753825018,
+    "View":"http://cumedia.univcomm.cornell.edu/tour2/Ag_Quad.html"
+  },
+  {
+    "ID":5,
+    "Name":"Appel Commons, North Campus",
+    "Description":"None",
+    "PanDegrees":266,
+    "TiltDegrees":-7,
+    "Latitude":42.45357134741714,
+    "Longitude":-76.47645028256574,
+    "View":"http://cumedia.univcomm.cornell.edu/tour2/Appel_Commons.html"
+  },
+  {
+    "ID":6,
+    "Name":"Johnson Museum of Art",
+    "Description":"None",
+    "PanDegrees":314,
+    "TiltDegrees":10,
+    "Latitude":42.45017985866196,
+    "Longitude":-76.48593262805929,
+    "View":"http://cumedia.univcomm.cornell.edu/tour2/Art_Museum.html"
+  },
+  {
+    "ID":7,
+    "Name":"Barton Hall",
+    "Description":"None",
+    "PanDegrees":78,
+    "TiltDegrees":15,
+    "Latitude":42.44565622736344,
+    "Longitude":-76.48159982032402,
+    "View":"http://cumedia.univcomm.cornell.edu/tour2/Barton_Hall.html"
+  },
+  {
+    "ID":8,
+    "Name":"Becker and Cook Halls, West Campus",
+    "Description":"None",
+    "PanDegrees":86,
+    "TiltDegrees":-2,
+    "Latitude":42.44768612650957,
+    "Longitude":-76.48986120903517,
+    "View":"http://cumedia.univcomm.cornell.edu/tour2/Becker_and_Cook_Halls.html"
+  },
+  {
+    "ID":9,
+    "Name":"Barnes Hall",
+    "Description":"None",
+    "PanDegrees":231,
+    "TiltDegrees":37,
+    "Latitude":42.44641840844105,
+    "Longitude":-76.4846813733612,
+    "View":"http://cumedia.univcomm.cornell.edu/tour2/Barnes_Hall.html"
+  },
+  {
+    "ID":10,
+    "Name":"Beebe Lake",
+    "Description":"None",
+    "PanDegrees":285,
+    "TiltDegrees":-3,
+    "Latitude":42.45007602066867,
+    "Longitude":-76.47582265775597,
+    "View":"http://cumedia.univcomm.cornell.edu/tour2/Beebe_Lake.html"
+  },
+  {
+    "ID":11,
+    "Name":"Sackett Bridge, Beebe Lake",
+    "Description":"None",
+    "PanDegrees":324,
+    "TiltDegrees":-27,
+    "Latitude":42.45172222222222,
+    "Longitude":-76.47303747390329,
+    "View":"http://cumedia.univcomm.cornell.edu/tour2/Sackett_Bridge.html"
+  },
+  {
+    "ID":12,
+    "Name":"Noyes Lodge, North Campus, by Beebe Lake",
+    "Description":"None",
+    "PanDegrees":276,
+    "TiltDegrees":-3,
+    "Latitude":42.45218888888889,
+    "Longitude":-76.48009925182966,
+    "View":"http://cumedia.univcomm.cornell.edu/tour2/Noyes_Lodge.html"
+  },
+  {
+    "ID":13,
+    "Name":"Rawlings Green, North Campus",
+    "Description":"None",
+    "PanDegrees":289,
+    "TiltDegrees":4,
+    "Latitude":42.45375712380796,
+    "Longitude":-76.47741757464274,
+    "View":"http://cumedia.univcomm.cornell.edu/tour2/Rawlings_Green.html"
+  },
+  {
+    "ID":14,
+    "Name":"Thurston Ave. Bridge, North Campus",
+    "Description":"None",
+    "PanDegrees":323,
+    "TiltDegrees":-8,
+    "Latitude":42.45146666666667,
+    "Longitude":-76.48184479077973,
+    "View":"http://cumedia.univcomm.cornell.edu/tour2/Thurston_Ave_Bridge.html"
+  },
+  {
+    "ID":15,
+    "Name":"Mann Library Lobby",
+    "Description":"None",
+    "PanDegrees":356,
+    "TiltDegrees":-3,
+    "Latitude":42.44872670189017,
+    "Longitude":-76.47653600312367,
+    "View":"http://cumedia.univcomm.cornell.edu/tour2/Mann_Library_Lobby.html"
+  },
+  {
+    "ID":16,
+    "Name":"Weill Hall",
+    "Description":"None",
+    "PanDegrees":264,
+    "TiltDegrees":14,
+    "Latitude":42.4473039152948,
+    "Longitude":-76.47753762737845,
+    "View":"http://cumedia.univcomm.cornell.edu/tour2/Weill_Hall.html"
+  },
+  {
+    "ID":17,
+    "Name":"Teagle and Barton",
+    "Description":"None",
+    "PanDegrees":211,
+    "TiltDegrees":8,
+    "Latitude":42.44556197709949,
+    "Longitude":-76.47959988862361,
+    "View":"http://cumedia.univcomm.cornell.edu/tour2/Teagle_and_Barton.html"
+  },
+  {
+    "ID":18,
+    "Name":"Lynah Rink",
+    "Description":"None",
+    "PanDegrees":224,
+    "TiltDegrees":12,
+    "Latitude":42.44573187102165,
+    "Longitude":-76.47734841491595,
+    "View":"http://cumedia.univcomm.cornell.edu/tour2/Lynah_Rink.html"
+  },
+  {
+    "ID":19,
+    "Name":"Riley-Robb Hall",
+    "Description":"None",
+    "PanDegrees":25,
+    "TiltDegrees":19,
+    "Latitude":42.44644555405441,
+    "Longitude":-76.4719178943964,
+    "View":"http://cumedia.univcomm.cornell.edu/tour2/Riley-Robb_Hall.html"
+  },
+  {
+    "ID":21,
+    "Name":"Orchards Apple Trees",
+    "Description":"None",
+    "PanDegrees":342,
+    "TiltDegrees":-2,
+    "Latitude":42.44546806835247,
+    "Longitude":-76.46169367606744,
+    "View":"http://cumedia.univcomm.cornell.edu/tour2/Orchards.html"
+  },
+  {
+    "ID":22,
+    "Name":"Olin Library Terrace",
+    "Description":"None",
+    "PanDegrees":76,
+    "TiltDegrees":16,
+    "Latitude":42.44800138035919,
+    "Longitude":-76.48471307782486,
+    "View":"http://cumedia.univcomm.cornell.edu/tour2/Olin_Library_Terrace.html"
+  },
+  {
+    "ID":23,
+    "Name":"McGraw Tower (top)",
+    "Description":"None",
+    "PanDegrees":190,
+    "TiltDegrees":-11,
+    "Latitude":42.44756949386948,
+    "Longitude":-76.48510878088581,
+    "View":"http://cumedia.univcomm.cornell.edu/tour2/McGraw_Tower.html"
+  },
+  {
+    "ID":24,
+    "Name":"Uris Library overlooking Libe Slope and West Campus",
+    "Description":"None",
+    "PanDegrees":240,
+    "TiltDegrees":24,
+    "Latitude":42.44738430290708,
+    "Longitude":-76.48564472703295,
+    "View":"http://cumedia.univcomm.cornell.edu/tour2/Uris_Library.html"
+  },
+  {
+    "ID":25,
+    "Name":"Ho Plaza",
+    "Description":"None",
+    "PanDegrees":170,
+    "TiltDegrees":6,
+    "Latitude":42.44672674010366,
+    "Longitude":-76.48479133773702,
+    "View":"http://cumedia.univcomm.cornell.edu/tour2/Ho_Plaza.html"
+  },
+  {
+    "ID":26,
+    "Name":"Campus Store Lobby",
+    "Description":"None",
+    "PanDegrees":48,
+    "TiltDegrees":-3,
+    "Latitude":42.44674912491537,
+    "Longitude":-76.4844911381721,
+    "View":"http://cumedia.univcomm.cornell.edu/tour2/Campus_Store_Lobby.html"
+  },
+  {
+    "ID":27,
+    "Name":"Campus Store Roof",
+    "Description":"None",
+    "PanDegrees":179,
+    "TiltDegrees":7,
+    "Latitude":42.44692851996,
+    "Longitude":-76.48438257460906,
+    "View":"http://cumedia.univcomm.cornell.edu/tour2/Campus_Store_Roof.html"
+  },
+  {
+    "ID":28,
+    "Name":"Sage Chapel Tombs",
+    "Description":"None",
+    "PanDegrees":180,
+    "TiltDegrees":13,
+    "Latitude":42.44734444444444,
+    "Longitude":-76.48462212710625,
+    "View":"http://cumedia.univcomm.cornell.edu/tour2/Sage_Chapel_Tombs.html"
+  },
+  {
+    "ID":29,
+    "Name":"Sage Chapel Altar",
+    "Description":"None",
+    "PanDegrees":126,
+    "TiltDegrees":14,
+    "Latitude":42.44719747822607,
+    "Longitude":-76.4842572707821,
+    "View":"http://cumedia.univcomm.cornell.edu/tour2/Sage_Chapel_Altar.html"
+  },
+  {
+    "ID":30,
+    "Name":"Sage Chapel Organ",
+    "Description":"None",
+    "PanDegrees":174,
+    "TiltDegrees":23,
+    "Latitude":42.44717777777777,
+    "Longitude":-76.48463258606982,
+    "View":"http://cumedia.univcomm.cornell.edu/tour2/Sage_Chapel_Organ.html"
+  },
+  {
+    "ID":31,
+    "Name":"Willard Straight Hall: Lobby",
+    "Description":"None",
+    "PanDegrees":20,
+    "TiltDegrees":17,
+    "Latitude":42.44669444444444,
+    "Longitude":-76.48540914885336,
+    "View":"http://cumedia.univcomm.cornell.edu/tour2/Straight_Lobby.html"
+  },
+  {
+    "ID":32,
+    "Name":"Willard Straight Hall: Great Hall",
+    "Description":"None",
+    "PanDegrees":240,
+    "TiltDegrees":44,
+    "Latitude":42.44667567566166,
+    "Longitude":-76.48595773468764,
+    "View":"http://cumedia.univcomm.cornell.edu/tour2/Straight_Great_Hall.html"
+  },
+  {
+    "ID":33,
+    "Name":"Gannett",
+    "Description":"None",
+    "PanDegrees":357,
+    "TiltDegrees":-1,
+    "Latitude":42.44579722222222,
+    "Longitude":-76.48510289104755,
+    "View":"http://cumedia.univcomm.cornell.edu/tour2/Gannett.html"
+  },
+  {
+    "ID":34,
+    "Name":"Sage Hall",
+    "Description":"None",
+    "PanDegrees":68,
+    "TiltDegrees":51,
+    "Latitude":42.44585655081457,
+    "Longitude":-76.48380372030975,
+    "View":"http://cumedia.univcomm.cornell.edu/tour2/Sage_Hall.html"
+  },
+  {
+    "ID":35,
+    "Name":"Herakles Statue between Statler and Olin",
+    "Description":"None",
+    "PanDegrees":268,
+    "TiltDegrees":27,
+    "Latitude":42.44681944444444,
+    "Longitude":-76.48237184150537,
+    "View":"http://cumedia.univcomm.cornell.edu/tour2/Herakles.html"
+  },
+  {
+    "ID":37,
+    "Name":"Day Hall",
+    "Description":"None",
+    "PanDegrees":275,
+    "TiltDegrees":3,
+    "Latitude":42.44729166666666,
+    "Longitude":-76.48298717056193,
+    "View":"http://cumedia.univcomm.cornell.edu/tour2/Day_Hall.html"
+  },
+  {
+    "ID":38,
+    "Name":"Plantations Herbs Stairs",
+    "Description":"None",
+    "PanDegrees":203,
+    "TiltDegrees":-4,
+    "Latitude":42.44989838528682,
+    "Longitude":-76.47130160037095,
+    "View":"http://cumedia.univcomm.cornell.edu/tour2/Plantations_Herbs_Stairs.html"
+  },
+  {
+    "ID":39,
+    "Name":"Plantations Herbs Walkway",
+    "Description":"None",
+    "PanDegrees":269,
+    "TiltDegrees":3,
+    "Latitude":42.44960280834593,
+    "Longitude":-76.47173293248879,
+    "View":"http://cumedia.univcomm.cornell.edu/tour2/Plantations_Herbs_Walkway.html"
+  },
+  {
+    "ID":40,
+    "Name":"Plantations Herbs Middle",
+    "Description":"None",
+    "PanDegrees":182,
+    "TiltDegrees":-12,
+    "Latitude":42.44961213313715,
+    "Longitude":-76.47150194527333,
+    "View":"http://cumedia.univcomm.cornell.edu/tour2/Plantations_Herbs_Middle.html"
+  },
+  {
+    "ID":41,
+    "Name":"Plantations Ground Cover",
+    "Description":"None",
+    "PanDegrees":192,
+    "TiltDegrees":-9,
+    "Latitude":42.44981466563955,
+    "Longitude":-76.47209240572144,
+    "View":"http://cumedia.univcomm.cornell.edu/tour2/Plantations_Ground_Cover.html"
+  },
+  {
+    "ID":42,
+    "Name":"Plantations Pergola",
+    "Description":"None",
+    "PanDegrees":158,
+    "TiltDegrees":3,
+    "Latitude":42.45094773777888,
+    "Longitude":-76.45472483666953,
+    "View":"http://cumedia.univcomm.cornell.edu/tour2/Plantations_Pergola.html"
+  },
+  {
+    "ID":43,
+    "Name":"Plantations Sculpture Garden",
+    "Description":"None",
+    "PanDegrees":346,
+    "TiltDegrees":9,
+    "Latitude":42.45186318133462,
+    "Longitude":-76.45499613142375,
+    "View":"http://cumedia.univcomm.cornell.edu/tour2/Plantations_Art.html"
+  },
+  {
+    "ID":44,
+    "Name":"Plantations Shrubs",
+    "Description":"None",
+    "PanDegrees":345,
+    "TiltDegrees":0,
+    "Latitude":42.45251888571423,
+    "Longitude":-76.4564731201622,
+    "View":"http://cumedia.univcomm.cornell.edu/tour2/Plantations_Shrubs.html"
+  },
+  {
+    "ID":45,
+    "Name":"Vet School",
+    "Description":"None",
+    "PanDegrees":276,
+    "TiltDegrees":30,
+    "Latitude":42.4475285977562,
+    "Longitude":-76.4668396216835,
+    "View":"http://cumedia.univcomm.cornell.edu/tour2/Vet_School.html"
+  },
+  {
+    "ID":46,
+    "Name":"Holley Center",
+    "Description":"None",
+    "PanDegrees":154,
+    "TiltDegrees":8,
+    "Latitude":42.44765877890221,
+    "Longitude":-76.46740648807682,
+    "View":"http://cumedia.univcomm.cornell.edu/tour2/Holley_Center.html"
+  },
+  {
+    "ID":47,
+    "Name":"Greenhouses near Bradfield and Plant Sciences",
+    "Description":"None",
+    "PanDegrees":216,
+    "TiltDegrees":19,
+    "Latitude":42.44773358139101,
+    "Longitude":-76.47656027469162,
+    "View":"http://cumedia.univcomm.cornell.edu/tour2/Greenhouses.html"
+  },
+  {
+    "ID":48,
+    "Name":"Minns Garden between Plant Sciences and Weill Hall",
+    "Description":"None",
+    "PanDegrees":34,
+    "TiltDegrees":0,
+    "Latitude":42.44779722222222,
+    "Longitude":-76.47765813159212,
+    "View":"http://cumedia.univcomm.cornell.edu/tour2/Minns_Garden.html"
+  },
+  {
+    "ID":49,
+    "Name":"R. Uris Garden",
+    "Description":"None",
+    "PanDegrees":248,
+    "TiltDegrees":-15,
+    "Latitude":42.44777431111604,
+    "Longitude":-76.4819206774539,
+    "View":"http://cumedia.univcomm.cornell.edu/tour2/R_Uris_Garden.html"
+  },
+  {
+    "ID":50,
+    "Name":"Mews Hall, North Campus",
+    "Description":"None",
+    "PanDegrees":80,
+    "TiltDegrees":4,
+    "Latitude":42.45460511001311,
+    "Longitude":-76.47673473327679,
+    "View":"http://cumedia.univcomm.cornell.edu/tour2/Mews_Hall.html"
+  },
+  {
+    "ID":51,
+    "Name":"Malott",
+    "Description":"None",
+    "PanDegrees":242,
+    "TiltDegrees":7,
+    "Latitude":42.44783705053268,
+    "Longitude":-76.48031202288715,
+    "View":"http://cumedia.univcomm.cornell.edu/tour2/Malott.html"
+  },
+  {
+    "ID":52,
+    "Name":"Big Red Barn Tree",
+    "Description":"None",
+    "PanDegrees":353,
+    "TiltDegrees":15,
+    "Latitude":42.44815435882187,
+    "Longitude":-76.48125384748863,
+    "View":"http://cumedia.univcomm.cornell.edu/tour2/Big_Red_Barn_Tree.html"
+  },
+  {
+    "ID":53,
+    "Name":"Duffield Hall (Exterior)",
+    "Description":"None",
+    "PanDegrees":299,
+    "TiltDegrees":6,
+    "Latitude":42.44488751877613,
+    "Longitude":-76.48304035336957,
+    "View":"http://cumedia.univcomm.cornell.edu/tour2/Duffield_Hall_Ext.html"
+  },
+  {
+    "ID":54,
+    "Name":"Duffield Hall (Interior)",
+    "Description":"None",
+    "PanDegrees":316,
+    "TiltDegrees":-15,
+    "Latitude":42.44465014550562,
+    "Longitude":-76.48267492977675,
+    "View":"http://cumedia.univcomm.cornell.edu/tour2/Duffield_Hall_Int.html"
+  },
+  {
+    "ID":55,
+    "Name":"Spacecraft Planetary Imaging Facility (SPIF), Space Sciences Building",
+    "Description":"None",
+    "PanDegrees":355,
+    "TiltDegrees":-5,
+    "Latitude":42.448906,
+    "Longitude":-76.481235,
+    "View":"http://cumedia.univcomm.cornell.edu/tour2/SPIF.html"
+  },
+  {
+    "ID":56,
+    "Name":"College Ave. Bridge",
+    "Description":"None",
+    "PanDegrees":347,
+    "TiltDegrees":20,
+    "Latitude":42.443071,
+    "Longitude":-76.485749,
+    "View":"http://cumedia.univcomm.cornell.edu/tour2/CollegeAveArch.html"
+  },
+  {
+    "ID":57,
+    "Name":"Cascadilla Gorge",
+    "Description":"None",
+    "PanDegrees":113,
+    "TiltDegrees":-13,
+    "Latitude":42.442558,
+    "Longitude":-76.481433,
+    "View":"http://cumedia.univcomm.cornell.edu/tour2/CascadillaGorge.html"
+  },
+  {
+    "ID":58,
+    "Name":"Olin Library Cherry Trees",
+    "Description":"None",
+    "PanDegrees":283,
+    "TiltDegrees":11,
+    "Latitude":42.447518,
+    "Longitude":-76.484164,
+    "View":"http://cumedia.univcomm.cornell.edu/tour2/Cherry_Trees.html"
+  },
+  {
+    "ID":59,
+    "Name":"Rhodes Hall",
+    "Description":"None",
+    "PanDegrees":114,
+    "TiltDegrees":53,
+    "Latitude":42.443103,
+    "Longitude":-76.480638,
+    "View":"http://cumedia.univcomm.cornell.edu/tour2/Theory_Center.html"
+  },
+  {
+    "ID":62,
+    "Name":"Duffield Clean Room #1",
+    "Description":"Engineering",
+    "PanDegrees":0,
+    "TiltDegrees":0,
+    "Latitude":42.444719,
+    "Longitude":-76.482702,
+    "View":"http://cumedia.univcomm.cornell.edu/tour2/DuffieldCleanRoom1.html"
+  },
+  {
+    "ID":68,
+    "Name":"Duffield Colloquium Room balcony",
+    "Description":"Engineering",
+    "PanDegrees":0,
+    "TiltDegrees":0,
+    "Latitude":42.444919,
+    "Longitude":-76.482914,
+    "View":"http://cumedia.univcomm.cornell.edu/tour2/DuffieldBalcony.html"
+  },
+  {
+    "ID":70,
+    "Name":"Collegetown Campus Entrance",
+    "Description":"Engineering",
+    "PanDegrees":0,
+    "TiltDegrees":0,
+    "Latitude":42.442668,
+    "Longitude":-76.485081,
+    "View":"http://cumedia.univcomm.cornell.edu/tour2/Collegetown.html"
+  },
+  {
+    "ID":71,
+    "Name":"Duffield Atrium",
+    "Description":"Engineering",
+    "PanDegrees":0,
+    "TiltDegrees":0,
+    "Latitude":42.444445,
+    "Longitude":-76.482788,
+    "View":"http://cumedia.univcomm.cornell.edu/tour2/DuffieldEntry.html"
+  },
+  {
+    "ID":72,
+    "Name":"George F. Brown Jr. Network for Earthquake Engineering Simulation",
+    "Description":"Engineering",
+    "PanDegrees":0,
+    "TiltDegrees":0,
+    "Latitude":42.443852,
+    "Longitude":-76.483743,
+    "View":"http://cumedia.univcomm.cornell.edu/tour2/EarthquakeSimulator.html"
+  },
+  {
+    "ID":76,
+    "Name":"Emerson Manufacturing Teaching Lab",
+    "Description":"Engineering",
+    "PanDegrees":0,
+    "TiltDegrees":0,
+    "Latitude":42.443225,
+    "Longitude":-76.48115,
+    "View":"http://cumedia.univcomm.cornell.edu/tour2/DuffieldLab.html"
+  },
+  {
+    "ID":74,
+    "Name":"Timothy N. Heasky Mineraelogy Museum, Snee Hall",
+    "Description":"Engineering",
+    "PanDegrees":0,
+    "TiltDegrees":0,
+    "Latitude":42.443646,
+    "Longitude":-76.485041,
+    "View":"http://cumedia.univcomm.cornell.edu/tour2/GemCollection.html"
+  },
+  {
+    "ID":75,
+    "Name":"Teaching Area in Hydrology Lab",
+    "Description":"Engineering",
+    "PanDegrees":0,
+    "TiltDegrees":0,
+    "Latitude":42.44401,
+    "Longitude":-76.484695,
+    "View":"http://cumedia.univcomm.cornell.edu/tour2/Hydrology.html"
+  },
+  {
+    "ID":73,
+    "Name":"Duffield Schlom Oxide Molecular Beam Epitaxy Lab",
+    "Description":"Engineering",
+    "PanDegrees":0,
+    "TiltDegrees":0,
+    "Latitude":42.444887,
+    "Longitude":-76.48271,
+    "View":"http://cumedia.univcomm.cornell.edu/tour2/RhodesFab.html"
+  },
+  {
+    "ID":78,
+    "Name":"Seismology Display, Snee Hall",
+    "Description":"Engineering",
+    "PanDegrees":0,
+    "TiltDegrees":0,
+    "Latitude":42.443535,
+    "Longitude":-76.484872,
+    "View":"http://cumedia.univcomm.cornell.edu/tour2/Seismology.html"
+  },
+  {
+    "ID":80,
+    "Name":"Water Tank in Hydrology Lab",
+    "Description":"Engineering",
+    "PanDegrees":0,
+    "TiltDegrees":0,
+    "Latitude":42.44401,
+    "Longitude":-76.484695,
+    "View":"http://cumedia.univcomm.cornell.edu/tour2/Hydraulics.html"
+  },
+  {
+    "ID":77,
+    "Name":"Rock Garden on Engineering Quad",
+    "Description":"Engineering",
+    "PanDegrees":0,
+    "TiltDegrees":0,
+    "Latitude":42.444173,
+    "Longitude":-76.483898,
+    "View":"http://cumedia.univcomm.cornell.edu/tour2/RockGarden.html"
+  },
+  {
+    "ID":79,
+    "Name":"Sundial on Engineering Quad",
+    "Description":"Engineering",
+    "PanDegrees":0,
+    "TiltDegrees":0,
+    "Latitude":42.444876,
+    "Longitude":-76.483633,
+    "View":"http://cumedia.univcomm.cornell.edu/tour2/Sundial.html"
+  },
+  {
+    "ID":81,
+    "Name":"C2C Bus - North Campus",
+    "Description":"C2C",
+    "PanDegrees":334,
+    "TiltDegrees":0,
+    "Latitude":42.457191,
+    "Longitude":-76.478483,
+    "View":"http://cumedia.univcomm.cornell.edu/tour2/C2Cnorth.html"
+  },
+  {
+    "ID":93,
+    "Name":"Tulip Tree Between Day Hall and Olin Library",
+    "Description":"None",
+    "PanDegrees":0,
+    "TiltDegrees":0,
+    "Latitude":42.447297,
+    "Longitude":-76.483798,
+    "View":"http://cumedia.univcomm.cornell.edu/tour2/TulipTree.html"
+  },
+  {
+    "ID":91,
+    "Name":"Costume Shop",
+    "Description":"CESR",
+    "PanDegrees":112,
+    "TiltDegrees":-5,
+    "Latitude":42.4425,
+    "Longitude":-76.486,
+    "View":"http://cumedia.univcomm.cornell.edu/tour2/CostumeShop.html"
+  },
+  {
+    "ID":84,
+    "Name":"Cyclotron View 1",
+    "Description":"CESR",
+    "PanDegrees":168,
+    "TiltDegrees":-12,
+    "Latitude":42.445,
+    "Longitude":-76.4729,
+    "View":"http://cumedia.univcomm.cornell.edu/tour2/Cyclotron_Node1a.html"
+  }
+]

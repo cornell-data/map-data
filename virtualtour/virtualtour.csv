@@ -1,0 +1,79 @@
+ID,Name,Description,PanDegrees,TiltDegrees,Latitude,Longitude,View
+82,C2C Bus - Statler,C2C,310,3,42.445494,-76.482761,http://cumedia.univcomm.cornell.edu/tour2/C2Cstatler.html
+83,C2C Bus - Oxley,C2C,97,2,42.433781,-76.463808,http://cumedia.univcomm.cornell.edu/tour2/C2Coxley.html
+60,Maplewood Apts.,None,67,17,42.439922,-76.473161,http://cumedia.univcomm.cornell.edu/tour2/Maplewood.html
+61,"Dendrochronology Lab, Goldwin Smith Hall",None,23,-10,42.448921,-76.483611,http://cumedia.univcomm.cornell.edu/tour2/DendroLab.html
+1,Bailey Hall,None,60,12,42.44895920947072,-76.48024149103549,http://cumedia.univcomm.cornell.edu/tour2/Bailey_Hall.html
+2,A. D. White Garden,None,4,4,42.44822080307561,-76.48174423388247,http://cumedia.univcomm.cornell.edu/tour2/A_D_White_Garden.html
+3,"A. D. White Statue, Arts Quad",None,83,22,42.44904722222222,-76.48400232482737,http://cumedia.univcomm.cornell.edu/tour2/A_D_White_Statue.html
+4,Ag Quad,None,131,-5,42.44855945266236,-76.47877753825018,http://cumedia.univcomm.cornell.edu/tour2/Ag_Quad.html
+5,"Appel Commons, North Campus",None,266,-7,42.45357134741714,-76.47645028256574,http://cumedia.univcomm.cornell.edu/tour2/Appel_Commons.html
+6,Johnson Museum of Art,None,314,10,42.45017985866196,-76.48593262805929,http://cumedia.univcomm.cornell.edu/tour2/Art_Museum.html
+7,Barton Hall,None,78,15,42.44565622736344,-76.48159982032402,http://cumedia.univcomm.cornell.edu/tour2/Barton_Hall.html
+8,"Becker and Cook Halls, West Campus",None,86,-2,42.44768612650957,-76.48986120903517,http://cumedia.univcomm.cornell.edu/tour2/Becker_and_Cook_Halls.html
+9,Barnes Hall,None,231,37,42.44641840844105,-76.4846813733612,http://cumedia.univcomm.cornell.edu/tour2/Barnes_Hall.html
+10,Beebe Lake,None,285,-3,42.45007602066867,-76.47582265775597,http://cumedia.univcomm.cornell.edu/tour2/Beebe_Lake.html
+11,"Sackett Bridge, Beebe Lake",None,324,-27,42.45172222222222,-76.47303747390329,http://cumedia.univcomm.cornell.edu/tour2/Sackett_Bridge.html
+12,"Noyes Lodge, North Campus, by Beebe Lake",None,276,-3,42.45218888888889,-76.48009925182966,http://cumedia.univcomm.cornell.edu/tour2/Noyes_Lodge.html
+13,"Rawlings Green, North Campus",None,289,4,42.45375712380796,-76.47741757464274,http://cumedia.univcomm.cornell.edu/tour2/Rawlings_Green.html
+14,"Thurston Ave. Bridge, North Campus",None,323,-8,42.45146666666667,-76.48184479077973,http://cumedia.univcomm.cornell.edu/tour2/Thurston_Ave_Bridge.html
+15,Mann Library Lobby,None,356,-3,42.44872670189017,-76.47653600312367,http://cumedia.univcomm.cornell.edu/tour2/Mann_Library_Lobby.html
+16,Weill Hall,None,264,14,42.4473039152948,-76.47753762737845,http://cumedia.univcomm.cornell.edu/tour2/Weill_Hall.html
+17,Teagle and Barton,None,211,8,42.44556197709949,-76.47959988862361,http://cumedia.univcomm.cornell.edu/tour2/Teagle_and_Barton.html
+18,Lynah Rink,None,224,12,42.44573187102165,-76.47734841491595,http://cumedia.univcomm.cornell.edu/tour2/Lynah_Rink.html
+19,Riley-Robb Hall,None,25,19,42.44644555405441,-76.4719178943964,http://cumedia.univcomm.cornell.edu/tour2/Riley-Robb_Hall.html
+21,Orchards Apple Trees,None,342,-2,42.44546806835247,-76.46169367606744,http://cumedia.univcomm.cornell.edu/tour2/Orchards.html
+22,Olin Library Terrace,None,76,16,42.44800138035919,-76.48471307782486,http://cumedia.univcomm.cornell.edu/tour2/Olin_Library_Terrace.html
+23,McGraw Tower (top),None,190,-11,42.44756949386948,-76.48510878088581,http://cumedia.univcomm.cornell.edu/tour2/McGraw_Tower.html
+24,Uris Library overlooking Libe Slope and West Campus,None,240,24,42.44738430290708,-76.48564472703295,http://cumedia.univcomm.cornell.edu/tour2/Uris_Library.html
+25,Ho Plaza,None,170,6,42.44672674010366,-76.48479133773702,http://cumedia.univcomm.cornell.edu/tour2/Ho_Plaza.html
+26,Campus Store Lobby,None,48,-3,42.44674912491537,-76.4844911381721,http://cumedia.univcomm.cornell.edu/tour2/Campus_Store_Lobby.html
+27,Campus Store Roof,None,179,7,42.44692851996,-76.48438257460906,http://cumedia.univcomm.cornell.edu/tour2/Campus_Store_Roof.html
+28,Sage Chapel Tombs,None,180,13,42.44734444444444,-76.48462212710625,http://cumedia.univcomm.cornell.edu/tour2/Sage_Chapel_Tombs.html
+29,Sage Chapel Altar,None,126,14,42.44719747822607,-76.48425727078209,http://cumedia.univcomm.cornell.edu/tour2/Sage_Chapel_Altar.html
+30,Sage Chapel Organ,None,174,23,42.44717777777777,-76.48463258606982,http://cumedia.univcomm.cornell.edu/tour2/Sage_Chapel_Organ.html
+31,Willard Straight Hall: Lobby,None,20,17,42.44669444444444,-76.48540914885336,http://cumedia.univcomm.cornell.edu/tour2/Straight_Lobby.html
+32,Willard Straight Hall: Great Hall,None,240,44,42.44667567566166,-76.48595773468764,http://cumedia.univcomm.cornell.edu/tour2/Straight_Great_Hall.html
+33,Gannett,None,357,-1,42.44579722222222,-76.48510289104755,http://cumedia.univcomm.cornell.edu/tour2/Gannett.html
+34,Sage Hall,None,68,51,42.44585655081457,-76.48380372030975,http://cumedia.univcomm.cornell.edu/tour2/Sage_Hall.html
+35,Herakles Statue between Statler and Olin,None,268,27,42.44681944444444,-76.48237184150537,http://cumedia.univcomm.cornell.edu/tour2/Herakles.html
+37,Day Hall,None,275,3,42.44729166666666,-76.48298717056193,http://cumedia.univcomm.cornell.edu/tour2/Day_Hall.html
+38,Plantations Herbs Stairs,None,203,-4,42.44989838528682,-76.47130160037095,http://cumedia.univcomm.cornell.edu/tour2/Plantations_Herbs_Stairs.html
+39,Plantations Herbs Walkway,None,269,3,42.44960280834593,-76.47173293248879,http://cumedia.univcomm.cornell.edu/tour2/Plantations_Herbs_Walkway.html
+40,Plantations Herbs Middle,None,182,-12,42.44961213313715,-76.47150194527333,http://cumedia.univcomm.cornell.edu/tour2/Plantations_Herbs_Middle.html
+41,Plantations Ground Cover,None,192,-9,42.44981466563955,-76.47209240572144,http://cumedia.univcomm.cornell.edu/tour2/Plantations_Ground_Cover.html
+42,Plantations Pergola,None,158,3,42.45094773777888,-76.45472483666953,http://cumedia.univcomm.cornell.edu/tour2/Plantations_Pergola.html
+43,Plantations Sculpture Garden,None,346,9,42.45186318133462,-76.45499613142375,http://cumedia.univcomm.cornell.edu/tour2/Plantations_Art.html
+44,Plantations Shrubs,None,345,0,42.45251888571423,-76.4564731201622,http://cumedia.univcomm.cornell.edu/tour2/Plantations_Shrubs.html
+45,Vet School,None,276,30,42.4475285977562,-76.4668396216835,http://cumedia.univcomm.cornell.edu/tour2/Vet_School.html
+46,Holley Center,None,154,8,42.44765877890221,-76.46740648807682,http://cumedia.univcomm.cornell.edu/tour2/Holley_Center.html
+47,Greenhouses near Bradfield and Plant Sciences,None,216,19,42.44773358139101,-76.47656027469162,http://cumedia.univcomm.cornell.edu/tour2/Greenhouses.html
+48,Minns Garden between Plant Sciences and Weill Hall,None,34,0,42.44779722222222,-76.47765813159212,http://cumedia.univcomm.cornell.edu/tour2/Minns_Garden.html
+49,R. Uris Garden,None,248,-15,42.44777431111604,-76.4819206774539,http://cumedia.univcomm.cornell.edu/tour2/R_Uris_Garden.html
+50,"Mews Hall, North Campus",None,80,4,42.45460511001311,-76.47673473327679,http://cumedia.univcomm.cornell.edu/tour2/Mews_Hall.html
+51,Malott,None,242,7,42.44783705053268,-76.48031202288715,http://cumedia.univcomm.cornell.edu/tour2/Malott.html
+52,Big Red Barn Tree,None,353,15,42.44815435882187,-76.48125384748863,http://cumedia.univcomm.cornell.edu/tour2/Big_Red_Barn_Tree.html
+53,Duffield Hall (Exterior),None,299,6,42.44488751877613,-76.48304035336957,http://cumedia.univcomm.cornell.edu/tour2/Duffield_Hall_Ext.html
+54,Duffield Hall (Interior),None,316,-15,42.44465014550562,-76.48267492977675,http://cumedia.univcomm.cornell.edu/tour2/Duffield_Hall_Int.html
+55,"Spacecraft Planetary Imaging Facility (SPIF), Space Sciences Building",None,355,-5,42.448906,-76.481235,http://cumedia.univcomm.cornell.edu/tour2/SPIF.html
+56,College Ave. Bridge,None,347,20,42.443071,-76.485749,http://cumedia.univcomm.cornell.edu/tour2/CollegeAveArch.html
+57,Cascadilla Gorge,None,113,-13,42.442558,-76.481433,http://cumedia.univcomm.cornell.edu/tour2/CascadillaGorge.html
+58,Olin Library Cherry Trees,None,283,11,42.447518,-76.484164,http://cumedia.univcomm.cornell.edu/tour2/Cherry_Trees.html
+59,Rhodes Hall,None,114,53,42.443103,-76.480638,http://cumedia.univcomm.cornell.edu/tour2/Theory_Center.html
+62,Duffield Clean Room #1,Engineering,0,0,42.444719,-76.482702,http://cumedia.univcomm.cornell.edu/tour2/DuffieldCleanRoom1.html
+68,Duffield Colloquium Room balcony,Engineering,0,0,42.444919,-76.482914,http://cumedia.univcomm.cornell.edu/tour2/DuffieldBalcony.html
+70,Collegetown Campus Entrance,Engineering,0,0,42.442668,-76.485081,http://cumedia.univcomm.cornell.edu/tour2/Collegetown.html
+71,Duffield Atrium,Engineering,0,0,42.444445,-76.482788,http://cumedia.univcomm.cornell.edu/tour2/DuffieldEntry.html
+72,George F. Brown Jr. Network for Earthquake Engineering Simulation,Engineering,0,0,42.443852,-76.483743,http://cumedia.univcomm.cornell.edu/tour2/EarthquakeSimulator.html
+76,Emerson Manufacturing Teaching Lab,Engineering,0,0,42.443225,-76.48115,http://cumedia.univcomm.cornell.edu/tour2/DuffieldLab.html
+74,"Timothy N. Heasky Mineraelogy Museum, Snee Hall",Engineering,0,0,42.443646,-76.485041,http://cumedia.univcomm.cornell.edu/tour2/GemCollection.html
+75,Teaching Area in Hydrology Lab,Engineering,0,0,42.44401,-76.484695,http://cumedia.univcomm.cornell.edu/tour2/Hydrology.html
+73,Duffield Schlom Oxide Molecular Beam Epitaxy Lab,Engineering,0,0,42.444887,-76.48271,http://cumedia.univcomm.cornell.edu/tour2/RhodesFab.html
+78,"Seismology Display, Snee Hall",Engineering,0,0,42.443535,-76.484872,http://cumedia.univcomm.cornell.edu/tour2/Seismology.html
+80,Water Tank in Hydrology Lab,Engineering,0,0,42.44401,-76.484695,http://cumedia.univcomm.cornell.edu/tour2/Hydraulics.html
+77,Rock Garden on Engineering Quad,Engineering,0,0,42.444173,-76.483898,http://cumedia.univcomm.cornell.edu/tour2/RockGarden.html
+79,Sundial on Engineering Quad,Engineering,0,0,42.444876,-76.483633,http://cumedia.univcomm.cornell.edu/tour2/Sundial.html
+81,C2C Bus - North Campus,C2C,334,0,42.457191,-76.478483,http://cumedia.univcomm.cornell.edu/tour2/C2Cnorth.html
+93,Tulip Tree Between Day Hall and Olin Library,None,0,0,42.447297,-76.483798,http://cumedia.univcomm.cornell.edu/tour2/TulipTree.html
+91,Costume Shop,CESR,112,-5,42.4425,-76.486,http://cumedia.univcomm.cornell.edu/tour2/CostumeShop.html
+84,Cyclotron View 1,CESR,168,-12,42.445,-76.4729,http://cumedia.univcomm.cornell.edu/tour2/Cyclotron_Node1a.html

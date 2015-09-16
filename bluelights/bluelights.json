@@ -1,0 +1,667 @@
+[
+  {
+    "Name":"Olin Library, SE Corner by Stimson Hall",
+    "Latitude":42.447584928,
+    "Longitude":"-76.483647252"
+  },
+  {
+    "Name":"Day Hall, Directory",
+    "Latitude":42.447453982,
+    "Longitude":"-76.483003121"
+  },
+  {
+    "Name":"Ives, Catherwood Plaza, along Tower Rd.",
+    "Latitude":42.447455719,
+    "Longitude":"-76.481188592"
+  },
+  {
+    "Name":"Carpenter Hall, Directory",
+    "Latitude":42.445040305,
+    "Longitude":"-76.483936921"
+  },
+  {
+    "Name":"Barton Hall, SW Corner",
+    "Latitude":42.445115575,
+    "Longitude":"-76.481696296"
+  },
+  {
+    "Name":"Barton Hall, SE Corner",
+    "Latitude":42.445362342,
+    "Longitude":"-76.479957514"
+  },
+  {
+    "Name":"Bard Hall, SW Corner, Footbridge",
+    "Latitude":42.443595329,
+    "Longitude":"-76.4841081"
+  },
+  {
+    "Name":"Kite Hill, East of Stadium",
+    "Latitude":42.444099886,
+    "Longitude":"-76.476635428"
+  },
+  {
+    "Name":"Schoelkopf Field, Portal-X",
+    "Latitude":42.445133444,
+    "Longitude":"-76.478120101"
+  },
+  {
+    "Name":"Riley-Robb Hall, SW Corner",
+    "Latitude":42.445604378,
+    "Longitude":"-76.471783548"
+  },
+  {
+    "Name":"Judd Falls & Campus Rd. (Morrison Lot)",
+    "Latitude":42.445401397,
+    "Longitude":"-76.469406589"
+  },
+  {
+    "Name":"Tower Rd. Extension, Directory",
+    "Latitude":42.445565087,
+    "Longitude":"-76.465264746"
+  },
+  {
+    "Name":"B Lot, SE Bus Stop",
+    "Latitude":42.446398415,
+    "Longitude":"-76.462027382"
+  },
+  {
+    "Name":"Vet School, Annex, `T? Barn, East Side",
+    "Latitude":42.448094766,
+    "Longitude":"-76.463416392"
+  },
+  {
+    "Name":"Tower Rd., South of Peterson Lot",
+    "Latitude":42.447635313,
+    "Longitude":"-76.470465415"
+  },
+  {
+    "Name":"Traffic Booth #2, Pull-Off, by Stocking",
+    "Latitude":42.447754822,
+    "Longitude":"-76.472373926"
+  },
+  {
+    "Name":"Fernow Hall, North Side on Bldg.",
+    "Latitude":42.448531452,
+    "Longitude":"-76.475224172"
+  },
+  {
+    "Name":"Alumni Field, Parking Lot",
+    "Latitude":42.447390884,
+    "Longitude":"-76.476096935"
+  },
+  {
+    "Name":"Plant Science Greenhouses, Tower Rd.",
+    "Latitude":42.447668708,
+    "Longitude":"-76.476249214"
+  },
+  {
+    "Name":"Suspension Bridge, South End",
+    "Latitude":42.451644914,
+    "Longitude":"-76.486095773"
+  },
+  {
+    "Name":"Lincoln Hall, SW Corner",
+    "Latitude":42.449851963,
+    "Longitude":"-76.483757893"
+  },
+  {
+    "Name":"Morrill Hall, NW Corner",
+    "Latitude":42.448875118,
+    "Longitude":"-76.485545258"
+  },
+  {
+    "Name":"Plant Science, NW Corner, on Ag Quad",
+    "Latitude":42.448461983,
+    "Longitude":"-76.47785005"
+  },
+  {
+    "Name":"Martha Van Rensselaer Hall, NW Corner",
+    "Latitude":42.450071432,
+    "Longitude":"-76.479428781"
+  },
+  {
+    "Name":"Beebe Lake, West End, South Side",
+    "Latitude":42.451528442,
+    "Longitude":"-76.479936213"
+  },
+  {
+    "Name":"Alumni House, Directory",
+    "Latitude":42.452020448,
+    "Longitude":"-76.481126828"
+  },
+  {
+    "Name":"Dickson Hall, Courtyard (near Balch)",
+    "Latitude":42.454166682,
+    "Longitude":"-76.479119727"
+  },
+  {
+    "Name":"North Campus #1, East Side",
+    "Latitude":42.45554659,
+    "Longitude":"-76.477884308"
+  },
+  {
+    "Name":"A Lot, East Bus Stop",
+    "Latitude":42.458159848,
+    "Longitude":"-76.475361433"
+  },
+  {
+    "Name":"Jessup Rd. & Triphammer Rd., Bus Stop",
+    "Latitude":42.456373462,
+    "Longitude":"-76.481247609"
+  },
+  {
+    "Name":"Arts Quad, Northeast, near Lincoln Hall",
+    "Latitude":42.450745966,
+    "Longitude":"-76.48359225"
+  },
+  {
+    "Name":"Foundry, South Side of Building",
+    "Latitude":42.451445788,
+    "Longitude":"-76.483779423"
+  },
+  {
+    "Name":"North Central & University Ave.",
+    "Latitude":42.451340958,
+    "Longitude":"-76.485841643"
+  },
+  {
+    "Name":"Stewart Ave. & Edgemoor Lane",
+    "Latitude":42.443925736,
+    "Longitude":"-76.488572238"
+  },
+  {
+    "Name":"Hughes Hall, Lower Parking Lot",
+    "Latitude":42.444124118,
+    "Longitude":"-76.486920343"
+  },
+  {
+    "Name":"Hughes Hall, South Walkway, by Dining",
+    "Latitude":42.443540064,
+    "Longitude":"-76.486172462"
+  },
+  {
+    "Name":"Performing Arts Center,Cascadilla Brdg.",
+    "Latitude":42.442848294,
+    "Longitude":"-76.485306038"
+  },
+  {
+    "Name":"Cascadilla Hall, SE Corner",
+    "Latitude":42.442340002,
+    "Longitude":"-76.486435461"
+  },
+  {
+    "Name":"Africana Studies, 310 Triphammer Rd.",
+    "Latitude":42.457760086,
+    "Longitude":"-76.482041173"
+  },
+  {
+    "Name":"A Lot, West Bus Stop",
+    "Latitude":42.458051767,
+    "Longitude":"-76.477238902"
+  },
+  {
+    "Name":"Wait Ave.",
+    "Latitude":42.453917841,
+    "Longitude":"-76.48073572"
+  },
+  {
+    "Name":"Triphammer Rd. and Sisson Place",
+    "Latitude":42.455056043,
+    "Longitude":"-76.480703424"
+  },
+  {
+    "Name":"Mews, North End",
+    "Latitude":42.454943501,
+    "Longitude":"-76.476527245"
+  },
+  {
+    "Name":"NW CRNR Helen Newman /Cradit Farm Dr.",
+    "Latitude":42.453163181,
+    "Longitude":"-76.478240464"
+  },
+  {
+    "Name":"Feurtes Observatory, South Side",
+    "Latitude":42.452626526,
+    "Longitude":"-76.474650521"
+  },
+  {
+    "Name":"Mews, Southeast",
+    "Latitude":42.454007076,
+    "Longitude":"-76.476343948"
+  },
+  {
+    "Name":"Cradit Farm Drive, East",
+    "Latitude":42.455502869,
+    "Longitude":"-76.473997615"
+  },
+  {
+    "Name":"Hasbrouck Apartments, By 0301",
+    "Latitude":42.456217541,
+    "Longitude":"-76.472958085"
+  },
+  {
+    "Name":"Hasbrouck Apartments, By 1601",
+    "Latitude":42.456991804,
+    "Longitude":"-76.472431162"
+  },
+  {
+    "Name":"Hasbrouck Apartments, By Laundry",
+    "Latitude":42.456471998,
+    "Longitude":"-76.471513446"
+  },
+  {
+    "Name":"Hasbrouck Apartments, By 2201",
+    "Latitude":42.455557888,
+    "Longitude":"-76.471735681"
+  },
+  {
+    "Name":"BTI Parking Lot East End",
+    "Latitude":42.446452535,
+    "Longitude":"-76.466556482"
+  },
+  {
+    "Name":"Plantations Rd. & Forest Home Drive",
+    "Latitude":42.449383672,
+    "Longitude":"-76.474102333"
+  },
+  {
+    "Name":"Beebe Hall Exterior,1st floor level northeast cor*",
+    "Latitude":42.449041782,
+    "Longitude":"-76.474085557"
+  },
+  {
+    "Name":"Rice Hall  Dr NEast End",
+    "Latitude":42.44823241,
+    "Longitude":"-76.473717651"
+  },
+  {
+    "Name":"Mann Library, Northwest on Path",
+    "Latitude":42.449312826,
+    "Longitude":"-76.476184009"
+  },
+  {
+    "Name":"Forest Home Drive by MVR",
+    "Latitude":42.450828713,
+    "Longitude":"-76.479525626"
+  },
+  {
+    "Name":"Ho Plaza",
+    "Latitude":42.447029414,
+    "Longitude":"-76.484965653"
+  },
+  {
+    "Name":"Tower Rd. & Garden Ave., SW Corner",
+    "Latitude":42.447510586,
+    "Longitude":"-76.479872097"
+  },
+  {
+    "Name":"McGraw Place, 103 - Watermargin",
+    "Latitude":42.449797271,
+    "Longitude":"-76.488020638"
+  },
+  {
+    "Name":"Carl Becker House Breezeway",
+    "Latitude":42.448579446,
+    "Longitude":"-76.489644704"
+  },
+  {
+    "Name":"Stewart & University Aves.",
+    "Latitude":42.449082004,
+    "Longitude":"-76.490272735"
+  },
+  {
+    "Name":"VonCramm, along University Ave.",
+    "Latitude":42.449225852,
+    "Longitude":"-76.491121524"
+  },
+  {
+    "Name":"Southeast Corner University Av  Parking Lot",
+    "Latitude":42.448159041,
+    "Longitude":"-76.491968825"
+  },
+  {
+    "Name":"Stewart & Williams Parking Lot",
+    "Latitude":42.442981477,
+    "Longitude":"-76.489253213"
+  },
+  {
+    "Name":"Gannett Clinic, Emergency Door",
+    "Latitude":42.445724848,
+    "Longitude":"-76.485631961"
+  },
+  {
+    "Name":"Parking Garage, Level 1, North End",
+    "Latitude":42.443711349,
+    "Longitude":"-76.479420409"
+  },
+  {
+    "Name":"Parking Garage, Level 2, North End",
+    "Latitude":42.443711349,
+    "Longitude":"-76.479420409"
+  },
+  {
+    "Name":"Parking Garage, Level 3, North End",
+    "Latitude":42.443711349,
+    "Longitude":"-76.479420409"
+  },
+  {
+    "Name":"Parking Garage, Level 4, North End",
+    "Latitude":42.443711349,
+    "Longitude":"-76.479420409"
+  },
+  {
+    "Name":"Cascadilla Gorge, Tennis Court",
+    "Latitude":42.442579838,
+    "Longitude":"-76.480880195"
+  },
+  {
+    "Name":"Maplewood Apartments, North",
+    "Latitude":42.441090573,
+    "Longitude":"-76.474576089"
+  },
+  {
+    "Name":"120 Maple Ave., Northeast Corner",
+    "Latitude":42.441674316,
+    "Longitude":"-76.475588426"
+  },
+  {
+    "Name":"Corner of Route 366 & Pine Tree Rd",
+    "Latitude":42.443832998,
+    "Longitude":"-76.470597756"
+  },
+  {
+    "Name":"Beebe Lake, East End at Stone Bridge",
+    "Latitude":42.451829018,
+    "Longitude":"-76.473283353"
+  },
+  {
+    "Name":"South of Bethe House near Forest Park Lane",
+    "Latitude":42.446712722,
+    "Longitude":"-76.48844991"
+  },
+  {
+    "Name":"Behind McFaddin/off the NE Corner of Bethe Hse",
+    "Latitude":42.447175022,
+    "Longitude":"-76.488349681"
+  },
+  {
+    "Name":"West Ave. at Lyon Hall",
+    "Latitude":42.447844638,
+    "Longitude":"-76.48774243"
+  },
+  {
+    "Name":"Stewart Ave.West of Carl Becker House",
+    "Latitude":42.447819048,
+    "Longitude":"-76.490208625"
+  },
+  {
+    "Name":"Stewart Av. walkway near 640 Stewart",
+    "Latitude":42.447851692,
+    "Longitude":"-76.490496679"
+  },
+  {
+    "Name":"Northeast Corner University Av  Parking Lot",
+    "Latitude":42.449062796,
+    "Longitude":"-76.491736023"
+  },
+  {
+    "Name":"Carl Becker House East Quad",
+    "Latitude":42.448376362,
+    "Longitude":"-76.489342596"
+  },
+  {
+    "Name":"Parking Garage, Level 1, South End",
+    "Latitude":42.444563331,
+    "Longitude":"-76.479420153"
+  },
+  {
+    "Name":"Parking Garage, Level 2, South End",
+    "Latitude":42.444563331,
+    "Longitude":"-76.479420153"
+  },
+  {
+    "Name":"Parking Garage, Level 3, South End",
+    "Latitude":42.444563331,
+    "Longitude":"-76.479420153"
+  },
+  {
+    "Name":"Parking Garage, Level 4, South End",
+    "Latitude":42.444563331,
+    "Longitude":"-76.479420153"
+  },
+  {
+    "Name":"Townhouse D, SE Corner",
+    "Latitude":42.457150889,
+    "Longitude":"-76.476761028"
+  },
+  {
+    "Name":"State Fleet Garage, On Wall by Entrance",
+    "Latitude":42.451298117,
+    "Longitude":"-76.450059576"
+  },
+  {
+    "Name":"Barton Hall, CUP Division Lot",
+    "Latitude":42.446289745,
+    "Longitude":"-76.481064294"
+  },
+  {
+    "Name":"Bard Hall, NW corner",
+    "Latitude":42.444157392,
+    "Longitude":"-76.484191046"
+  },
+  {
+    "Name":"Campus Rd & West Ave in Front of Noyes Center",
+    "Latitude":42.446422995,
+    "Longitude":"-76.487538242"
+  },
+  {
+    "Name":"New Noyes Cntr Basketball Court SW Corner",
+    "Latitude":42.445925753,
+    "Longitude":"-76.488005734"
+  },
+  {
+    "Name":"Trolley Bridge",
+    "Latitude":42.443154716,
+    "Longitude":"-76.484239559"
+  },
+  {
+    "Name":"Parking Garage 5th Floor North",
+    "Latitude":42.444563331,
+    "Longitude":"-76.479420153"
+  },
+  {
+    "Name":"Parking Garage 5th Floor South",
+    "Latitude":42.443711349,
+    "Longitude":"-76.479420409"
+  },
+  {
+    "Name":"Cradit Farm Drive near tennis courts",
+    "Latitude":42.453376581,
+    "Longitude":"-76.473771264"
+  },
+  {
+    "Name":"Appel Community Commons Lot",
+    "Latitude":42.453786295,
+    "Longitude":"-76.474449283"
+  },
+  {
+    "Name":"Mann Library, Northeast on Path",
+    "Latitude":42.448903014,
+    "Longitude":"-76.475110662"
+  },
+  {
+    "Name":"Equestrian Center",
+    "Latitude":42.434094747,
+    "Longitude":"-76.463957594"
+  },
+  {
+    "Name":"McGovern Fields Game Farm Rd",
+    "Latitude":42.438120118,
+    "Longitude":"-76.451123091"
+  },
+  {
+    "Name":"Maplewoods Apartments, South",
+    "Latitude":42.437941049,
+    "Longitude":"-76.472145365"
+  },
+  {
+    "Name":"Maplewood Apartments, Middle",
+    "Latitude":42.439539277,
+    "Longitude":"-76.473364834"
+  },
+  {
+    "Name":"Rhodes Hall, Southeast Corner",
+    "Latitude":42.443010265,
+    "Longitude":"-76.480392741"
+  },
+  {
+    "Name":"Gothics Way",
+    "Latitude":42.448740459,
+    "Longitude":"-76.48918267"
+  },
+  {
+    "Name":"Old Oxley Parking Lot West",
+    "Latitude":42.44440088,
+    "Longitude":"-76.473781209"
+  },
+  {
+    "Name":"Tower Rd Outside VRT/ECRF",
+    "Latitude":42.447143864,
+    "Longitude":"-76.466543545"
+  },
+  {
+    "Name":"VMC/ECRF Loading dock",
+    "Latitude":42.44665289,
+    "Longitude":"-76.465492711"
+  },
+  {
+    "Name":"Upson Hall Southwest Corner",
+    "Latitude":42.443721719,
+    "Longitude":"-76.482994952"
+  },
+  {
+    "Name":"Beebe Hall Exterior,2nd level southeast corner of*",
+    "Latitude":42.448827398,
+    "Longitude":"-76.474105399"
+  },
+  {
+    "Name":"Snyder Hill North of Wildlife Bld",
+    "Latitude":42.427405888,
+    "Longitude":"-76.453191833"
+  },
+  {
+    "Name":"West side of Baker Institute",
+    "Latitude":42.428319329,
+    "Longitude":"-76.454295745"
+  },
+  {
+    "Name":"Flora Rose east side/ west of Mennon",
+    "Latitude":42.447918457,
+    "Longitude":"-76.488171183"
+  },
+  {
+    "Name":"Flora Rose Pavilion West",
+    "Latitude":42.447898939,
+    "Longitude":"-76.488913645"
+  },
+  {
+    "Name":"Keaton House NW corner",
+    "Latitude":42.447264363,
+    "Longitude":"-76.489923753"
+  },
+  {
+    "Name":"East side Stewart Ave At Cornell St.",
+    "Latitude":42.446259157,
+    "Longitude":"-76.490067953"
+  },
+  {
+    "Name":"North end Maryann Wood Dr.",
+    "Latitude":42.446349108,
+    "Longitude":"-76.489282933"
+  },
+  {
+    "Name":"Ornithology Overflow lot or the Hawk Barn Lot",
+    "Latitude":42.481921613,
+    "Longitude":"-76.449038308"
+  },
+  {
+    "Name":"Ornithology Staff Lot/ Boardwalk Parragon Lot",
+    "Latitude":42.480528431,
+    "Longitude":"-76.449446866"
+  },
+  {
+    "Name":"Ornithology Handicap Lot/ SE Parking Lot",
+    "Latitude":42.479857863,
+    "Longitude":"-76.450270259"
+  },
+  {
+    "Name":"Phillips, Exterior  Loading Dock",
+    "Latitude":42.444384479,
+    "Longitude":"-76.482017138"
+  },
+  {
+    "Name":"NW Corner by Lynah",
+    "Latitude":42.446077982,
+    "Longitude":"-76.477922362"
+  },
+  {
+    "Name":"HEB NE driveway",
+    "Latitude":42.450689501,
+    "Longitude":"-76.477987009"
+  },
+  {
+    "Name":"Physical Science Bld",
+    "Latitude":42.448752595,
+    "Longitude":"-76.482097654"
+  },
+  {
+    "Name":"MVR Parking Garage-2nd level east",
+    "Latitude":42.450583562,
+    "Longitude":"-76.478142448"
+  },
+  {
+    "Name":"MVR Parking Garage-2nd level west",
+    "Latitude":42.450639243,
+    "Longitude":"-76.478927591"
+  },
+  {
+    "Name":"MVR Parking Garage- 1st Level west",
+    "Latitude":42.450589806,
+    "Longitude":"-76.478879503"
+  },
+  {
+    "Name":"MVR Parking Garage-3rd level west",
+    "Latitude":42.450589806,
+    "Longitude":"-76.478879503"
+  },
+  {
+    "Name":"MVR parking Garage-1st level east",
+    "Latitude":42.450665117,
+    "Longitude":"-76.478213303"
+  },
+  {
+    "Name":"MVR Parking Garage-3rd level east",
+    "Latitude":42.45067117,
+    "Longitude":"-76.478139986"
+  },
+  {
+    "Name":"Plantation Welcome Center",
+    "Latitude":42.449154196,
+    "Longitude":"-76.473089718"
+  },
+  {
+    "Name":"NYS Vet Diagonstic Lab",
+    "Latitude":42.448538669,
+    "Longitude":"-76.46373323"
+  },
+  {
+    "Name":"Suspension Bridge,North End",
+    "Latitude":42.452446156,
+    "Longitude":"-76.486061779"
+  },
+  {
+    "Name":"Upper Stewart Ave Bridge over Fall Creek",
+    "Latitude":42.452045508,
+    "Longitude":"-76.489753192\""
+  }
+]

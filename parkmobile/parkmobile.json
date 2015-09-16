@@ -1,0 +1,202 @@
+[
+  {
+    "ID":4101,
+    "Name":"University Avenue",
+    "Latitude":42.448629,
+    "Longitude":-76.492116,
+    "Address":"467-575 University Ave",
+    "Notes":"Hourly rate:   $.75 (max.: 8 hours)<br />Daily rate: $6 (max.: 7 days)<br />Rate Days: Mon-Sun<br />Hours: 12:00am - 11:59pm<br />Day Rate Exp.: Next Day at 7:30"
+  },
+  {
+    "ID":4102,
+    "Name":"Stewart and Williams",
+    "Latitude":42.442699,
+    "Longitude":-76.489359,
+    "Address":"415 Stewart Ave",
+    "Notes":"Hourly rate:   $.75 (max.: 8 hours)<br />Daily rate: $6 (max.: 7 days)<br />Rate Days: Mon-Sun<br />Hours: 12:00am - 11:59pm<br />Day Rate Exp.: Next Day at 7:30"
+  },
+  {
+    "ID":4103,
+    "Name":"Anna Comstock",
+    "Latitude":42.45433,
+    "Longitude":-76.482407,
+    "Address":"Kelvin Pl",
+    "Notes":"Hourly rate:   $.75 (max.: 8 hours)<br />Daily rate: $6 (max.: 7 days)<br />Rate Days: Mon-Sun<br />Hours: 12:00am - 11:59pm<br />Day Rate Exp.: Next Day at 7:30"
+  },
+  {
+    "ID":4104,
+    "Name":"CC Lot",
+    "Latitude":42.456244,
+    "Longitude":-76.479092,
+    "Address":"Jessup Rd",
+    "Notes":"Hourly rate:   $.75 (max.: 8 hours)<br />Daily rate: $6 (max.: 7 days)<br />Rate Days: Mon-Sun<br />Hours: 12:00am - 11:59pm<br />Day Rate Exp.: Next Day at 7:30"
+  },
+  {
+    "ID":4105,
+    "Name":"Hurlburt House",
+    "Latitude":42.458278,
+    "Longitude":-76.483748,
+    "Address":"111 Country Club Rd",
+    "Notes":"Hourly rate:   $.75 (max.: 8 hours)<br />Daily rate: $6 (max.: 7 days)<br />Rate Days: Mon-Sun<br />Hours: 12:00am - 11:59pm<br />Day Rate Exp.: Next Day at 7:30"
+  },
+  {
+    "ID":4106,
+    "Name":"Hasbrouck Apartments",
+    "Latitude":42.455921,
+    "Longitude":-76.47148,
+    "Address":"2205 Hasbrouck Cir",
+    "Notes":"Hourly rate:   $.75 (max.: 8 hours)<br />Daily rate: $6 (max.: 7 days)<br />Rate Days: Mon-Sun<br />Hours: 12:00am - 11:59pm<br />Day Rate Exp.: Next Day at 7:30"
+  },
+  {
+    "ID":4107,
+    "Name":"Maplewood Apartments/Maplewood Main",
+    "Latitude":42.440173,
+    "Longitude":-76.473652,
+    "Address":"Veteran's Pl",
+    "Notes":"Hourly rate:   $.75 (max.: 8 hours)<br />Daily rate: $6 (max.: 7 days)<br />Rate Days: Mon-Sun<br />Hours: 12:00am - 11:59pm<br />Day Rate Exp.: Next Day at 7:30"
+  },
+  {
+    "ID":4108,
+    "Name":"TRB Lot",
+    "Latitude":42.445169,
+    "Longitude":-76.466281,
+    "Address":"New York 366",
+    "Notes":"Hourly rate:   $.75 (max.: 8 hours)<br />Daily rate: $6 (max.: 3 days)<br />Rate Days: Mon-Fri<br />Hours: 07:30am - 05:00pm<br />Day Rate Exp.: Next Day at 7:30"
+  },
+  {
+    "ID":4109,
+    "Name":"East Hill Office Building",
+    "Latitude":42.439342,
+    "Longitude":-76.463728,
+    "Address":"395 Pine Tree Rd",
+    "Notes":"Hourly rate:   $.75 (max.: 8 hours)<br />Daily rate: $6 (max.: 3 days)<br />Rate Days: Mon-Fri<br />Hours: 07:30am - 05:00pm<br />Day Rate Exp.: Next Day at 7:30"
+  },
+  {
+    "ID":4110,
+    "Name":"CISER",
+    "Latitude":42.439563,
+    "Longitude":-76.465681,
+    "Address":"391 Pine Tree Rd",
+    "Notes":"Hourly rate:   $.75 (max.: 8 hours)<br />Daily rate: $6 (max.: 3 days)<br />Rate Days: Mon-Fri<br />Hours: 07:30am - 05:00pm<br />Day Rate Exp.: Next Day at 7:30"
+  },
+  {
+    "ID":4111,
+    "Name":"Dywer Dam Lot",
+    "Latitude":42.443997,
+    "Longitude":-76.474392,
+    "Address":"644-684 Dryden Rd",
+    "Notes":"Hourly rate:   $.75 (max.: 8 hours)<br />Daily rate: $6 (max.: 3 days)<br />Rate Days: Mon-Fri<br />Hours: 07:30am - 05:00pm<br />Day Rate Exp.: Next Day at 7:30"
+  },
+  {
+    "ID":4112,
+    "Name":"Friedman Visitor Lot",
+    "Latitude":42.445929,
+    "Longitude":-76.474682,
+    "Address":"Campus Rd",
+    "Notes":"Hourly rate:  $1.50 (max.: 8 hours)<br />Daily rate: $10 (max.: 1 day)<br />Rate Days: Mon-Fri<br />Hours: 07:30am - 05:00pm<br />Day Rate Exp.: Next Day at 7:30"
+  },
+  {
+    "ID":4112,
+    "Name":"Friedman Visitor Lot",
+    "Latitude":42.445929,
+    "Longitude":-76.474682,
+    "Address":"Campus Rd",
+    "Notes":"Hourly rate:  $1.50 (max.: 8 hours)<br />Daily rate: $10 (max.: 1 day)<br />Rate Days: Mon-Fri<br />Hours: 07:30am - 05:00pm<br />Day Rate Exp.: Next Day at 7:30"
+  },
+  {
+    "ID":4113,
+    "Name":"West Avenue",
+    "Latitude":42.448692,
+    "Longitude":-76.487573,
+    "Address":"240 West Ave",
+    "Notes":"Hourly rate:  $1.50 (max.: 8 hours)<br />Daily rate: $10 (max.: 1 day)<br />Rate Days: Mon-Fri<br />Hours: 07:30am - 05:00pm<br />Day Rate Exp.: Next Day at 7:30"
+  },
+  {
+    "ID":4114,
+    "Name":"Toboggan Lodge",
+    "Latitude":42.451091,
+    "Longitude":-76.478673,
+    "Address":"38 Forest Home Drive",
+    "Notes":"Hourly rate:  $1.50 (max.: 8 hours)<br />Daily rate: $10 (max.: 1 day)<br />Rate Days: Mon-Fri<br />Hours: 07:30am - 05:00pm<br />Day Rate Exp.: Next Day at 7:30"
+  },
+  {
+    "ID":4115,
+    "Name":"B Lot",
+    "Latitude":42.44623,
+    "Longitude":-76.463642,
+    "Address":"930 Campus Rd",
+    "Notes":"Hourly rate:   $.75 (max.: 8 hours)<br />Daily rate: $6 (max.: 14 days)<br />Rate Days: Mon-Fri<br />Hours: 07:30am - 05:00pm"
+  },
+  {
+    "ID":4115,
+    "Name":"B Lot",
+    "Latitude":42.44623,
+    "Longitude":-76.463642,
+    "Address":"930 Campus Rd",
+    "Notes":"Hourly rate:   $.75 (max.: 8 hours)<br />Daily rate: $6 (max.: 14 days)<br />Rate Days: Mon-Fri<br />Hours: 07:30am - 05:00pm"
+  },
+  {
+    "ID":4116,
+    "Name":"Schuyler House",
+    "Latitude":42.44007,
+    "Longitude":-76.49129,
+    "Address":"100-160 Sage Pl",
+    "Notes":"Hourly rate:   $.75 (max.: 8 hours)<br />Daily rate: $6 (max.: 7 days)<br />Rate Days: Mon-Sun<br />Hours: 07:30am - 10:00pm<br />Day Rate Exp.: Next Day at 7:30"
+  },
+  {
+    "ID":4117,
+    "Name":"Thurston Court Apts.",
+    "Latitude":42.453603,
+    "Longitude":-76.486902,
+    "Address":"223 Thurston Ave",
+    "Notes":"Hourly rate:   $.75 (max.: 8 hours)<br />Daily rate: $6 (max.: 7 days)<br />Rate Days: Mon-Sun<br />Hours: 07:30am - 10:00pm<br />Day Rate Exp.: Next Day at 7:30"
+  },
+  {
+    "ID":4119,
+    "Name":"Alumni House North Campus",
+    "Latitude":42.45215,
+    "Longitude":-76.480996,
+    "Address":"Thurston Ave",
+    "Notes":"Hourly rate:  $1.50 (max.: 8 hours)<br />Daily rate: $10 (max.: 1 day)<br />Rate Days: Mon-Fri<br />Hours: 07:30am - 05:00pm<br />Day Rate Exp.: Next Day at 7:30"
+  },
+  {
+    "ID":4120,
+    "Name":"Cornell Plantations Nevin Welcome Center",
+    "Latitude":42.44873,
+    "Longitude":-76.472638,
+    "Address":"",
+    "Notes":"Hourly rate:  $1.50 (max.: 3 hours)<br />Daily rate: $3 (max.: 0 day)<br />Rate Days: Mon-Fri<br />Hours: 07:30am - 05:00pm<br />Notes: 1st hour is Free"
+  },
+  {
+    "ID":4121,
+    "Name":"Hoy South Lot (Hoy Road; adjacent to garage)",
+    "Latitude":42.443514,
+    "Longitude":-76.480111,
+    "Address":"Hoy Road",
+    "Notes":"Hourly rate:  $1.50 (max.: 8 hours)<br />Daily rate: $10 (max.: 1 day)<br />Rate Days: Mon-Fri<br />Hours: 07:30am - 05:00pm<br />Day Rate Exp.: Next Day at 7:30"
+  },
+  {
+    "ID":4122,
+    "Name":"Peterson Lot",
+    "Latitude":42.448017,
+    "Longitude":-76.470471,
+    "Address":"Tower Road",
+    "Notes":"Hourly rate:  $1.50 (max.: 8 hours)<br />Daily rate: $10 (max.: 1 day)<br />Rate Days: Mon-Fri<br />Hours: 07:30am - 05:00pm<br />Day Rate Exp.: Next Day at 7:30"
+  },
+  {
+    "ID":4124,
+    "Name":"Appel Commons Lot North Campus",
+    "Latitude":42.45366,
+    "Longitude":-76.475047,
+    "Address":"Pleasant Grove Rd",
+    "Notes":"Hourly rate:  $1.00 (max.: 10 hours)<br />Daily rate: $10 (max.: 1 day)<br />Rate Days: Mon-Fri<br />Hours: 07:30am - 05:00pm<br />Day Rate Exp.: Next Day at 7:30"
+  },
+  {
+    "ID":4123,
+    "Name":"Willard Straight Hall/Gannett Health Central Campus",
+    "Latitude":42.446456,
+    "Longitude":-76.48609,
+    "Address":"Campus Rd",
+    "Notes":"Hourly rate:  $1.50 (max.: 2 hours)<br />Daily rate: $3 (max.: 0 day)<br />Rate Days: Mon-Fri<br />Hours: 07:30am - 05:00pm"
+  }
+]

@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document><Folder><name>csv_20150916031116</name>
+<Schema name="csv_20150916031116" id="csv_20150916031116">
+	<SimpleField name="Name" type="string"></SimpleField>
+	<SimpleField name="Description" type="string"></SimpleField>
+	<SimpleField name="Latitude" type="string"></SimpleField>
+	<SimpleField name="Longitude" type="string"></SimpleField>
+</Schema>
+  <Placemark>
+	<name>Statler Hall / School of Hotel Administration, Second floor.</name>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150916031116">
+		<SimpleData name="Name">Statler Hall / School of Hotel Administration, Second floor.</SimpleData>
+		<SimpleData name="Latitude">42.44577564390459</SimpleData>
+		<SimpleData name="Longitude">-76.48215481743551</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.482154817435514,42.445775643904589</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bill and Melinda Gates Hall, Room 419</name>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150916031116">
+		<SimpleData name="Name">Bill and Melinda Gates Hall, Room 419</SimpleData>
+		<SimpleData name="Latitude">42.44495</SimpleData>
+		<SimpleData name="Longitude">-76.480807</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.480807,42.44495</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Warren Hall, Room 371</name>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150916031116">
+		<SimpleData name="Name">Warren Hall, Room 371</SimpleData>
+		<SimpleData name="Latitude">42.449213</SimpleData>
+		<SimpleData name="Longitude">-76.477098</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.477098,42.449213</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Myron Taylor Hall, Room 179</name>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150916031116">
+		<SimpleData name="Name">Myron Taylor Hall, Room 179</SimpleData>
+		<SimpleData name="Latitude">42.444024</SimpleData>
+		<SimpleData name="Longitude">-76.485592</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.485592,42.444024</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bruckner Hall, Room 206</name>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150916031116">
+		<SimpleData name="Name">Bruckner Hall, Room 206</SimpleData>
+		<SimpleData name="Latitude">42.448324</SimpleData>
+		<SimpleData name="Longitude">-76.47407699999999</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.474077,42.448324</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Flora Rose House, (no room number)</name>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150916031116">
+		<SimpleData name="Name">Flora Rose House, (no room number)</SimpleData>
+		<SimpleData name="Latitude">42.447773</SimpleData>
+		<SimpleData name="Longitude">-76.48885</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.48885,42.447773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Humphreys Service Building, Room 132A</name>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150916031116">
+		<SimpleData name="Name">Humphreys Service Building, Room 132A</SimpleData>
+		<SimpleData name="Latitude">42.442704</SimpleData>
+		<SimpleData name="Longitude">-76.475526</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.475526,42.442704</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Stocking Hall West, Room M21</name>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150916031116">
+		<SimpleData name="Name">Stocking Hall West, Room M21</SimpleData>
+		<SimpleData name="Latitude">42.447166</SimpleData>
+		<SimpleData name="Longitude">-76.47118399999999</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.471184,42.447166</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ives Hall East, Room 143</name>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150916031116">
+		<SimpleData name="Name">Ives Hall East, Room 143</SimpleData>
+		<SimpleData name="Latitude">42.44694</SimpleData>
+		<SimpleData name="Longitude">-76.480709</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.480709,42.44694</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>East Hill Office Building, Room 301</name>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150916031116">
+		<SimpleData name="Name">East Hill Office Building, Room 301</SimpleData>
+		<SimpleData name="Latitude">42.439152</SimpleData>
+		<SimpleData name="Longitude">-76.46323099999999</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.463231,42.439152</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Wilson Lab, Next to Room 334</name>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150916031116">
+		<SimpleData name="Name">Wilson Lab, Next to Room 334</SimpleData>
+		<SimpleData name="Latitude">42.445011</SimpleData>
+		<SimpleData name="Longitude">-76.472976</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.472976,42.445011</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Day Hall, One on first floor, one on second floor</name>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150916031116">
+		<SimpleData name="Name">Day Hall, One on first floor, one on second floor</SimpleData>
+		<SimpleData name="Latitude">42.447017</SimpleData>
+		<SimpleData name="Longitude">-76.483271</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.483271,42.447017</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Baker Laboratory, Room 144B</name>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150916031116">
+		<SimpleData name="Name">Baker Laboratory, Room 144B</SimpleData>
+		<SimpleData name="Latitude">42.450151</SimpleData>
+		<SimpleData name="Longitude">-76.48177099999999</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.481771,42.450151</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Clark Hall, Room 333</name>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150916031116">
+		<SimpleData name="Name">Clark Hall, Room 333</SimpleData>
+		<SimpleData name="Latitude">42.449819</SimpleData>
+		<SimpleData name="Longitude">-76.481122</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.481122,42.449819</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Computing and Communications Center, Room B0021 (located inside a shower room)</name>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150916031116">
+		<SimpleData name="Name">Computing and Communications Center, Room B0021 (located inside a shower room)</SimpleData>
+		<SimpleData name="Latitude">42.449285</SimpleData>
+		<SimpleData name="Longitude">-76.47903599999999</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.479036,42.449285</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Human Ecology Building, Room 2L12</name>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150916031116">
+		<SimpleData name="Name">Human Ecology Building, Room 2L12</SimpleData>
+		<SimpleData name="Latitude">42.450482</SimpleData>
+		<SimpleData name="Longitude">-76.478616</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.478616,42.450482</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Martha Van West, Room B76 West</name>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150916031116">
+		<SimpleData name="Name">Martha Van West, Room B76 West</SimpleData>
+		<SimpleData name="Latitude">42.450243</SimpleData>
+		<SimpleData name="Longitude">-76.479102</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.479102,42.450243</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Martha Van East, G417 East</name>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150916031116">
+		<SimpleData name="Name">Martha Van East, G417 East</SimpleData>
+		<SimpleData name="Latitude">42.450093</SimpleData>
+		<SimpleData name="Longitude">-76.477969</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.477969,42.450093</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Phillips Hall, Room 126</name>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150916031116">
+		<SimpleData name="Name">Phillips Hall, Room 126</SimpleData>
+		<SimpleData name="Latitude">42.444511</SimpleData>
+		<SimpleData name="Longitude">-76.48199200000001</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.481992,42.444511</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Olin Library, Lower Level (near Women's Restroom)</name>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150916031116">
+		<SimpleData name="Name">Olin Library, Lower Level (near Women's Restroom)</SimpleData>
+		<SimpleData name="Latitude">42.44800138035919</SimpleData>
+		<SimpleData name="Longitude">-76.48471307782486</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.484713077824864,42.448001380359187</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Seneca Place, 2nd Floor (near Women's Restroom)</name>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150916031116">
+		<SimpleData name="Name">Seneca Place, 2nd Floor (near Women's Restroom)</SimpleData>
+		<SimpleData name="Latitude">42.440685</SimpleData>
+		<SimpleData name="Longitude">-76.49734</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.49734,42.440685</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Veterinary Research Building, Room T8002</name>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150916031116">
+		<SimpleData name="Name">Veterinary Research Building, Room T8002</SimpleData>
+		<SimpleData name="Latitude">42.44732</SimpleData>
+		<SimpleData name="Longitude">-76.466213</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.466213,42.44732</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Veterinary Medical Center, Room C2313</name>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150916031116">
+		<SimpleData name="Name">Veterinary Medical Center, Room C2313</SimpleData>
+		<SimpleData name="Latitude">42.44739161182001</SimpleData>
+		<SimpleData name="Longitude">-76.46436471052175</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.46436471052175,42.447391611820009</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Weill Hall, Room B0061 (north end)</name>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150916031116">
+		<SimpleData name="Name">Weill Hall, Room B0061 (north end)</SimpleData>
+		<SimpleData name="Latitude">42.446874</SimpleData>
+		<SimpleData name="Longitude">-76.47745399999999</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.477454,42.446874</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Mann Library, Room 281</name>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150916031116">
+		<SimpleData name="Name">Mann Library, Room 281</SimpleData>
+		<SimpleData name="Latitude">42.448793</SimpleData>
+		<SimpleData name="Longitude">-76.476343</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.476343,42.448793</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Balch Hall, Room 2425</name>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150916031116">
+		<SimpleData name="Name">Balch Hall, Room 2425</SimpleData>
+		<SimpleData name="Latitude">42.452988</SimpleData>
+		<SimpleData name="Longitude">-76.479677</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.479677,42.452988</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Baker Institute, Room 10072</name>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150916031116">
+		<SimpleData name="Name">Baker Institute, Room 10072</SimpleData>
+		<SimpleData name="Latitude">42.4280182269747</SimpleData>
+		<SimpleData name="Longitude">-76.45397840393025</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.45397840393025,42.4280182269747</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Carpenter Hall, Room 10012</name>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150916031116">
+		<SimpleData name="Name">Carpenter Hall, Room 10012</SimpleData>
+		<SimpleData name="Latitude">42.444818</SimpleData>
+		<SimpleData name="Longitude">-76.484173</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.484173,42.444818</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cornell Child Care Center, Mother's Room</name>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150916031116">
+		<SimpleData name="Name">Cornell Child Care Center, Mother's Room</SimpleData>
+		<SimpleData name="Latitude">42.459272</SimpleData>
+		<SimpleData name="Longitude">-76.475892</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.475892,42.459272</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Veterinary Diagnostic Lab, Room A120TE</name>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150916031116">
+		<SimpleData name="Name">Veterinary Diagnostic Lab, Room A120TE</SimpleData>
+		<SimpleData name="Latitude">42.448806</SimpleData>
+		<SimpleData name="Longitude">-76.46427</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.46427,42.448806</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Schurman Hall, Room S1114 (closed 11/14 to fall '17 for construction)</name>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150916031116">
+		<SimpleData name="Name">Schurman Hall, Room S1114 (closed 11/14 to fall '17 for construction)</SimpleData>
+		<SimpleData name="Latitude">42.447992</SimpleData>
+		<SimpleData name="Longitude">-76.466142</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.466142,42.447992</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Lab of Ornithology, Room not specified</name>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150916031116">
+		<SimpleData name="Name">Lab of Ornithology, Room not specified</SimpleData>
+		<SimpleData name="Latitude">42.479594</SimpleData>
+		<SimpleData name="Longitude">-76.450955</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.450955,42.479594</coordinates></Point>
+  </Placemark>
+</Folder></Document></kml>
+
+

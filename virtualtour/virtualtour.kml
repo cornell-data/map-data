@@ -1,0 +1,1186 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document><Folder><name>csv_20150916030312</name>
+<Schema name="csv_20150916030312" id="csv_20150916030312">
+	<SimpleField name="Name" type="string"></SimpleField>
+	<SimpleField name="Description" type="string"></SimpleField>
+	<SimpleField name="ID" type="string"></SimpleField>
+	<SimpleField name="PanDegrees" type="string"></SimpleField>
+	<SimpleField name="TiltDegrees" type="string"></SimpleField>
+	<SimpleField name="Latitude" type="string"></SimpleField>
+	<SimpleField name="Longitude" type="string"></SimpleField>
+	<SimpleField name="View" type="string"></SimpleField>
+</Schema>
+  <Placemark>
+	<name>C2C Bus - Statler</name>
+	<description>C2C</description>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150916030312">
+		<SimpleData name="Name">C2C Bus - Statler</SimpleData>
+		<SimpleData name="Description">C2C</SimpleData>
+		<SimpleData name="ID">82</SimpleData>
+		<SimpleData name="PanDegrees">310</SimpleData>
+		<SimpleData name="TiltDegrees">3</SimpleData>
+		<SimpleData name="Latitude">42.445494</SimpleData>
+		<SimpleData name="Longitude">-76.482761</SimpleData>
+		<SimpleData name="View">http://cumedia.univcomm.cornell.edu/tour2/C2Cstatler.html</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.482761,42.445494</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>C2C Bus - Oxley</name>
+	<description>C2C</description>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150916030312">
+		<SimpleData name="Name">C2C Bus - Oxley</SimpleData>
+		<SimpleData name="Description">C2C</SimpleData>
+		<SimpleData name="ID">83</SimpleData>
+		<SimpleData name="PanDegrees">97</SimpleData>
+		<SimpleData name="TiltDegrees">2</SimpleData>
+		<SimpleData name="Latitude">42.433781</SimpleData>
+		<SimpleData name="Longitude">-76.463808</SimpleData>
+		<SimpleData name="View">http://cumedia.univcomm.cornell.edu/tour2/C2Coxley.html</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.463808,42.433781</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Maplewood Apts.</name>
+	<description>None</description>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150916030312">
+		<SimpleData name="Name">Maplewood Apts.</SimpleData>
+		<SimpleData name="Description">None</SimpleData>
+		<SimpleData name="ID">60</SimpleData>
+		<SimpleData name="PanDegrees">67</SimpleData>
+		<SimpleData name="TiltDegrees">17</SimpleData>
+		<SimpleData name="Latitude">42.439922</SimpleData>
+		<SimpleData name="Longitude">-76.473161</SimpleData>
+		<SimpleData name="View">http://cumedia.univcomm.cornell.edu/tour2/Maplewood.html</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.473161,42.439922</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dendrochronology Lab, Goldwin Smith Hall</name>
+	<description>None</description>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150916030312">
+		<SimpleData name="Name">Dendrochronology Lab, Goldwin Smith Hall</SimpleData>
+		<SimpleData name="Description">None</SimpleData>
+		<SimpleData name="ID">61</SimpleData>
+		<SimpleData name="PanDegrees">23</SimpleData>
+		<SimpleData name="TiltDegrees">-10</SimpleData>
+		<SimpleData name="Latitude">42.448921</SimpleData>
+		<SimpleData name="Longitude">-76.483611</SimpleData>
+		<SimpleData name="View">http://cumedia.univcomm.cornell.edu/tour2/DendroLab.html</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.483611,42.448921</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bailey Hall</name>
+	<description>None</description>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150916030312">
+		<SimpleData name="Name">Bailey Hall</SimpleData>
+		<SimpleData name="Description">None</SimpleData>
+		<SimpleData name="ID">1</SimpleData>
+		<SimpleData name="PanDegrees">60</SimpleData>
+		<SimpleData name="TiltDegrees">12</SimpleData>
+		<SimpleData name="Latitude">42.44895920947072</SimpleData>
+		<SimpleData name="Longitude">-76.48024149103549</SimpleData>
+		<SimpleData name="View">http://cumedia.univcomm.cornell.edu/tour2/Bailey_Hall.html</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.480241491035486,42.448959209470722</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>A. D. White Garden</name>
+	<description>None</description>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150916030312">
+		<SimpleData name="Name">A. D. White Garden</SimpleData>
+		<SimpleData name="Description">None</SimpleData>
+		<SimpleData name="ID">2</SimpleData>
+		<SimpleData name="PanDegrees">4</SimpleData>
+		<SimpleData name="TiltDegrees">4</SimpleData>
+		<SimpleData name="Latitude">42.44822080307561</SimpleData>
+		<SimpleData name="Longitude">-76.48174423388247</SimpleData>
+		<SimpleData name="View">http://cumedia.univcomm.cornell.edu/tour2/A_D_White_Garden.html</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.481744233882466,42.448220803075607</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>A. D. White Statue, Arts Quad</name>
+	<description>None</description>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150916030312">
+		<SimpleData name="Name">A. D. White Statue, Arts Quad</SimpleData>
+		<SimpleData name="Description">None</SimpleData>
+		<SimpleData name="ID">3</SimpleData>
+		<SimpleData name="PanDegrees">83</SimpleData>
+		<SimpleData name="TiltDegrees">22</SimpleData>
+		<SimpleData name="Latitude">42.44904722222222</SimpleData>
+		<SimpleData name="Longitude">-76.48400232482737</SimpleData>
+		<SimpleData name="View">http://cumedia.univcomm.cornell.edu/tour2/A_D_White_Statue.html</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.484002324827372,42.449047222222219</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ag Quad</name>
+	<description>None</description>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150916030312">
+		<SimpleData name="Name">Ag Quad</SimpleData>
+		<SimpleData name="Description">None</SimpleData>
+		<SimpleData name="ID">4</SimpleData>
+		<SimpleData name="PanDegrees">131</SimpleData>
+		<SimpleData name="TiltDegrees">-5</SimpleData>
+		<SimpleData name="Latitude">42.44855945266236</SimpleData>
+		<SimpleData name="Longitude">-76.47877753825018</SimpleData>
+		<SimpleData name="View">http://cumedia.univcomm.cornell.edu/tour2/Ag_Quad.html</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.478777538250185,42.448559452662359</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Appel Commons, North Campus</name>
+	<description>None</description>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150916030312">
+		<SimpleData name="Name">Appel Commons, North Campus</SimpleData>
+		<SimpleData name="Description">None</SimpleData>
+		<SimpleData name="ID">5</SimpleData>
+		<SimpleData name="PanDegrees">266</SimpleData>
+		<SimpleData name="TiltDegrees">-7</SimpleData>
+		<SimpleData name="Latitude">42.45357134741714</SimpleData>
+		<SimpleData name="Longitude">-76.47645028256574</SimpleData>
+		<SimpleData name="View">http://cumedia.univcomm.cornell.edu/tour2/Appel_Commons.html</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.476450282565736,42.453571347417139</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Johnson Museum of Art</name>
+	<description>None</description>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150916030312">
+		<SimpleData name="Name">Johnson Museum of Art</SimpleData>
+		<SimpleData name="Description">None</SimpleData>
+		<SimpleData name="ID">6</SimpleData>
+		<SimpleData name="PanDegrees">314</SimpleData>
+		<SimpleData name="TiltDegrees">10</SimpleData>
+		<SimpleData name="Latitude">42.45017985866196</SimpleData>
+		<SimpleData name="Longitude">-76.48593262805929</SimpleData>
+		<SimpleData name="View">http://cumedia.univcomm.cornell.edu/tour2/Art_Museum.html</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.485932628059288,42.450179858661961</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Barton Hall</name>
+	<description>None</description>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150916030312">
+		<SimpleData name="Name">Barton Hall</SimpleData>
+		<SimpleData name="Description">None</SimpleData>
+		<SimpleData name="ID">7</SimpleData>
+		<SimpleData name="PanDegrees">78</SimpleData>
+		<SimpleData name="TiltDegrees">15</SimpleData>
+		<SimpleData name="Latitude">42.44565622736344</SimpleData>
+		<SimpleData name="Longitude">-76.48159982032402</SimpleData>
+		<SimpleData name="View">http://cumedia.univcomm.cornell.edu/tour2/Barton_Hall.html</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.481599820324021,42.445656227363443</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Becker and Cook Halls, West Campus</name>
+	<description>None</description>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150916030312">
+		<SimpleData name="Name">Becker and Cook Halls, West Campus</SimpleData>
+		<SimpleData name="Description">None</SimpleData>
+		<SimpleData name="ID">8</SimpleData>
+		<SimpleData name="PanDegrees">86</SimpleData>
+		<SimpleData name="TiltDegrees">-2</SimpleData>
+		<SimpleData name="Latitude">42.44768612650957</SimpleData>
+		<SimpleData name="Longitude">-76.48986120903517</SimpleData>
+		<SimpleData name="View">http://cumedia.univcomm.cornell.edu/tour2/Becker_and_Cook_Halls.html</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.489861209035169,42.447686126509574</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Barnes Hall</name>
+	<description>None</description>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150916030312">
+		<SimpleData name="Name">Barnes Hall</SimpleData>
+		<SimpleData name="Description">None</SimpleData>
+		<SimpleData name="ID">9</SimpleData>
+		<SimpleData name="PanDegrees">231</SimpleData>
+		<SimpleData name="TiltDegrees">37</SimpleData>
+		<SimpleData name="Latitude">42.44641840844105</SimpleData>
+		<SimpleData name="Longitude">-76.4846813733612</SimpleData>
+		<SimpleData name="View">http://cumedia.univcomm.cornell.edu/tour2/Barnes_Hall.html</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.484681373361198,42.446418408441048</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Beebe Lake</name>
+	<description>None</description>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150916030312">
+		<SimpleData name="Name">Beebe Lake</SimpleData>
+		<SimpleData name="Description">None</SimpleData>
+		<SimpleData name="ID">10</SimpleData>
+		<SimpleData name="PanDegrees">285</SimpleData>
+		<SimpleData name="TiltDegrees">-3</SimpleData>
+		<SimpleData name="Latitude">42.45007602066867</SimpleData>
+		<SimpleData name="Longitude">-76.47582265775597</SimpleData>
+		<SimpleData name="View">http://cumedia.univcomm.cornell.edu/tour2/Beebe_Lake.html</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.47582265775597,42.450076020668668</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sackett Bridge, Beebe Lake</name>
+	<description>None</description>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150916030312">
+		<SimpleData name="Name">Sackett Bridge, Beebe Lake</SimpleData>
+		<SimpleData name="Description">None</SimpleData>
+		<SimpleData name="ID">11</SimpleData>
+		<SimpleData name="PanDegrees">324</SimpleData>
+		<SimpleData name="TiltDegrees">-27</SimpleData>
+		<SimpleData name="Latitude">42.45172222222222</SimpleData>
+		<SimpleData name="Longitude">-76.47303747390329</SimpleData>
+		<SimpleData name="View">http://cumedia.univcomm.cornell.edu/tour2/Sackett_Bridge.html</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.47303747390329,42.451722222222223</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Noyes Lodge, North Campus, by Beebe Lake</name>
+	<description>None</description>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150916030312">
+		<SimpleData name="Name">Noyes Lodge, North Campus, by Beebe Lake</SimpleData>
+		<SimpleData name="Description">None</SimpleData>
+		<SimpleData name="ID">12</SimpleData>
+		<SimpleData name="PanDegrees">276</SimpleData>
+		<SimpleData name="TiltDegrees">-3</SimpleData>
+		<SimpleData name="Latitude">42.45218888888889</SimpleData>
+		<SimpleData name="Longitude">-76.48009925182966</SimpleData>
+		<SimpleData name="View">http://cumedia.univcomm.cornell.edu/tour2/Noyes_Lodge.html</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.480099251829657,42.452188888888891</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rawlings Green, North Campus</name>
+	<description>None</description>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150916030312">
+		<SimpleData name="Name">Rawlings Green, North Campus</SimpleData>
+		<SimpleData name="Description">None</SimpleData>
+		<SimpleData name="ID">13</SimpleData>
+		<SimpleData name="PanDegrees">289</SimpleData>
+		<SimpleData name="TiltDegrees">4</SimpleData>
+		<SimpleData name="Latitude">42.45375712380796</SimpleData>
+		<SimpleData name="Longitude">-76.47741757464274</SimpleData>
+		<SimpleData name="View">http://cumedia.univcomm.cornell.edu/tour2/Rawlings_Green.html</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.477417574642743,42.453757123807961</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Thurston Ave. Bridge, North Campus</name>
+	<description>None</description>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150916030312">
+		<SimpleData name="Name">Thurston Ave. Bridge, North Campus</SimpleData>
+		<SimpleData name="Description">None</SimpleData>
+		<SimpleData name="ID">14</SimpleData>
+		<SimpleData name="PanDegrees">323</SimpleData>
+		<SimpleData name="TiltDegrees">-8</SimpleData>
+		<SimpleData name="Latitude">42.45146666666667</SimpleData>
+		<SimpleData name="Longitude">-76.48184479077973</SimpleData>
+		<SimpleData name="View">http://cumedia.univcomm.cornell.edu/tour2/Thurston_Ave_Bridge.html</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.481844790779732,42.451466666666668</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Mann Library Lobby</name>
+	<description>None</description>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150916030312">
+		<SimpleData name="Name">Mann Library Lobby</SimpleData>
+		<SimpleData name="Description">None</SimpleData>
+		<SimpleData name="ID">15</SimpleData>
+		<SimpleData name="PanDegrees">356</SimpleData>
+		<SimpleData name="TiltDegrees">-3</SimpleData>
+		<SimpleData name="Latitude">42.44872670189017</SimpleData>
+		<SimpleData name="Longitude">-76.47653600312367</SimpleData>
+		<SimpleData name="View">http://cumedia.univcomm.cornell.edu/tour2/Mann_Library_Lobby.html</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.47653600312367,42.448726701890173</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Weill Hall</name>
+	<description>None</description>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150916030312">
+		<SimpleData name="Name">Weill Hall</SimpleData>
+		<SimpleData name="Description">None</SimpleData>
+		<SimpleData name="ID">16</SimpleData>
+		<SimpleData name="PanDegrees">264</SimpleData>
+		<SimpleData name="TiltDegrees">14</SimpleData>
+		<SimpleData name="Latitude">42.4473039152948</SimpleData>
+		<SimpleData name="Longitude">-76.47753762737845</SimpleData>
+		<SimpleData name="View">http://cumedia.univcomm.cornell.edu/tour2/Weill_Hall.html</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.477537627378453,42.447303915294803</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Teagle and Barton</name>
+	<description>None</description>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150916030312">
+		<SimpleData name="Name">Teagle and Barton</SimpleData>
+		<SimpleData name="Description">None</SimpleData>
+		<SimpleData name="ID">17</SimpleData>
+		<SimpleData name="PanDegrees">211</SimpleData>
+		<SimpleData name="TiltDegrees">8</SimpleData>
+		<SimpleData name="Latitude">42.44556197709949</SimpleData>
+		<SimpleData name="Longitude">-76.47959988862361</SimpleData>
+		<SimpleData name="View">http://cumedia.univcomm.cornell.edu/tour2/Teagle_and_Barton.html</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.479599888623611,42.445561977099487</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Lynah Rink</name>
+	<description>None</description>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150916030312">
+		<SimpleData name="Name">Lynah Rink</SimpleData>
+		<SimpleData name="Description">None</SimpleData>
+		<SimpleData name="ID">18</SimpleData>
+		<SimpleData name="PanDegrees">224</SimpleData>
+		<SimpleData name="TiltDegrees">12</SimpleData>
+		<SimpleData name="Latitude">42.44573187102165</SimpleData>
+		<SimpleData name="Longitude">-76.47734841491595</SimpleData>
+		<SimpleData name="View">http://cumedia.univcomm.cornell.edu/tour2/Lynah_Rink.html</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.477348414915951,42.44573187102165</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Riley-Robb Hall</name>
+	<description>None</description>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150916030312">
+		<SimpleData name="Name">Riley-Robb Hall</SimpleData>
+		<SimpleData name="Description">None</SimpleData>
+		<SimpleData name="ID">19</SimpleData>
+		<SimpleData name="PanDegrees">25</SimpleData>
+		<SimpleData name="TiltDegrees">19</SimpleData>
+		<SimpleData name="Latitude">42.44644555405441</SimpleData>
+		<SimpleData name="Longitude">-76.4719178943964</SimpleData>
+		<SimpleData name="View">http://cumedia.univcomm.cornell.edu/tour2/Riley-Robb_Hall.html</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.471917894396398,42.446445554054407</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Orchards Apple Trees</name>
+	<description>None</description>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150916030312">
+		<SimpleData name="Name">Orchards Apple Trees</SimpleData>
+		<SimpleData name="Description">None</SimpleData>
+		<SimpleData name="ID">21</SimpleData>
+		<SimpleData name="PanDegrees">342</SimpleData>
+		<SimpleData name="TiltDegrees">-2</SimpleData>
+		<SimpleData name="Latitude">42.44546806835247</SimpleData>
+		<SimpleData name="Longitude">-76.46169367606744</SimpleData>
+		<SimpleData name="View">http://cumedia.univcomm.cornell.edu/tour2/Orchards.html</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.461693676067441,42.445468068352469</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Olin Library Terrace</name>
+	<description>None</description>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150916030312">
+		<SimpleData name="Name">Olin Library Terrace</SimpleData>
+		<SimpleData name="Description">None</SimpleData>
+		<SimpleData name="ID">22</SimpleData>
+		<SimpleData name="PanDegrees">76</SimpleData>
+		<SimpleData name="TiltDegrees">16</SimpleData>
+		<SimpleData name="Latitude">42.44800138035919</SimpleData>
+		<SimpleData name="Longitude">-76.48471307782486</SimpleData>
+		<SimpleData name="View">http://cumedia.univcomm.cornell.edu/tour2/Olin_Library_Terrace.html</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.484713077824864,42.448001380359187</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>McGraw Tower (top)</name>
+	<description>None</description>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150916030312">
+		<SimpleData name="Name">McGraw Tower (top)</SimpleData>
+		<SimpleData name="Description">None</SimpleData>
+		<SimpleData name="ID">23</SimpleData>
+		<SimpleData name="PanDegrees">190</SimpleData>
+		<SimpleData name="TiltDegrees">-11</SimpleData>
+		<SimpleData name="Latitude">42.44756949386948</SimpleData>
+		<SimpleData name="Longitude">-76.48510878088581</SimpleData>
+		<SimpleData name="View">http://cumedia.univcomm.cornell.edu/tour2/McGraw_Tower.html</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.48510878088581,42.44756949386948</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Uris Library overlooking Libe Slope and West Campus</name>
+	<description>None</description>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150916030312">
+		<SimpleData name="Name">Uris Library overlooking Libe Slope and West Campus</SimpleData>
+		<SimpleData name="Description">None</SimpleData>
+		<SimpleData name="ID">24</SimpleData>
+		<SimpleData name="PanDegrees">240</SimpleData>
+		<SimpleData name="TiltDegrees">24</SimpleData>
+		<SimpleData name="Latitude">42.44738430290708</SimpleData>
+		<SimpleData name="Longitude">-76.48564472703295</SimpleData>
+		<SimpleData name="View">http://cumedia.univcomm.cornell.edu/tour2/Uris_Library.html</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.485644727032948,42.447384302907082</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ho Plaza</name>
+	<description>None</description>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150916030312">
+		<SimpleData name="Name">Ho Plaza</SimpleData>
+		<SimpleData name="Description">None</SimpleData>
+		<SimpleData name="ID">25</SimpleData>
+		<SimpleData name="PanDegrees">170</SimpleData>
+		<SimpleData name="TiltDegrees">6</SimpleData>
+		<SimpleData name="Latitude">42.44672674010366</SimpleData>
+		<SimpleData name="Longitude">-76.48479133773702</SimpleData>
+		<SimpleData name="View">http://cumedia.univcomm.cornell.edu/tour2/Ho_Plaza.html</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.484791337737022,42.446726740103657</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Campus Store Lobby</name>
+	<description>None</description>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150916030312">
+		<SimpleData name="Name">Campus Store Lobby</SimpleData>
+		<SimpleData name="Description">None</SimpleData>
+		<SimpleData name="ID">26</SimpleData>
+		<SimpleData name="PanDegrees">48</SimpleData>
+		<SimpleData name="TiltDegrees">-3</SimpleData>
+		<SimpleData name="Latitude">42.44674912491537</SimpleData>
+		<SimpleData name="Longitude">-76.4844911381721</SimpleData>
+		<SimpleData name="View">http://cumedia.univcomm.cornell.edu/tour2/Campus_Store_Lobby.html</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.484491138172103,42.446749124915371</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Campus Store Roof</name>
+	<description>None</description>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150916030312">
+		<SimpleData name="Name">Campus Store Roof</SimpleData>
+		<SimpleData name="Description">None</SimpleData>
+		<SimpleData name="ID">27</SimpleData>
+		<SimpleData name="PanDegrees">179</SimpleData>
+		<SimpleData name="TiltDegrees">7</SimpleData>
+		<SimpleData name="Latitude">42.44692851996</SimpleData>
+		<SimpleData name="Longitude">-76.48438257460906</SimpleData>
+		<SimpleData name="View">http://cumedia.univcomm.cornell.edu/tour2/Campus_Store_Roof.html</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.484382574609057,42.446928519959997</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sage Chapel Tombs</name>
+	<description>None</description>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150916030312">
+		<SimpleData name="Name">Sage Chapel Tombs</SimpleData>
+		<SimpleData name="Description">None</SimpleData>
+		<SimpleData name="ID">28</SimpleData>
+		<SimpleData name="PanDegrees">180</SimpleData>
+		<SimpleData name="TiltDegrees">13</SimpleData>
+		<SimpleData name="Latitude">42.44734444444444</SimpleData>
+		<SimpleData name="Longitude">-76.48462212710625</SimpleData>
+		<SimpleData name="View">http://cumedia.univcomm.cornell.edu/tour2/Sage_Chapel_Tombs.html</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.484622127106249,42.44734444444444</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sage Chapel Altar</name>
+	<description>None</description>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150916030312">
+		<SimpleData name="Name">Sage Chapel Altar</SimpleData>
+		<SimpleData name="Description">None</SimpleData>
+		<SimpleData name="ID">29</SimpleData>
+		<SimpleData name="PanDegrees">126</SimpleData>
+		<SimpleData name="TiltDegrees">14</SimpleData>
+		<SimpleData name="Latitude">42.44719747822607</SimpleData>
+		<SimpleData name="Longitude">-76.48425727078209</SimpleData>
+		<SimpleData name="View">http://cumedia.univcomm.cornell.edu/tour2/Sage_Chapel_Altar.html</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.484257270782095,42.447197478226073</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sage Chapel Organ</name>
+	<description>None</description>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150916030312">
+		<SimpleData name="Name">Sage Chapel Organ</SimpleData>
+		<SimpleData name="Description">None</SimpleData>
+		<SimpleData name="ID">30</SimpleData>
+		<SimpleData name="PanDegrees">174</SimpleData>
+		<SimpleData name="TiltDegrees">23</SimpleData>
+		<SimpleData name="Latitude">42.44717777777777</SimpleData>
+		<SimpleData name="Longitude">-76.48463258606982</SimpleData>
+		<SimpleData name="View">http://cumedia.univcomm.cornell.edu/tour2/Sage_Chapel_Organ.html</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.484632586069822,42.447177777777767</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Willard Straight Hall: Lobby</name>
+	<description>None</description>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150916030312">
+		<SimpleData name="Name">Willard Straight Hall: Lobby</SimpleData>
+		<SimpleData name="Description">None</SimpleData>
+		<SimpleData name="ID">31</SimpleData>
+		<SimpleData name="PanDegrees">20</SimpleData>
+		<SimpleData name="TiltDegrees">17</SimpleData>
+		<SimpleData name="Latitude">42.44669444444444</SimpleData>
+		<SimpleData name="Longitude">-76.48540914885336</SimpleData>
+		<SimpleData name="View">http://cumedia.univcomm.cornell.edu/tour2/Straight_Lobby.html</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.485409148853364,42.446694444444439</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Willard Straight Hall: Great Hall</name>
+	<description>None</description>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150916030312">
+		<SimpleData name="Name">Willard Straight Hall: Great Hall</SimpleData>
+		<SimpleData name="Description">None</SimpleData>
+		<SimpleData name="ID">32</SimpleData>
+		<SimpleData name="PanDegrees">240</SimpleData>
+		<SimpleData name="TiltDegrees">44</SimpleData>
+		<SimpleData name="Latitude">42.44667567566166</SimpleData>
+		<SimpleData name="Longitude">-76.48595773468764</SimpleData>
+		<SimpleData name="View">http://cumedia.univcomm.cornell.edu/tour2/Straight_Great_Hall.html</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.485957734687645,42.446675675661659</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Gannett</name>
+	<description>None</description>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150916030312">
+		<SimpleData name="Name">Gannett</SimpleData>
+		<SimpleData name="Description">None</SimpleData>
+		<SimpleData name="ID">33</SimpleData>
+		<SimpleData name="PanDegrees">357</SimpleData>
+		<SimpleData name="TiltDegrees">-1</SimpleData>
+		<SimpleData name="Latitude">42.44579722222222</SimpleData>
+		<SimpleData name="Longitude">-76.48510289104755</SimpleData>
+		<SimpleData name="View">http://cumedia.univcomm.cornell.edu/tour2/Gannett.html</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.485102891047546,42.445797222222218</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sage Hall</name>
+	<description>None</description>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150916030312">
+		<SimpleData name="Name">Sage Hall</SimpleData>
+		<SimpleData name="Description">None</SimpleData>
+		<SimpleData name="ID">34</SimpleData>
+		<SimpleData name="PanDegrees">68</SimpleData>
+		<SimpleData name="TiltDegrees">51</SimpleData>
+		<SimpleData name="Latitude">42.44585655081457</SimpleData>
+		<SimpleData name="Longitude">-76.48380372030975</SimpleData>
+		<SimpleData name="View">http://cumedia.univcomm.cornell.edu/tour2/Sage_Hall.html</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.483803720309751,42.445856550814568</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Herakles Statue between Statler and Olin</name>
+	<description>None</description>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150916030312">
+		<SimpleData name="Name">Herakles Statue between Statler and Olin</SimpleData>
+		<SimpleData name="Description">None</SimpleData>
+		<SimpleData name="ID">35</SimpleData>
+		<SimpleData name="PanDegrees">268</SimpleData>
+		<SimpleData name="TiltDegrees">27</SimpleData>
+		<SimpleData name="Latitude">42.44681944444444</SimpleData>
+		<SimpleData name="Longitude">-76.48237184150537</SimpleData>
+		<SimpleData name="View">http://cumedia.univcomm.cornell.edu/tour2/Herakles.html</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.482371841505369,42.446819444444444</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Day Hall</name>
+	<description>None</description>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150916030312">
+		<SimpleData name="Name">Day Hall</SimpleData>
+		<SimpleData name="Description">None</SimpleData>
+		<SimpleData name="ID">37</SimpleData>
+		<SimpleData name="PanDegrees">275</SimpleData>
+		<SimpleData name="TiltDegrees">3</SimpleData>
+		<SimpleData name="Latitude">42.44729166666666</SimpleData>
+		<SimpleData name="Longitude">-76.48298717056193</SimpleData>
+		<SimpleData name="View">http://cumedia.univcomm.cornell.edu/tour2/Day_Hall.html</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.482987170561927,42.447291666666658</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Plantations Herbs Stairs</name>
+	<description>None</description>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150916030312">
+		<SimpleData name="Name">Plantations Herbs Stairs</SimpleData>
+		<SimpleData name="Description">None</SimpleData>
+		<SimpleData name="ID">38</SimpleData>
+		<SimpleData name="PanDegrees">203</SimpleData>
+		<SimpleData name="TiltDegrees">-4</SimpleData>
+		<SimpleData name="Latitude">42.44989838528682</SimpleData>
+		<SimpleData name="Longitude">-76.47130160037095</SimpleData>
+		<SimpleData name="View">http://cumedia.univcomm.cornell.edu/tour2/Plantations_Herbs_Stairs.html</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.47130160037095,42.449898385286822</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Plantations Herbs Walkway</name>
+	<description>None</description>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150916030312">
+		<SimpleData name="Name">Plantations Herbs Walkway</SimpleData>
+		<SimpleData name="Description">None</SimpleData>
+		<SimpleData name="ID">39</SimpleData>
+		<SimpleData name="PanDegrees">269</SimpleData>
+		<SimpleData name="TiltDegrees">3</SimpleData>
+		<SimpleData name="Latitude">42.44960280834593</SimpleData>
+		<SimpleData name="Longitude">-76.47173293248879</SimpleData>
+		<SimpleData name="View">http://cumedia.univcomm.cornell.edu/tour2/Plantations_Herbs_Walkway.html</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.471732932488791,42.449602808345929</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Plantations Herbs Middle</name>
+	<description>None</description>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150916030312">
+		<SimpleData name="Name">Plantations Herbs Middle</SimpleData>
+		<SimpleData name="Description">None</SimpleData>
+		<SimpleData name="ID">40</SimpleData>
+		<SimpleData name="PanDegrees">182</SimpleData>
+		<SimpleData name="TiltDegrees">-12</SimpleData>
+		<SimpleData name="Latitude">42.44961213313715</SimpleData>
+		<SimpleData name="Longitude">-76.47150194527333</SimpleData>
+		<SimpleData name="View">http://cumedia.univcomm.cornell.edu/tour2/Plantations_Herbs_Middle.html</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.471501945273332,42.449612133137151</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Plantations Ground Cover</name>
+	<description>None</description>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150916030312">
+		<SimpleData name="Name">Plantations Ground Cover</SimpleData>
+		<SimpleData name="Description">None</SimpleData>
+		<SimpleData name="ID">41</SimpleData>
+		<SimpleData name="PanDegrees">192</SimpleData>
+		<SimpleData name="TiltDegrees">-9</SimpleData>
+		<SimpleData name="Latitude">42.44981466563955</SimpleData>
+		<SimpleData name="Longitude">-76.47209240572144</SimpleData>
+		<SimpleData name="View">http://cumedia.univcomm.cornell.edu/tour2/Plantations_Ground_Cover.html</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.47209240572144,42.449814665639551</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Plantations Pergola</name>
+	<description>None</description>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150916030312">
+		<SimpleData name="Name">Plantations Pergola</SimpleData>
+		<SimpleData name="Description">None</SimpleData>
+		<SimpleData name="ID">42</SimpleData>
+		<SimpleData name="PanDegrees">158</SimpleData>
+		<SimpleData name="TiltDegrees">3</SimpleData>
+		<SimpleData name="Latitude">42.45094773777888</SimpleData>
+		<SimpleData name="Longitude">-76.45472483666953</SimpleData>
+		<SimpleData name="View">http://cumedia.univcomm.cornell.edu/tour2/Plantations_Pergola.html</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.454724836669527,42.450947737778883</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Plantations Sculpture Garden</name>
+	<description>None</description>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150916030312">
+		<SimpleData name="Name">Plantations Sculpture Garden</SimpleData>
+		<SimpleData name="Description">None</SimpleData>
+		<SimpleData name="ID">43</SimpleData>
+		<SimpleData name="PanDegrees">346</SimpleData>
+		<SimpleData name="TiltDegrees">9</SimpleData>
+		<SimpleData name="Latitude">42.45186318133462</SimpleData>
+		<SimpleData name="Longitude">-76.45499613142375</SimpleData>
+		<SimpleData name="View">http://cumedia.univcomm.cornell.edu/tour2/Plantations_Art.html</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.454996131423755,42.451863181334623</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Plantations Shrubs</name>
+	<description>None</description>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150916030312">
+		<SimpleData name="Name">Plantations Shrubs</SimpleData>
+		<SimpleData name="Description">None</SimpleData>
+		<SimpleData name="ID">44</SimpleData>
+		<SimpleData name="PanDegrees">345</SimpleData>
+		<SimpleData name="TiltDegrees">0</SimpleData>
+		<SimpleData name="Latitude">42.45251888571423</SimpleData>
+		<SimpleData name="Longitude">-76.4564731201622</SimpleData>
+		<SimpleData name="View">http://cumedia.univcomm.cornell.edu/tour2/Plantations_Shrubs.html</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.456473120162201,42.452518885714227</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Vet School</name>
+	<description>None</description>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150916030312">
+		<SimpleData name="Name">Vet School</SimpleData>
+		<SimpleData name="Description">None</SimpleData>
+		<SimpleData name="ID">45</SimpleData>
+		<SimpleData name="PanDegrees">276</SimpleData>
+		<SimpleData name="TiltDegrees">30</SimpleData>
+		<SimpleData name="Latitude">42.4475285977562</SimpleData>
+		<SimpleData name="Longitude">-76.4668396216835</SimpleData>
+		<SimpleData name="View">http://cumedia.univcomm.cornell.edu/tour2/Vet_School.html</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.466839621683505,42.447528597756197</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Holley Center</name>
+	<description>None</description>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150916030312">
+		<SimpleData name="Name">Holley Center</SimpleData>
+		<SimpleData name="Description">None</SimpleData>
+		<SimpleData name="ID">46</SimpleData>
+		<SimpleData name="PanDegrees">154</SimpleData>
+		<SimpleData name="TiltDegrees">8</SimpleData>
+		<SimpleData name="Latitude">42.44765877890221</SimpleData>
+		<SimpleData name="Longitude">-76.46740648807682</SimpleData>
+		<SimpleData name="View">http://cumedia.univcomm.cornell.edu/tour2/Holley_Center.html</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.467406488076819,42.447658778902209</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Greenhouses near Bradfield and Plant Sciences</name>
+	<description>None</description>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150916030312">
+		<SimpleData name="Name">Greenhouses near Bradfield and Plant Sciences</SimpleData>
+		<SimpleData name="Description">None</SimpleData>
+		<SimpleData name="ID">47</SimpleData>
+		<SimpleData name="PanDegrees">216</SimpleData>
+		<SimpleData name="TiltDegrees">19</SimpleData>
+		<SimpleData name="Latitude">42.44773358139101</SimpleData>
+		<SimpleData name="Longitude">-76.47656027469162</SimpleData>
+		<SimpleData name="View">http://cumedia.univcomm.cornell.edu/tour2/Greenhouses.html</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.476560274691622,42.447733581391013</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Minns Garden between Plant Sciences and Weill Hall</name>
+	<description>None</description>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150916030312">
+		<SimpleData name="Name">Minns Garden between Plant Sciences and Weill Hall</SimpleData>
+		<SimpleData name="Description">None</SimpleData>
+		<SimpleData name="ID">48</SimpleData>
+		<SimpleData name="PanDegrees">34</SimpleData>
+		<SimpleData name="TiltDegrees">0</SimpleData>
+		<SimpleData name="Latitude">42.44779722222222</SimpleData>
+		<SimpleData name="Longitude">-76.47765813159212</SimpleData>
+		<SimpleData name="View">http://cumedia.univcomm.cornell.edu/tour2/Minns_Garden.html</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.477658131592122,42.447797222222221</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>R. Uris Garden</name>
+	<description>None</description>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150916030312">
+		<SimpleData name="Name">R. Uris Garden</SimpleData>
+		<SimpleData name="Description">None</SimpleData>
+		<SimpleData name="ID">49</SimpleData>
+		<SimpleData name="PanDegrees">248</SimpleData>
+		<SimpleData name="TiltDegrees">-15</SimpleData>
+		<SimpleData name="Latitude">42.44777431111604</SimpleData>
+		<SimpleData name="Longitude">-76.4819206774539</SimpleData>
+		<SimpleData name="View">http://cumedia.univcomm.cornell.edu/tour2/R_Uris_Garden.html</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.4819206774539,42.447774311116042</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Mews Hall, North Campus</name>
+	<description>None</description>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150916030312">
+		<SimpleData name="Name">Mews Hall, North Campus</SimpleData>
+		<SimpleData name="Description">None</SimpleData>
+		<SimpleData name="ID">50</SimpleData>
+		<SimpleData name="PanDegrees">80</SimpleData>
+		<SimpleData name="TiltDegrees">4</SimpleData>
+		<SimpleData name="Latitude">42.45460511001311</SimpleData>
+		<SimpleData name="Longitude">-76.47673473327679</SimpleData>
+		<SimpleData name="View">http://cumedia.univcomm.cornell.edu/tour2/Mews_Hall.html</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.476734733276786,42.454605110013112</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Malott</name>
+	<description>None</description>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150916030312">
+		<SimpleData name="Name">Malott</SimpleData>
+		<SimpleData name="Description">None</SimpleData>
+		<SimpleData name="ID">51</SimpleData>
+		<SimpleData name="PanDegrees">242</SimpleData>
+		<SimpleData name="TiltDegrees">7</SimpleData>
+		<SimpleData name="Latitude">42.44783705053268</SimpleData>
+		<SimpleData name="Longitude">-76.48031202288715</SimpleData>
+		<SimpleData name="View">http://cumedia.univcomm.cornell.edu/tour2/Malott.html</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.480312022887148,42.447837050532677</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Big Red Barn Tree</name>
+	<description>None</description>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150916030312">
+		<SimpleData name="Name">Big Red Barn Tree</SimpleData>
+		<SimpleData name="Description">None</SimpleData>
+		<SimpleData name="ID">52</SimpleData>
+		<SimpleData name="PanDegrees">353</SimpleData>
+		<SimpleData name="TiltDegrees">15</SimpleData>
+		<SimpleData name="Latitude">42.44815435882187</SimpleData>
+		<SimpleData name="Longitude">-76.48125384748863</SimpleData>
+		<SimpleData name="View">http://cumedia.univcomm.cornell.edu/tour2/Big_Red_Barn_Tree.html</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.481253847488631,42.448154358821867</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Duffield Hall (Exterior)</name>
+	<description>None</description>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150916030312">
+		<SimpleData name="Name">Duffield Hall (Exterior)</SimpleData>
+		<SimpleData name="Description">None</SimpleData>
+		<SimpleData name="ID">53</SimpleData>
+		<SimpleData name="PanDegrees">299</SimpleData>
+		<SimpleData name="TiltDegrees">6</SimpleData>
+		<SimpleData name="Latitude">42.44488751877613</SimpleData>
+		<SimpleData name="Longitude">-76.48304035336957</SimpleData>
+		<SimpleData name="View">http://cumedia.univcomm.cornell.edu/tour2/Duffield_Hall_Ext.html</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.483040353369574,42.444887518776127</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Duffield Hall (Interior)</name>
+	<description>None</description>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150916030312">
+		<SimpleData name="Name">Duffield Hall (Interior)</SimpleData>
+		<SimpleData name="Description">None</SimpleData>
+		<SimpleData name="ID">54</SimpleData>
+		<SimpleData name="PanDegrees">316</SimpleData>
+		<SimpleData name="TiltDegrees">-15</SimpleData>
+		<SimpleData name="Latitude">42.44465014550562</SimpleData>
+		<SimpleData name="Longitude">-76.48267492977675</SimpleData>
+		<SimpleData name="View">http://cumedia.univcomm.cornell.edu/tour2/Duffield_Hall_Int.html</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.482674929776749,42.444650145505619</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Spacecraft Planetary Imaging Facility (SPIF), Space Sciences Building</name>
+	<description>None</description>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150916030312">
+		<SimpleData name="Name">Spacecraft Planetary Imaging Facility (SPIF), Space Sciences Building</SimpleData>
+		<SimpleData name="Description">None</SimpleData>
+		<SimpleData name="ID">55</SimpleData>
+		<SimpleData name="PanDegrees">355</SimpleData>
+		<SimpleData name="TiltDegrees">-5</SimpleData>
+		<SimpleData name="Latitude">42.448906</SimpleData>
+		<SimpleData name="Longitude">-76.481235</SimpleData>
+		<SimpleData name="View">http://cumedia.univcomm.cornell.edu/tour2/SPIF.html</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.481235,42.448906</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>College Ave. Bridge</name>
+	<description>None</description>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150916030312">
+		<SimpleData name="Name">College Ave. Bridge</SimpleData>
+		<SimpleData name="Description">None</SimpleData>
+		<SimpleData name="ID">56</SimpleData>
+		<SimpleData name="PanDegrees">347</SimpleData>
+		<SimpleData name="TiltDegrees">20</SimpleData>
+		<SimpleData name="Latitude">42.443071</SimpleData>
+		<SimpleData name="Longitude">-76.485749</SimpleData>
+		<SimpleData name="View">http://cumedia.univcomm.cornell.edu/tour2/CollegeAveArch.html</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.485749,42.443071</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cascadilla Gorge</name>
+	<description>None</description>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150916030312">
+		<SimpleData name="Name">Cascadilla Gorge</SimpleData>
+		<SimpleData name="Description">None</SimpleData>
+		<SimpleData name="ID">57</SimpleData>
+		<SimpleData name="PanDegrees">113</SimpleData>
+		<SimpleData name="TiltDegrees">-13</SimpleData>
+		<SimpleData name="Latitude">42.442558</SimpleData>
+		<SimpleData name="Longitude">-76.481433</SimpleData>
+		<SimpleData name="View">http://cumedia.univcomm.cornell.edu/tour2/CascadillaGorge.html</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.481433,42.442558</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Olin Library Cherry Trees</name>
+	<description>None</description>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150916030312">
+		<SimpleData name="Name">Olin Library Cherry Trees</SimpleData>
+		<SimpleData name="Description">None</SimpleData>
+		<SimpleData name="ID">58</SimpleData>
+		<SimpleData name="PanDegrees">283</SimpleData>
+		<SimpleData name="TiltDegrees">11</SimpleData>
+		<SimpleData name="Latitude">42.447518</SimpleData>
+		<SimpleData name="Longitude">-76.484164</SimpleData>
+		<SimpleData name="View">http://cumedia.univcomm.cornell.edu/tour2/Cherry_Trees.html</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.484164,42.447518</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rhodes Hall</name>
+	<description>None</description>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150916030312">
+		<SimpleData name="Name">Rhodes Hall</SimpleData>
+		<SimpleData name="Description">None</SimpleData>
+		<SimpleData name="ID">59</SimpleData>
+		<SimpleData name="PanDegrees">114</SimpleData>
+		<SimpleData name="TiltDegrees">53</SimpleData>
+		<SimpleData name="Latitude">42.443103</SimpleData>
+		<SimpleData name="Longitude">-76.480638</SimpleData>
+		<SimpleData name="View">http://cumedia.univcomm.cornell.edu/tour2/Theory_Center.html</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.480638,42.443103</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Duffield Clean Room #1</name>
+	<description>Engineering</description>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150916030312">
+		<SimpleData name="Name">Duffield Clean Room #1</SimpleData>
+		<SimpleData name="Description">Engineering</SimpleData>
+		<SimpleData name="ID">62</SimpleData>
+		<SimpleData name="PanDegrees">0</SimpleData>
+		<SimpleData name="TiltDegrees">0</SimpleData>
+		<SimpleData name="Latitude">42.444719</SimpleData>
+		<SimpleData name="Longitude">-76.482702</SimpleData>
+		<SimpleData name="View">http://cumedia.univcomm.cornell.edu/tour2/DuffieldCleanRoom1.html</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.482702,42.444719</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Duffield Colloquium Room balcony</name>
+	<description>Engineering</description>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150916030312">
+		<SimpleData name="Name">Duffield Colloquium Room balcony</SimpleData>
+		<SimpleData name="Description">Engineering</SimpleData>
+		<SimpleData name="ID">68</SimpleData>
+		<SimpleData name="PanDegrees">0</SimpleData>
+		<SimpleData name="TiltDegrees">0</SimpleData>
+		<SimpleData name="Latitude">42.444919</SimpleData>
+		<SimpleData name="Longitude">-76.482914</SimpleData>
+		<SimpleData name="View">http://cumedia.univcomm.cornell.edu/tour2/DuffieldBalcony.html</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.482914,42.444919</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Collegetown Campus Entrance</name>
+	<description>Engineering</description>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150916030312">
+		<SimpleData name="Name">Collegetown Campus Entrance</SimpleData>
+		<SimpleData name="Description">Engineering</SimpleData>
+		<SimpleData name="ID">70</SimpleData>
+		<SimpleData name="PanDegrees">0</SimpleData>
+		<SimpleData name="TiltDegrees">0</SimpleData>
+		<SimpleData name="Latitude">42.442668</SimpleData>
+		<SimpleData name="Longitude">-76.485081</SimpleData>
+		<SimpleData name="View">http://cumedia.univcomm.cornell.edu/tour2/Collegetown.html</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.485081,42.442668</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Duffield Atrium</name>
+	<description>Engineering</description>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150916030312">
+		<SimpleData name="Name">Duffield Atrium</SimpleData>
+		<SimpleData name="Description">Engineering</SimpleData>
+		<SimpleData name="ID">71</SimpleData>
+		<SimpleData name="PanDegrees">0</SimpleData>
+		<SimpleData name="TiltDegrees">0</SimpleData>
+		<SimpleData name="Latitude">42.444445</SimpleData>
+		<SimpleData name="Longitude">-76.482788</SimpleData>
+		<SimpleData name="View">http://cumedia.univcomm.cornell.edu/tour2/DuffieldEntry.html</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.482788,42.444445</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>George F. Brown Jr. Network for Earthquake Engineering Simulation</name>
+	<description>Engineering</description>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150916030312">
+		<SimpleData name="Name">George F. Brown Jr. Network for Earthquake Engineering Simulation</SimpleData>
+		<SimpleData name="Description">Engineering</SimpleData>
+		<SimpleData name="ID">72</SimpleData>
+		<SimpleData name="PanDegrees">0</SimpleData>
+		<SimpleData name="TiltDegrees">0</SimpleData>
+		<SimpleData name="Latitude">42.443852</SimpleData>
+		<SimpleData name="Longitude">-76.483743</SimpleData>
+		<SimpleData name="View">http://cumedia.univcomm.cornell.edu/tour2/EarthquakeSimulator.html</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.483743,42.443852</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Emerson Manufacturing Teaching Lab</name>
+	<description>Engineering</description>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150916030312">
+		<SimpleData name="Name">Emerson Manufacturing Teaching Lab</SimpleData>
+		<SimpleData name="Description">Engineering</SimpleData>
+		<SimpleData name="ID">76</SimpleData>
+		<SimpleData name="PanDegrees">0</SimpleData>
+		<SimpleData name="TiltDegrees">0</SimpleData>
+		<SimpleData name="Latitude">42.443225</SimpleData>
+		<SimpleData name="Longitude">-76.48115</SimpleData>
+		<SimpleData name="View">http://cumedia.univcomm.cornell.edu/tour2/DuffieldLab.html</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.48115,42.443225</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Timothy N. Heasky Mineraelogy Museum, Snee Hall</name>
+	<description>Engineering</description>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150916030312">
+		<SimpleData name="Name">Timothy N. Heasky Mineraelogy Museum, Snee Hall</SimpleData>
+		<SimpleData name="Description">Engineering</SimpleData>
+		<SimpleData name="ID">74</SimpleData>
+		<SimpleData name="PanDegrees">0</SimpleData>
+		<SimpleData name="TiltDegrees">0</SimpleData>
+		<SimpleData name="Latitude">42.443646</SimpleData>
+		<SimpleData name="Longitude">-76.485041</SimpleData>
+		<SimpleData name="View">http://cumedia.univcomm.cornell.edu/tour2/GemCollection.html</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.485041,42.443646</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Teaching Area in Hydrology Lab</name>
+	<description>Engineering</description>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150916030312">
+		<SimpleData name="Name">Teaching Area in Hydrology Lab</SimpleData>
+		<SimpleData name="Description">Engineering</SimpleData>
+		<SimpleData name="ID">75</SimpleData>
+		<SimpleData name="PanDegrees">0</SimpleData>
+		<SimpleData name="TiltDegrees">0</SimpleData>
+		<SimpleData name="Latitude">42.44401</SimpleData>
+		<SimpleData name="Longitude">-76.484695</SimpleData>
+		<SimpleData name="View">http://cumedia.univcomm.cornell.edu/tour2/Hydrology.html</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.484695,42.44401</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Duffield Schlom Oxide Molecular Beam Epitaxy Lab</name>
+	<description>Engineering</description>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150916030312">
+		<SimpleData name="Name">Duffield Schlom Oxide Molecular Beam Epitaxy Lab</SimpleData>
+		<SimpleData name="Description">Engineering</SimpleData>
+		<SimpleData name="ID">73</SimpleData>
+		<SimpleData name="PanDegrees">0</SimpleData>
+		<SimpleData name="TiltDegrees">0</SimpleData>
+		<SimpleData name="Latitude">42.444887</SimpleData>
+		<SimpleData name="Longitude">-76.48271</SimpleData>
+		<SimpleData name="View">http://cumedia.univcomm.cornell.edu/tour2/RhodesFab.html</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.48271,42.444887</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Seismology Display, Snee Hall</name>
+	<description>Engineering</description>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150916030312">
+		<SimpleData name="Name">Seismology Display, Snee Hall</SimpleData>
+		<SimpleData name="Description">Engineering</SimpleData>
+		<SimpleData name="ID">78</SimpleData>
+		<SimpleData name="PanDegrees">0</SimpleData>
+		<SimpleData name="TiltDegrees">0</SimpleData>
+		<SimpleData name="Latitude">42.443535</SimpleData>
+		<SimpleData name="Longitude">-76.484872</SimpleData>
+		<SimpleData name="View">http://cumedia.univcomm.cornell.edu/tour2/Seismology.html</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.484872,42.443535</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Water Tank in Hydrology Lab</name>
+	<description>Engineering</description>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150916030312">
+		<SimpleData name="Name">Water Tank in Hydrology Lab</SimpleData>
+		<SimpleData name="Description">Engineering</SimpleData>
+		<SimpleData name="ID">80</SimpleData>
+		<SimpleData name="PanDegrees">0</SimpleData>
+		<SimpleData name="TiltDegrees">0</SimpleData>
+		<SimpleData name="Latitude">42.44401</SimpleData>
+		<SimpleData name="Longitude">-76.484695</SimpleData>
+		<SimpleData name="View">http://cumedia.univcomm.cornell.edu/tour2/Hydraulics.html</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.484695,42.44401</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rock Garden on Engineering Quad</name>
+	<description>Engineering</description>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150916030312">
+		<SimpleData name="Name">Rock Garden on Engineering Quad</SimpleData>
+		<SimpleData name="Description">Engineering</SimpleData>
+		<SimpleData name="ID">77</SimpleData>
+		<SimpleData name="PanDegrees">0</SimpleData>
+		<SimpleData name="TiltDegrees">0</SimpleData>
+		<SimpleData name="Latitude">42.444173</SimpleData>
+		<SimpleData name="Longitude">-76.483898</SimpleData>
+		<SimpleData name="View">http://cumedia.univcomm.cornell.edu/tour2/RockGarden.html</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.483898,42.444173</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sundial on Engineering Quad</name>
+	<description>Engineering</description>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150916030312">
+		<SimpleData name="Name">Sundial on Engineering Quad</SimpleData>
+		<SimpleData name="Description">Engineering</SimpleData>
+		<SimpleData name="ID">79</SimpleData>
+		<SimpleData name="PanDegrees">0</SimpleData>
+		<SimpleData name="TiltDegrees">0</SimpleData>
+		<SimpleData name="Latitude">42.444876</SimpleData>
+		<SimpleData name="Longitude">-76.483633</SimpleData>
+		<SimpleData name="View">http://cumedia.univcomm.cornell.edu/tour2/Sundial.html</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.483633,42.444876</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>C2C Bus - North Campus</name>
+	<description>C2C</description>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150916030312">
+		<SimpleData name="Name">C2C Bus - North Campus</SimpleData>
+		<SimpleData name="Description">C2C</SimpleData>
+		<SimpleData name="ID">81</SimpleData>
+		<SimpleData name="PanDegrees">334</SimpleData>
+		<SimpleData name="TiltDegrees">0</SimpleData>
+		<SimpleData name="Latitude">42.457191</SimpleData>
+		<SimpleData name="Longitude">-76.478483</SimpleData>
+		<SimpleData name="View">http://cumedia.univcomm.cornell.edu/tour2/C2Cnorth.html</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.478483,42.457191</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tulip Tree Between Day Hall and Olin Library</name>
+	<description>None</description>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150916030312">
+		<SimpleData name="Name">Tulip Tree Between Day Hall and Olin Library</SimpleData>
+		<SimpleData name="Description">None</SimpleData>
+		<SimpleData name="ID">93</SimpleData>
+		<SimpleData name="PanDegrees">0</SimpleData>
+		<SimpleData name="TiltDegrees">0</SimpleData>
+		<SimpleData name="Latitude">42.447297</SimpleData>
+		<SimpleData name="Longitude">-76.483798</SimpleData>
+		<SimpleData name="View">http://cumedia.univcomm.cornell.edu/tour2/TulipTree.html</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.483798,42.447297</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Costume Shop</name>
+	<description>CESR</description>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150916030312">
+		<SimpleData name="Name">Costume Shop</SimpleData>
+		<SimpleData name="Description">CESR</SimpleData>
+		<SimpleData name="ID">91</SimpleData>
+		<SimpleData name="PanDegrees">112</SimpleData>
+		<SimpleData name="TiltDegrees">-5</SimpleData>
+		<SimpleData name="Latitude">42.4425</SimpleData>
+		<SimpleData name="Longitude">-76.486</SimpleData>
+		<SimpleData name="View">http://cumedia.univcomm.cornell.edu/tour2/CostumeShop.html</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.486,42.4425</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cyclotron View 1</name>
+	<description>CESR</description>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150916030312">
+		<SimpleData name="Name">Cyclotron View 1</SimpleData>
+		<SimpleData name="Description">CESR</SimpleData>
+		<SimpleData name="ID">84</SimpleData>
+		<SimpleData name="PanDegrees">168</SimpleData>
+		<SimpleData name="TiltDegrees">-12</SimpleData>
+		<SimpleData name="Latitude">42.445</SimpleData>
+		<SimpleData name="Longitude">-76.4729</SimpleData>
+		<SimpleData name="View">http://cumedia.univcomm.cornell.edu/tour2/Cyclotron_Node1a.html</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.4729,42.445</coordinates></Point>
+  </Placemark>
+</Folder></Document></kml>
+
+
