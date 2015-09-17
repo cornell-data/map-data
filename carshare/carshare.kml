@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document><Folder><name>csv_20150917081942</name>
+<Schema name="csv_20150917081942" id="csv_20150917081942">
+	<SimpleField name="Name" type="string"></SimpleField>
+	<SimpleField name="Description" type="string"></SimpleField>
+	<SimpleField name="Latitude" type="string"></SimpleField>
+	<SimpleField name="Longitude" type="string"></SimpleField>
+</Schema>
+  <Placemark>
+	<name>Albany/Court</name>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150917081942">
+		<SimpleData name="Name">Albany/Court</SimpleData>
+		<SimpleData name="Latitude">42.4420013</SimpleData>
+		<SimpleData name="Longitude">-76.5018005</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.5018005,42.4420013</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Aurora/Yates</name>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150917081942">
+		<SimpleData name="Name">Aurora/Yates</SimpleData>
+		<SimpleData name="Latitude">42.4472008</SimpleData>
+		<SimpleData name="Longitude">-76.4961014</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.4961014,42.4472008</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Buffalo/Stewart</name>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150917081942">
+		<SimpleData name="Name">Buffalo/Stewart</SimpleData>
+		<SimpleData name="Latitude">42.4416008</SimpleData>
+		<SimpleData name="Longitude">-76.490097</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.490097,42.4416008</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Carpenter Hall</name>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150917081942">
+		<SimpleData name="Name">Carpenter Hall</SimpleData>
+		<SimpleData name="Latitude">42.4449997</SimpleData>
+		<SimpleData name="Longitude">-76.4841995</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.4841995,42.4449997</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cascadilla/Park</name>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150917081942">
+		<SimpleData name="Name">Cascadilla/Park</SimpleData>
+		<SimpleData name="Latitude">42.4444008</SimpleData>
+		<SimpleData name="Longitude">-76.5055008</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.5055008,42.4444008</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cayuga/Farm</name>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150917081942">
+		<SimpleData name="Name">Cayuga/Farm</SimpleData>
+		<SimpleData name="Latitude">42.4448013</SimpleData>
+		<SimpleData name="Longitude">-76.4991989</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.4991989,42.4448013</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cayuga/Lewis</name>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150917081942">
+		<SimpleData name="Name">Cayuga/Lewis</SimpleData>
+		<SimpleData name="Latitude">42.4496002</SimpleData>
+		<SimpleData name="Longitude">-76.4994965</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.4994965,42.4496002</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>College/Dryden</name>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150917081942">
+		<SimpleData name="Name">College/Dryden</SimpleData>
+		<SimpleData name="Latitude">42.4413986</SimpleData>
+		<SimpleData name="Longitude">-76.485199</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.485199,42.4413986</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Court/Linn</name>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150917081942">
+		<SimpleData name="Name">Court/Linn</SimpleData>
+		<SimpleData name="Latitude">42.4426994</SimpleData>
+		<SimpleData name="Longitude">-76.4945984</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.4945984,42.4426994</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dryden/Elmwood</name>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150917081942">
+		<SimpleData name="Name">Dryden/Elmwood</SimpleData>
+		<SimpleData name="Latitude">42.4412003</SimpleData>
+		<SimpleData name="Longitude">-76.4822998</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.4822998,42.4412003</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Eddy/Dryden</name>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150917081942">
+		<SimpleData name="Name">Eddy/Dryden</SimpleData>
+		<SimpleData name="Latitude">42.4422989</SimpleData>
+		<SimpleData name="Longitude">-76.4873962</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.4873962,42.4422989</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Green St</name>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150917081942">
+		<SimpleData name="Name">Green St</SimpleData>
+		<SimpleData name="Latitude">42.4387016</SimpleData>
+		<SimpleData name="Longitude">-76.4973984</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.4973984,42.4387016</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hudson/Columbia</name>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150917081942">
+		<SimpleData name="Name">Hudson/Columbia</SimpleData>
+		<SimpleData name="Latitude">42.4360008</SimpleData>
+		<SimpleData name="Longitude">-76.4922028</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.4922028,42.4360008</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Maple Ave</name>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150917081942">
+		<SimpleData name="Name">Maple Ave</SimpleData>
+		<SimpleData name="Latitude">42.4413986</SimpleData>
+		<SimpleData name="Longitude">-76.4753036</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.4753036,42.4413986</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>North Campus</name>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150917081942">
+		<SimpleData name="Name">North Campus</SimpleData>
+		<SimpleData name="Latitude">42.456501</SimpleData>
+		<SimpleData name="Longitude">-76.4776993</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.4776993,42.456501</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Oak/College</name>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150917081942">
+		<SimpleData name="Name">Oak/College</SimpleData>
+		<SimpleData name="Latitude">42.4426003</SimpleData>
+		<SimpleData name="Longitude">-76.4848022</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.4848022,42.4426003</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>S Geneva/McGraw</name>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150917081942">
+		<SimpleData name="Name">S Geneva/McGraw</SimpleData>
+		<SimpleData name="Latitude">42.4375992</SimpleData>
+		<SimpleData name="Longitude">-76.5006027</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.5006027,42.4375992</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Seneca/Cayuga</name>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150917081942">
+		<SimpleData name="Name">Seneca/Cayuga</SimpleData>
+		<SimpleData name="Latitude">42.4404984</SimpleData>
+		<SimpleData name="Longitude">-76.4988022</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.4988022,42.4404984</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Seneca/Fulton</name>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150917081942">
+		<SimpleData name="Name">Seneca/Fulton</SimpleData>
+		<SimpleData name="Latitude">42.4403</SimpleData>
+		<SimpleData name="Longitude">-76.5102997</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.5102997,42.4403</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>State/Corn</name>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150917081942">
+		<SimpleData name="Name">State/Corn</SimpleData>
+		<SimpleData name="Latitude">42.4393005</SimpleData>
+		<SimpleData name="Longitude">-76.5057983</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.5057983,42.4393005</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>State/Quarry</name>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150917081942">
+		<SimpleData name="Name">State/Quarry</SimpleData>
+		<SimpleData name="Latitude">42.4388008</SimpleData>
+		<SimpleData name="Longitude">-76.4888</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.4888,42.4388008</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Stewart Ave</name>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150917081942">
+		<SimpleData name="Name">Stewart Ave</SimpleData>
+		<SimpleData name="Latitude">42.4482002</SimpleData>
+		<SimpleData name="Longitude">-76.490303</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.490303,42.4482002</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Titus/Plain</name>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150917081942">
+		<SimpleData name="Name">Titus/Plain</SimpleData>
+		<SimpleData name="Latitude">42.4342003</SimpleData>
+		<SimpleData name="Longitude">-76.5039978</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.5039978,42.4342003</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tower/Garden</name>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150917081942">
+		<SimpleData name="Name">Tower/Garden</SimpleData>
+		<SimpleData name="Latitude">42.4474983</SimpleData>
+		<SimpleData name="Longitude">-76.4792023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.4792023,42.4474983</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Triangle Park</name>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150917081942">
+		<SimpleData name="Name">Triangle Park</SimpleData>
+		<SimpleData name="Latitude">42.4450989</SimpleData>
+		<SimpleData name="Longitude">-76.4992981</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.4992981,42.4450989</coordinates></Point>
+  </Placemark>
+</Folder></Document></kml>
+
+

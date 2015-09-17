@@ -1,0 +1,135 @@
+[
+  {
+    "Name":"116 Maple Ave.",
+    "Address":"",
+    "Latitude":42.441306,
+    "Longitude":-76.476433,
+    "Notes":"Transportation Services; Parking Permits"
+  },
+  {
+    "Name":"A-Lot Staff Parking",
+    "Address":"",
+    "Latitude":42.45844167,
+    "Longitude":-76.47668889,
+    "Notes":"A Lot"
+  },
+  {
+    "Name":"B-Lot Staff Parking",
+    "Address":"",
+    "Latitude":42.44626111,
+    "Longitude":-76.46345,
+    "Notes":"B Lot"
+  },
+  {
+    "Name":"B-Lot Visitor Parking",
+    "Address":"",
+    "Latitude":42.44565315,
+    "Longitude":-76.46475548,
+    "Notes":"Metered Parking; B Lot"
+  },
+  {
+    "Name":"Collegetown (Ctown)",
+    "Address":"",
+    "Latitude":42.44165579,
+    "Longitude":-76.48523348,
+    "Notes":"Metered Parking; Restaurants; Shops"
+  },
+  {
+    "Name":"Conference Lot C",
+    "Address":"",
+    "Latitude":42.455835,
+    "Longitude":-76.478951,
+    "Notes":"Parking for CAU"
+  },
+  {
+    "Name":"Dairy Bar Parking Lot",
+    "Address":"",
+    "Latitude":42.44734397,
+    "Longitude":-76.47022946,
+    "Notes":"Metered Parking"
+  },
+  {
+    "Name":"Orchards Parking",
+    "Address":"",
+    "Latitude":42.44519893,
+    "Longitude":-76.46231351,
+    "Notes":"Parking for Cornell Orchards"
+  },
+  {
+    "Name":"Parking at Alumni House",
+    "Address":"",
+    "Latitude":42.45202462,
+    "Longitude":-76.48101212,
+    "Notes":"Metered Parking"
+  },
+  {
+    "Name":"Parking at Appel",
+    "Address":"",
+    "Latitude":42.45352363,
+    "Longitude":-76.47542147,
+    "Notes":"Metered Parking"
+  },
+  {
+    "Name":"Parking at Art Museum",
+    "Address":"",
+    "Latitude":42.45100573,
+    "Longitude":-76.48596672,
+    "Notes":"Metered Parking"
+  },
+  {
+    "Name":"Parking at Friedman",
+    "Address":"",
+    "Latitude":42.44548889,
+    "Longitude":-76.47520833,
+    "Notes":"Metered Parking"
+  },
+  {
+    "Name":"Parking at Helen Newman",
+    "Address":"",
+    "Latitude":42.45292432,
+    "Longitude":-76.47847576,
+    "Notes":"Metered Parking"
+  },
+  {
+    "Name":"Parking at RPCC",
+    "Address":"",
+    "Latitude":42.45633611,
+    "Longitude":-76.47762515,
+    "Notes":"Metered Parking"
+  },
+  {
+    "Name":"Parking at The Straight",
+    "Address":"",
+    "Latitude":42.44638094,
+    "Longitude":-76.48617381,
+    "Notes":"Metered Parking"
+  },
+  {
+    "Name":"Parking Garage",
+    "Address":"167 Hoy Rd, Ithaca, NY 14850",
+    "Latitude":42.443951,
+    "Longitude":-76.479574,
+    "Notes":"Metered Parking"
+  },
+  {
+    "Name":"Peterson Lot",
+    "Address":"",
+    "Latitude":42.44779167,
+    "Longitude":-76.47047222,
+    "Notes":"Metered Parking"
+  },
+  {
+    "Name":"Plantations Parking",
+    "Address":"",
+    "Latitude":42.44926667,
+    "Longitude":-76.47184444,
+    "Notes":"Parking for Plantations Visitors"
+  },
+  {
+    "Name":"Wilson Synchrotron Lab Parking",
+    "Address":"",
+    "Latitude":42.44471064,
+    "Longitude":-76.47119792,
+    "Notes":"Parking for Wilson Synchrotron Lab Visitors"
+  }
+]

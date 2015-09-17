@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document><Folder><name>csv_20150917082425</name>
+<Schema name="csv_20150917082425" id="csv_20150917082425">
+	<SimpleField name="Name" type="string"></SimpleField>
+	<SimpleField name="Description" type="string"></SimpleField>
+	<SimpleField name="Address" type="string"></SimpleField>
+	<SimpleField name="Latitude" type="string"></SimpleField>
+	<SimpleField name="Longitude" type="string"></SimpleField>
+	<SimpleField name="Notes" type="string"></SimpleField>
+</Schema>
+  <Placemark>
+	<name>116 Maple Ave.</name>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150917082425">
+		<SimpleData name="Name">116 Maple Ave.</SimpleData>
+		<SimpleData name="Address"></SimpleData>
+		<SimpleData name="Latitude">42.441306</SimpleData>
+		<SimpleData name="Longitude">-76.476433</SimpleData>
+		<SimpleData name="Notes">Transportation Services; Parking Permits</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.476433,42.441306</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>A-Lot Staff Parking</name>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150917082425">
+		<SimpleData name="Name">A-Lot Staff Parking</SimpleData>
+		<SimpleData name="Address"></SimpleData>
+		<SimpleData name="Latitude">42.45844167</SimpleData>
+		<SimpleData name="Longitude">-76.47668889</SimpleData>
+		<SimpleData name="Notes">A Lot</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.47668889,42.45844167</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>B-Lot Staff Parking</name>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150917082425">
+		<SimpleData name="Name">B-Lot Staff Parking</SimpleData>
+		<SimpleData name="Address"></SimpleData>
+		<SimpleData name="Latitude">42.44626111</SimpleData>
+		<SimpleData name="Longitude">-76.46345</SimpleData>
+		<SimpleData name="Notes">B Lot</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.46345,42.44626111</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>B-Lot Visitor Parking</name>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150917082425">
+		<SimpleData name="Name">B-Lot Visitor Parking</SimpleData>
+		<SimpleData name="Address"></SimpleData>
+		<SimpleData name="Latitude">42.44565315</SimpleData>
+		<SimpleData name="Longitude">-76.46475548</SimpleData>
+		<SimpleData name="Notes">Metered Parking; B Lot</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.46475548,42.44565315</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Collegetown (Ctown)</name>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150917082425">
+		<SimpleData name="Name">Collegetown (Ctown)</SimpleData>
+		<SimpleData name="Address"></SimpleData>
+		<SimpleData name="Latitude">42.44165579</SimpleData>
+		<SimpleData name="Longitude">-76.48523348</SimpleData>
+		<SimpleData name="Notes">Metered Parking; Restaurants; Shops</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.48523348,42.44165579</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Conference Lot C</name>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150917082425">
+		<SimpleData name="Name">Conference Lot C</SimpleData>
+		<SimpleData name="Address"></SimpleData>
+		<SimpleData name="Latitude">42.455835</SimpleData>
+		<SimpleData name="Longitude">-76.478951</SimpleData>
+		<SimpleData name="Notes">Parking for CAU</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.478951,42.455835</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dairy Bar Parking Lot</name>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150917082425">
+		<SimpleData name="Name">Dairy Bar Parking Lot</SimpleData>
+		<SimpleData name="Address"></SimpleData>
+		<SimpleData name="Latitude">42.44734397</SimpleData>
+		<SimpleData name="Longitude">-76.47022946</SimpleData>
+		<SimpleData name="Notes">Metered Parking</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.47022946,42.44734397</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Orchards Parking</name>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150917082425">
+		<SimpleData name="Name">Orchards Parking</SimpleData>
+		<SimpleData name="Address"></SimpleData>
+		<SimpleData name="Latitude">42.44519893</SimpleData>
+		<SimpleData name="Longitude">-76.46231351</SimpleData>
+		<SimpleData name="Notes">Parking for Cornell Orchards</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.46231351,42.44519893</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Parking at Alumni House</name>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150917082425">
+		<SimpleData name="Name">Parking at Alumni House</SimpleData>
+		<SimpleData name="Address"></SimpleData>
+		<SimpleData name="Latitude">42.45202462</SimpleData>
+		<SimpleData name="Longitude">-76.48101212</SimpleData>
+		<SimpleData name="Notes">Metered Parking</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.48101212,42.45202462</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Parking at Appel</name>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150917082425">
+		<SimpleData name="Name">Parking at Appel</SimpleData>
+		<SimpleData name="Address"></SimpleData>
+		<SimpleData name="Latitude">42.45352363</SimpleData>
+		<SimpleData name="Longitude">-76.47542147</SimpleData>
+		<SimpleData name="Notes">Metered Parking</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.47542147,42.45352363</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Parking at Art Museum</name>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150917082425">
+		<SimpleData name="Name">Parking at Art Museum</SimpleData>
+		<SimpleData name="Address"></SimpleData>
+		<SimpleData name="Latitude">42.45100573</SimpleData>
+		<SimpleData name="Longitude">-76.48596672</SimpleData>
+		<SimpleData name="Notes">Metered Parking</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.48596672,42.45100573</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Parking at Friedman</name>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150917082425">
+		<SimpleData name="Name">Parking at Friedman</SimpleData>
+		<SimpleData name="Address"></SimpleData>
+		<SimpleData name="Latitude">42.44548889</SimpleData>
+		<SimpleData name="Longitude">-76.47520833</SimpleData>
+		<SimpleData name="Notes">Metered Parking</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.47520833,42.44548889</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Parking at Helen Newman</name>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150917082425">
+		<SimpleData name="Name">Parking at Helen Newman</SimpleData>
+		<SimpleData name="Address"></SimpleData>
+		<SimpleData name="Latitude">42.45292432</SimpleData>
+		<SimpleData name="Longitude">-76.47847576</SimpleData>
+		<SimpleData name="Notes">Metered Parking</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.47847576,42.45292432</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Parking at RPCC</name>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150917082425">
+		<SimpleData name="Name">Parking at RPCC</SimpleData>
+		<SimpleData name="Address"></SimpleData>
+		<SimpleData name="Latitude">42.45633611</SimpleData>
+		<SimpleData name="Longitude">-76.47762515</SimpleData>
+		<SimpleData name="Notes">Metered Parking</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.47762515,42.45633611</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Parking at The Straight</name>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150917082425">
+		<SimpleData name="Name">Parking at The Straight</SimpleData>
+		<SimpleData name="Address"></SimpleData>
+		<SimpleData name="Latitude">42.44638094</SimpleData>
+		<SimpleData name="Longitude">-76.48617381</SimpleData>
+		<SimpleData name="Notes">Metered Parking</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.48617381,42.44638094</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Parking Garage</name>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150917082425">
+		<SimpleData name="Name">Parking Garage</SimpleData>
+		<SimpleData name="Address">167 Hoy Rd, Ithaca, NY 14850</SimpleData>
+		<SimpleData name="Latitude">42.443951</SimpleData>
+		<SimpleData name="Longitude">-76.479574</SimpleData>
+		<SimpleData name="Notes">Metered Parking</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.479574,42.443951</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Peterson Lot</name>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150917082425">
+		<SimpleData name="Name">Peterson Lot</SimpleData>
+		<SimpleData name="Address"></SimpleData>
+		<SimpleData name="Latitude">42.44779167</SimpleData>
+		<SimpleData name="Longitude">-76.47047222</SimpleData>
+		<SimpleData name="Notes">Metered Parking</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.47047222,42.44779167</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Plantations Parking</name>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150917082425">
+		<SimpleData name="Name">Plantations Parking</SimpleData>
+		<SimpleData name="Address"></SimpleData>
+		<SimpleData name="Latitude">42.44926667</SimpleData>
+		<SimpleData name="Longitude">-76.47184444</SimpleData>
+		<SimpleData name="Notes">Parking for Plantations Visitors</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.47184444,42.44926667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Wilson Synchrotron Lab Parking</name>
+	<ExtendedData><SchemaData schemaUrl="#csv_20150917082425">
+		<SimpleData name="Name">Wilson Synchrotron Lab Parking</SimpleData>
+		<SimpleData name="Address"></SimpleData>
+		<SimpleData name="Latitude">42.44471064</SimpleData>
+		<SimpleData name="Longitude">-76.47119792</SimpleData>
+		<SimpleData name="Notes">Parking for Wilson Synchrotron Lab Visitors</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.47119792,42.44471064</coordinates></Point>
+  </Placemark>
+</Folder></Document></kml>
+
+

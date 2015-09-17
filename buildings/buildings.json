@@ -1,12 +1,162 @@
 [
   {
-    "Name":"A-Lot Staff Parking",
-    "Category":"Parking",
+    "Name":"104 West! (Kosher Dining Hall)",
+    "Category":"Co-ops",
     "ImageURL":"",
     "Address":"",
-    "Latitude":42.45844166666667,
-    "Longitude":-76.47668888888889,
-    "Notes":"A Lot",
+    "Latitude":42.44431073,
+    "Longitude":-76.4878787,
+    "Notes":"Dining (www.campuslife.cornell.edu/campuslife/dining/104west.cfm); 104 West Ave.",
+    "AKA":""
+  },
+  {
+    "Name":"112 Edgemoor",
+    "Category":"Co-ops",
+    "ImageURL":"http://images.localist.com/images/main/business_huge.png?1340747100",
+    "Address":"",
+    "Latitude":42.44409097,
+    "Longitude":-76.48841178,
+    "Notes":"Housing",
+    "AKA":""
+  },
+  {
+    "Name":"120 Maple Ave.",
+    "Category":"Near Campus",
+    "ImageURL":"",
+    "Address":"",
+    "Latitude":42.441336,
+    "Longitude":-76.47553,
+    "Notes":"CIT",
+    "AKA":""
+  },
+  {
+    "Name":"301 College Ave.",
+    "Category":"Collegetown",
+    "ImageURL":"http://images.localist.com/images/main/business_huge.png?1340747100",
+    "Address":"",
+    "Latitude":42.44033831,
+    "Longitude":-76.48499927,
+    "Notes":"",
+    "AKA":""
+  },
+  {
+    "Name":"309 College Ave.",
+    "Category":"Collegetown",
+    "ImageURL":"",
+    "Address":"",
+    "Latitude":42.44081657,
+    "Longitude":-76.48497643,
+    "Notes":"The Nines",
+    "AKA":""
+  },
+  {
+    "Name":"312 College Ave.",
+    "Category":"Collegetown",
+    "ImageURL":"http://images.localist.com/images/main/business_huge.png?1340747100",
+    "Address":"",
+    "Latitude":42.44089596,
+    "Longitude":-76.48533034,
+    "Notes":"University Photography; Office of Web Communications (OWC); University Communications, FSAP",
+    "AKA":""
+  },
+  {
+    "Name":"337 Pine Tree Road",
+    "Category":"East Hill",
+    "ImageURL":"http://images.localist.com/images/main/business_huge.png?1340747100",
+    "Address":"",
+    "Latitude":42.43792222,
+    "Longitude":-76.46270764,
+    "Notes":"",
+    "AKA":""
+  },
+  {
+    "Name":"341 Pine Tree Road",
+    "Category":"East Hill",
+    "ImageURL":"http://images.localist.com/images/main/business_huge.png?1340747100",
+    "Address":"",
+    "Latitude":42.43793791,
+    "Longitude":-76.46308945,
+    "Notes":"",
+    "AKA":""
+  },
+  {
+    "Name":"353 Pine Tree Road",
+    "Category":"East Hill",
+    "ImageURL":"http://images.localist.com/images/main/business_huge.png?1340747100",
+    "Address":"",
+    "Latitude":42.43813181,
+    "Longitude":-76.4621544,
+    "Notes":"",
+    "AKA":""
+  },
+  {
+    "Name":"373 Pine Tree Road",
+    "Category":"East Hill",
+    "ImageURL":"http://images.localist.com/images/main/business_huge.png?1340747100",
+    "Address":"",
+    "Latitude":42.43765919,
+    "Longitude":-76.46209222,
+    "Notes":"",
+    "AKA":""
+  },
+  {
+    "Name":"377 Pine Tree Road",
+    "Category":"East Hill",
+    "ImageURL":"http://images.localist.com/images/main/business_huge.png?1340747100",
+    "Address":"",
+    "Latitude":42.4376323,
+    "Longitude":-76.4631494,
+    "Notes":"",
+    "AKA":""
+  },
+  {
+    "Name":"391 Pine Tree Road",
+    "Category":"East Hill",
+    "ImageURL":"http://images.localist.com/images/main/business_huge.png?1340747100",
+    "Address":"",
+    "Latitude":42.43904444,
+    "Longitude":-76.46531944,
+    "Notes":"CISER",
+    "AKA":""
+  },
+  {
+    "Name":"395 Pine Tree Road",
+    "Category":"East Hill",
+    "ImageURL":"http://images.localist.com/images/main/business_huge.png?1340747100",
+    "Address":"",
+    "Latitude":42.43896308,
+    "Longitude":-76.4631946,
+    "Notes":"",
+    "AKA":""
+  },
+  {
+    "Name":"4-H Acres",
+    "Category":"Community",
+    "ImageURL":"http://images.localist.com/images/main/business_huge.png?1340747100",
+    "Address":"",
+    "Latitude":42.47316663,
+    "Longitude":-76.41905012,
+    "Notes":"418 Lower Creek Road, Ithaca",
+    "AKA":""
+  },
+  {
+    "Name":"409 College Ave.",
+    "Category":"Collegetown",
+    "ImageURL":"",
+    "Address":"",
+    "Latitude":42.44211389,
+    "Longitude":-76.484966,
+    "Notes":"Student Agencies, Faculty and Staff Assistance Program",
+    "AKA":""
+  },
+  {
+    "Name":"726 University Ave.",
+    "Category":"West Campus",
+    "ImageURL":"http://images.localist.com/images/main/business_huge.png?1340747100",
+    "Address":"",
+    "Latitude":42.44956111,
+    "Longitude":-76.48878611,
+    "Notes":"",
     "AKA":""
   },
   {
@@ -14,8 +164,8 @@
     "Category":"Plantations",
     "ImageURL":"http://images.localist.com/photo/000/016/496/huge/HFBeKgfQSJjcd_ML.jpg?1298662352",
     "Address":"",
-    "Latitude":42.44780277777777,
-    "Longitude":-76.48188888888889,
+    "Latitude":42.44780278,
+    "Longitude":-76.48188889,
     "Notes":"Plantations",
     "AKA":""
   },
@@ -24,8 +174,8 @@
     "Category":"Central Campus",
     "ImageURL":"http://images.localist.com/photo/000/016/497/huge/Hg3hgSjMo0ohzVvM.jpg?1298662357",
     "Address":"",
-    "Latitude":42.44827539927017,
-    "Longitude":-76.48199256088425,
+    "Latitude":42.4482754,
+    "Longitude":-76.48199256,
     "Notes":"A. D. White House",
     "AKA":""
   },
@@ -34,19 +184,9 @@
     "Category":"Near Campus",
     "ImageURL":"",
     "Address":"",
-    "Latitude":42.44296111111111,
-    "Longitude":-76.51018611111111,
+    "Latitude":42.44296111,
+    "Longitude":-76.51018611,
     "Notes":"531 Esty St.",
-    "AKA":""
-  },
-  {
-    "Name":"AAP New York City Center",
-    "Category":"NYC",
-    "ImageURL":"",
-    "Address":"",
-    "Latitude":40.73868611111111,
-    "Longitude":-73.99462375719648,
-    "Notes":"AAP NYC; 50 West 17th St., New York, NY",
     "AKA":""
   },
   {
@@ -54,9 +194,19 @@
     "Category":"World",
     "ImageURL":"http://images.localist.com/images/main/business_huge.png?1340747100",
     "Address":"",
-    "Latitude":41.89516666666667,
-    "Longitude":12.47551388888889,
+    "Latitude":41.89516667,
+    "Longitude":12.47551389,
     "Notes":"Palazzo Lazzaroni;Cornell in Rome; QuickWorld; http://aap.cornell.edu/rome/",
+    "AKA":""
+  },
+  {
+    "Name":"AAP New York City Center",
+    "Category":"NYC",
+    "ImageURL":"",
+    "Address":"",
+    "Latitude":40.73868611,
+    "Longitude":-73.99462376,
+    "Notes":"AAP NYC; 50 West 17th St., New York, NY",
     "AKA":""
   },
   {
@@ -94,8 +244,8 @@
     "Category":"North Campus",
     "ImageURL":"http://images.localist.com/photo/000/016/498/huge/rRwo2mnBsnGAeAV_.jpg?1298662363",
     "Address":"",
-    "Latitude":42.45742908810382,
-    "Longitude":-76.48233306045474,
+    "Latitude":42.45742909,
+    "Longitude":-76.48233306,
     "Notes":"John Henrik Clarke Library",
     "AKA":""
   },
@@ -104,8 +254,8 @@
     "Category":"Areas and Features",
     "ImageURL":"http://images.localist.com/photo/000/016/499/huge/GL2faSBBidUZ9uTB.jpg?1298662368",
     "Address":"",
-    "Latitude":42.44874223637841,
-    "Longitude":-76.47859920035884,
+    "Latitude":42.44874224,
+    "Longitude":-76.4785992,
     "Notes":"",
     "AKA":""
   },
@@ -116,16 +266,6 @@
     "Address":"236 Gallus Rd, Ithaca, NY 14850",
     "Latitude":42.444322,
     "Longitude":-76.452278,
-    "Notes":"",
-    "AKA":""
-  },
-  {
-    "Name":"Albany/Court",
-    "Category":"Carshare",
-    "ImageURL":"",
-    "Address":"",
-    "Latitude":42.4420013,
-    "Longitude":-76.5018005,
     "Notes":"",
     "AKA":""
   },
@@ -224,8 +364,8 @@
     "Category":"Near Campus",
     "ImageURL":"http://images.localist.com/images/main/business_huge.png?1340747100",
     "Address":"",
-    "Latitude":42.44064709196398,
-    "Longitude":-76.4975857737418,
+    "Latitude":42.44064709,
+    "Longitude":-76.49758577,
     "Notes":"130 E. Seneca St., Ithaca, NY 14850",
     "AKA":""
   },
@@ -234,8 +374,8 @@
     "Category":"NYC",
     "ImageURL":"http://images.localist.com/images/main/business_huge.png?1340747100",
     "Address":"",
-    "Latitude":40.74584500000003,
-    "Longitude":-73.98210799999998,
+    "Latitude":40.745845,
+    "Longitude":-73.982108,
     "Notes":"230 Park Avenue, New York, NY 10169",
     "AKA":""
   },
@@ -244,8 +384,8 @@
     "Category":"North Campus",
     "ImageURL":"http://images.localist.com/photo/000/016/502/huge/wKR5Twa4cRdd81F3.jpg?1298662386",
     "Address":"",
-    "Latitude":42.45180308662604,
-    "Longitude":-76.48087705296938,
+    "Latitude":42.45180309,
+    "Longitude":-76.48087705,
     "Notes":"",
     "AKA":""
   },
@@ -274,8 +414,8 @@
     "Category":"East Campus",
     "ImageURL":"http://images.localist.com/images/main/business_huge.png?1340747100",
     "Address":"",
-    "Latitude":42.44498333333333,
-    "Longitude":-76.46722739706648,
+    "Latitude":42.44498333,
+    "Longitude":-76.4672274,
     "Notes":"",
     "AKA":""
   },
@@ -294,8 +434,8 @@
     "Category":"North Campus",
     "ImageURL":"http://images.localist.com/photo/000/016/504/huge/4Y60clWxCJb1T8YF.jpg?1298662395",
     "Address":"",
-    "Latitude":42.45641904040157,
-    "Longitude":-76.47451510079988,
+    "Latitude":42.45641904,
+    "Longitude":-76.4745151,
     "Notes":"",
     "AKA":""
   },
@@ -304,8 +444,8 @@
     "Category":"North Campus",
     "ImageURL":"",
     "Address":"",
-    "Latitude":42.45414376031689,
-    "Longitude":-76.47476155731965,
+    "Latitude":42.45414376,
+    "Longitude":-76.47476156,
     "Notes":"",
     "AKA":""
   },
@@ -314,8 +454,8 @@
     "Category":"World",
     "ImageURL":"",
     "Address":"",
-    "Latitude":42.98771388888889,
-    "Longitude":-70.61504615280131,
+    "Latitude":42.98771389,
+    "Longitude":-70.61504615,
     "Notes":"Shoals Marine Lab; SML; QuickWorld; http://www.sml.cornell.edu/",
     "AKA":""
   },
@@ -325,7 +465,7 @@
     "ImageURL":"http://images.localist.com/images/main/business_huge.png?1340747100",
     "Address":"",
     "Latitude":42.441875,
-    "Longitude":-76.46795640613645,
+    "Longitude":-76.46795641,
     "Notes":"",
     "AKA":""
   },
@@ -334,8 +474,8 @@
     "Category":"World",
     "ImageURL":"http://images.localist.com/photo/000/016/506/huge/Kgg5wCoyEboTAmpc.jpg?1298662404",
     "Address":"",
-    "Latitude":18.34412100530012,
-    "Longitude":-66.75273185884147,
+    "Latitude":18.34412101,
+    "Longitude":-66.75273186,
     "Notes":"National Astronomy and Ionosphere Center (NAIC); QuickWorld; http://www.naic.edu/",
     "AKA":""
   },
@@ -344,8 +484,8 @@
     "Category":"State",
     "ImageURL":"http://images.localist.com/images/main/business_huge.png?1340747100",
     "Address":"",
-    "Latitude":42.26295850898513,
-    "Longitude":-76.62686198584412,
+    "Latitude":42.26295851,
+    "Longitude":-76.62686199,
     "Notes":"Natural Resources; QuickState",
     "AKA":""
   },
@@ -364,39 +504,9 @@
     "Category":"Areas and Features",
     "ImageURL":"http://images.localist.com/photo/000/016/507/huge/08hJOa28GCcow76s.jpg?1298662409",
     "Address":"",
-    "Latitude":42.44927341600597,
-    "Longitude":-76.48453236734474,
+    "Latitude":42.44927342,
+    "Longitude":-76.48453237,
     "Notes":"",
-    "AKA":""
-  },
-  {
-    "Name":"Aurora/Yates",
-    "Category":"Carshare",
-    "ImageURL":"",
-    "Address":"",
-    "Latitude":42.4472008,
-    "Longitude":-76.4961014,
-    "Notes":"",
-    "AKA":""
-  },
-  {
-    "Name":"B-Lot Staff Parking",
-    "Category":"Parking",
-    "ImageURL":"",
-    "Address":"",
-    "Latitude":42.44626111111111,
-    "Longitude":-76.46345000000001,
-    "Notes":"B Lot",
-    "AKA":""
-  },
-  {
-    "Name":"B-Lot Visitor Parking",
-    "Category":"Parking",
-    "ImageURL":"",
-    "Address":"",
-    "Latitude":42.44565314890922,
-    "Longitude":-76.46475548239978,
-    "Notes":"Metered Parking; B Lot",
     "AKA":""
   },
   {
@@ -414,8 +524,8 @@
     "Category":"Near Campus",
     "ImageURL":"http://images.localist.com/photo/000/016/510/huge/onbFazHH7qeb0FZp.jpg?1298662422",
     "Address":"",
-    "Latitude":42.4280182269747,
-    "Longitude":-76.45397840393025,
+    "Latitude":42.42801823,
+    "Longitude":-76.4539784,
     "Notes":"Veterinary; Hungerford Hill",
     "AKA":""
   },
@@ -514,8 +624,8 @@
     "Category":"State",
     "ImageURL":"",
     "Address":"",
-    "Latitude":42.87526236037491,
-    "Longitude":-77.00568277583521,
+    "Latitude":42.87526236,
+    "Longitude":-77.00568278,
     "Notes":"",
     "AKA":""
   },
@@ -534,8 +644,8 @@
     "Category":"Areas and Features",
     "ImageURL":"",
     "Address":"",
-    "Latitude":42.45194444444445,
-    "Longitude":-76.47949484615532,
+    "Latitude":42.45194444,
+    "Longitude":-76.47949485,
     "Notes":"",
     "AKA":""
   },
@@ -544,8 +654,8 @@
     "Category":"Areas and Features",
     "ImageURL":"http://images.localist.com/photo/000/016/519/huge/JHH5yhLaOMP2OOxT.jpg?1298662461",
     "Address":"",
-    "Latitude":42.45174444444445,
-    "Longitude":-76.47998194959622,
+    "Latitude":42.45174444,
+    "Longitude":-76.47998195,
     "Notes":"",
     "AKA":""
   },
@@ -564,8 +674,8 @@
     "Category":"Areas and Features",
     "ImageURL":"http://images.localist.com/images/main/business_huge.png?1340747100",
     "Address":"",
-    "Latitude":42.45144120784915,
-    "Longitude":-76.47722253197705,
+    "Latitude":42.45144121,
+    "Longitude":-76.47722253,
     "Notes":"",
     "AKA":""
   },
@@ -574,8 +684,8 @@
     "Category":"Areas and Features",
     "ImageURL":"http://images.localist.com/photo/000/016/520/huge/jBZty5Yce_wBj_Gk.jpg?1298662465",
     "Address":"",
-    "Latitude":42.45233825196799,
-    "Longitude":-76.4784185327896,
+    "Latitude":42.45233825,
+    "Longitude":-76.47841853,
     "Notes":"",
     "AKA":""
   },
@@ -584,8 +694,8 @@
     "Category":"East Hill",
     "ImageURL":"http://images.localist.com/images/main/business_huge.png?1340747100",
     "Address":"",
-    "Latitude":42.43500943203117,
-    "Longitude":-76.4655658495486,
+    "Latitude":42.43500943,
+    "Longitude":-76.46556585,
     "Notes":"230 Pine Tree Road",
     "AKA":""
   },
@@ -594,8 +704,8 @@
     "Category":"Athletics",
     "ImageURL":"",
     "Address":"",
-    "Latitude":42.44615427455427,
-    "Longitude":-76.47368526096032,
+    "Latitude":42.44615427,
+    "Longitude":-76.47368526,
     "Notes":"",
     "AKA":""
   },
@@ -634,8 +744,8 @@
     "Category":"Areas and Features",
     "ImageURL":"http://images.localist.com/images/main/business_huge.png?1340747100",
     "Address":"",
-    "Latitude":42.44685502604717,
-    "Longitude":-76.47891930427842,
+    "Latitude":42.44685503,
+    "Longitude":-76.4789193,
     "Notes":"",
     "AKA":""
   },
@@ -644,8 +754,8 @@
     "Category":"Central Campus",
     "ImageURL":"http://images.localist.com/photo/000/017/178/huge/ErApy3vE9HoKKArJ.jpg?1300376182",
     "Address":"",
-    "Latitude":42.44642620951885,
-    "Longitude":-76.47836221728224,
+    "Latitude":42.44642621,
+    "Longitude":-76.47836222,
     "Notes":"",
     "AKA":""
   },
@@ -654,8 +764,8 @@
     "Category":"East Hill",
     "ImageURL":"http://images.localist.com/images/main/business_huge.png?1340747100",
     "Address":"",
-    "Latitude":42.44299166666666,
-    "Longitude":-76.46880792163064,
+    "Latitude":42.44299167,
+    "Longitude":-76.46880792,
     "Notes":"",
     "AKA":""
   },
@@ -714,7 +824,7 @@
     "Category":"Co-ops",
     "ImageURL":"http://images.localist.com/images/main/business_huge.png?1340747100",
     "Address":"",
-    "Latitude":42.45660555555556,
+    "Latitude":42.45660556,
     "Longitude":-76.4817,
     "Notes":"Housing",
     "AKA":""
@@ -730,22 +840,12 @@
     "AKA":""
   },
   {
-    "Name":"Buffalo/Stewart",
-    "Category":"Carshare",
-    "ImageURL":"",
-    "Address":"",
-    "Latitude":42.4416008,
-    "Longitude":-76.490097,
-    "Notes":"",
-    "AKA":""
-  },
-  {
     "Name":"Business and Technology Park",
     "Category":"Areas and Features",
     "ImageURL":"http://images.localist.com/images/main/business_huge.png?1340747100",
     "Address":"",
-    "Latitude":42.48543611111111,
-    "Longitude":-76.4612789046395,
+    "Latitude":42.48543611,
+    "Longitude":-76.4612789,
     "Notes":"Thornwood, Brown Rd., Brown Rd, Brown Road",
     "AKA":""
   },
@@ -754,8 +854,8 @@
     "Category":"Community",
     "ImageURL":"http://images.localist.com/photo/000/016/525/huge/1tWhS3V00rAcIofe.jpg?1298662494",
     "Address":"",
-    "Latitude":42.41700555555555,
-    "Longitude":-76.52156793990243,
+    "Latitude":42.41700556,
+    "Longitude":-76.52156794,
     "Notes":"",
     "AKA":""
   },
@@ -781,16 +881,6 @@
   },
   {
     "Name":"Carpenter Hall",
-    "Category":"Carshare",
-    "ImageURL":"",
-    "Address":"",
-    "Latitude":42.4449997,
-    "Longitude":-76.4841995,
-    "Notes":"",
-    "AKA":""
-  },
-  {
-    "Name":"Carpenter Hall",
     "Category":"Engineering",
     "ImageURL":"http://images.localist.com/photo/000/016/529/huge/4I4All7DPfbnE8KI.jpg?1298662512",
     "Address":"313 Campus Rd, Ithaca, NY 14850",
@@ -804,8 +894,8 @@
     "Category":"Areas and Features",
     "ImageURL":"http://images.localist.com/photo/000/016/530/huge/1EtvmCi_mmP0gqh_.jpg?1298662518",
     "Address":"",
-    "Latitude":42.44314523091679,
-    "Longitude":-76.48697828665757,
+    "Latitude":42.44314523,
+    "Longitude":-76.48697829,
     "Notes":"",
     "AKA":""
   },
@@ -820,22 +910,12 @@
     "AKA":""
   },
   {
-    "Name":"Cascadilla/Park",
-    "Category":"Carshare",
-    "ImageURL":"",
-    "Address":"",
-    "Latitude":42.4444008,
-    "Longitude":-76.5055008,
-    "Notes":"",
-    "AKA":""
-  },
-  {
     "Name":"Cayuga Inlet",
     "Category":"Community",
     "ImageURL":"http://images.localist.com/images/main/business_huge.png?1340747100",
     "Address":"",
-    "Latitude":42.45305539149857,
-    "Longitude":-76.51134960628511,
+    "Latitude":42.45305539,
+    "Longitude":-76.51134961,
     "Notes":"",
     "AKA":""
   },
@@ -844,8 +924,8 @@
     "Category":"Community",
     "ImageURL":"http://images.localist.com/images/main/business_huge.png?1340747100",
     "Address":"",
-    "Latitude":42.46915555555556,
-    "Longitude":-76.53753611111111,
+    "Latitude":42.46915556,
+    "Longitude":-76.53753611,
     "Notes":"Hospital",
     "AKA":""
   },
@@ -860,32 +940,12 @@
     "AKA":""
   },
   {
-    "Name":"Cayuga/Farm",
-    "Category":"Carshare",
-    "ImageURL":"",
-    "Address":"",
-    "Latitude":42.4448013,
-    "Longitude":-76.4991989,
-    "Notes":"",
-    "AKA":""
-  },
-  {
-    "Name":"Cayuga/Lewis",
-    "Category":"Carshare",
-    "ImageURL":"",
-    "Address":"",
-    "Latitude":42.4496002,
-    "Longitude":-76.4994965,
-    "Notes":"",
-    "AKA":""
-  },
-  {
     "Name":"Center for Jewish Living",
     "Category":"Co-ops",
     "ImageURL":"http://images.localist.com/images/main/business_huge.png?1340747100",
     "Address":"",
-    "Latitude":42.4443886044577,
-    "Longitude":-76.48787851283069,
+    "Latitude":42.4443886,
+    "Longitude":-76.48787851,
     "Notes":"Housing",
     "AKA":""
   },
@@ -905,7 +965,7 @@
     "ImageURL":"",
     "Address":"",
     "Latitude":42.4537,
-    "Longitude":-76.49009722222222,
+    "Longitude":-76.49009722,
     "Notes":"Housing",
     "AKA":""
   },
@@ -934,8 +994,8 @@
     "Category":"Central Campus",
     "ImageURL":"http://images.localist.com/photo/000/016/533/huge/_geBN88NbhivAMuY.jpg?1298662533",
     "Address":"",
-    "Latitude":42.45133333333334,
-    "Longitude":-76.47925570823594,
+    "Latitude":42.45133333,
+    "Longitude":-76.47925571,
     "Notes":"",
     "AKA":""
   },
@@ -964,29 +1024,9 @@
     "Category":"Areas and Features",
     "ImageURL":"http://images.localist.com/images/main/business_huge.png?1340747100",
     "Address":"",
-    "Latitude":42.44303240435108,
-    "Longitude":-76.48521342703204,
+    "Latitude":42.4430324,
+    "Longitude":-76.48521343,
     "Notes":"",
-    "AKA":""
-  },
-  {
-    "Name":"College/Dryden",
-    "Category":"Carshare",
-    "ImageURL":"",
-    "Address":"",
-    "Latitude":42.4413986,
-    "Longitude":-76.485199,
-    "Notes":"",
-    "AKA":""
-  },
-  {
-    "Name":"Collegetown (Ctown)",
-    "Category":"Parking",
-    "ImageURL":"",
-    "Address":"",
-    "Latitude":42.44165578506068,
-    "Longitude":-76.4852334806199,
-    "Notes":"Metered Parking; Restaurants; Shops",
     "AKA":""
   },
   {
@@ -1004,8 +1044,8 @@
     "Category":"East Campus",
     "ImageURL":"http://images.localist.com/images/main/business_huge.png?1340747100",
     "Address":"",
-    "Latitude":42.44690277777777,
-    "Longitude":-76.46464444444445,
+    "Latitude":42.44690278,
+    "Longitude":-76.46464444,
     "Notes":"Dogs; Cats; Feline; Canine",
     "AKA":""
   },
@@ -1024,19 +1064,9 @@
     "Category":"Central Campus",
     "ImageURL":"http://images.localist.com/images/main/business_huge.png?1340747100",
     "Address":"",
-    "Latitude":42.44658086079809,
-    "Longitude":-76.47933943483466,
+    "Latitude":42.44658086,
+    "Longitude":-76.47933943,
     "Notes":"Comstock Memorial Library of Entomology",
-    "AKA":""
-  },
-  {
-    "Name":"Conference Lot C",
-    "Category":"Parking",
-    "ImageURL":"",
-    "Address":"",
-    "Latitude":42.455835,
-    "Longitude":-76.478951,
-    "Notes":"Parking for CAU",
     "AKA":""
   },
   {
@@ -1044,8 +1074,8 @@
     "Category":"Community",
     "ImageURL":"http://images.localist.com/images/main/business_huge.png?1340747100",
     "Address":"",
-    "Latitude":42.47979792770936,
-    "Longitude":-76.4644410997154,
+    "Latitude":42.47979793,
+    "Longitude":-76.4644411,
     "Notes":"",
     "AKA":""
   },
@@ -1074,9 +1104,19 @@
     "Category":"NYC",
     "ImageURL":"",
     "Address":"",
-    "Latitude":40.75441425183247,
-    "Longitude":-73.97934035554516,
+    "Latitude":40.75441425,
+    "Longitude":-73.97934036,
     "Notes":"",
+    "AKA":""
+  },
+  {
+    "Name":"Cornell in Washington D.C.",
+    "Category":"World",
+    "ImageURL":"http://images.localist.com/photo/000/016/699/huge/Y1crvEHqZBIwEAEp.jpg?1298892044",
+    "Address":"",
+    "Latitude":38.90833611,
+    "Longitude":-77.048489,
+    "Notes":"QuickWorld; http://ciw.cornell.edu/",
     "AKA":""
   },
   {
@@ -1084,8 +1124,8 @@
     "Category":"East Campus",
     "ImageURL":"http://images.localist.com/images/main/business_huge.png?1340747100",
     "Address":"",
-    "Latitude":42.44490928638045,
-    "Longitude":-76.46227959979427,
+    "Latitude":42.44490929,
+    "Longitude":-76.4622796,
     "Notes":"Cider; Apples",
     "AKA":""
   },
@@ -1097,16 +1137,6 @@
     "Latitude":42.449563,
     "Longitude":-76.472291,
     "Notes":"",
-    "AKA":""
-  },
-  {
-    "Name":"Cornell in Washington D.C.",
-    "Category":"World",
-    "ImageURL":"http://images.localist.com/photo/000/016/699/huge/Y1crvEHqZBIwEAEp.jpg?1298892044",
-    "Address":"",
-    "Latitude":38.90833611111111,
-    "Longitude":-77.04848899999998,
-    "Notes":"QuickWorld; http://ciw.cornell.edu/",
     "AKA":""
   },
   {
@@ -1130,22 +1160,12 @@
     "AKA":""
   },
   {
-    "Name":"Court/Linn",
-    "Category":"Carshare",
-    "ImageURL":"",
-    "Address":"",
-    "Latitude":42.4426994,
-    "Longitude":-76.4945984,
-    "Notes":"",
-    "AKA":""
-  },
-  {
     "Name":"Creek Farm Cottage, Portsmouth, New Hampshire",
     "Category":"World",
     "ImageURL":"",
     "Address":"",
-    "Latitude":43.05819444444444,
-    "Longitude":-70.73943888888888,
+    "Latitude":43.05819444,
+    "Longitude":-70.73943889,
     "Notes":"Shoals Marine Lab",
     "AKA":""
   },
@@ -1154,19 +1174,9 @@
     "Category":"East Campus",
     "ImageURL":"http://images.localist.com/images/main/business_huge.png?1340747100",
     "Address":"",
-    "Latitude":42.44704904733062,
-    "Longitude":-76.47023804164313,
+    "Latitude":42.44704905,
+    "Longitude":-76.47023804,
     "Notes":"Cafe (www.dairystore.cornell.edu); Ice Cream",
-    "AKA":""
-  },
-  {
-    "Name":"Dairy Bar Parking Lot",
-    "Category":"Parking",
-    "ImageURL":"",
-    "Address":"",
-    "Latitude":42.44734396858172,
-    "Longitude":-76.4702294554751,
-    "Notes":"Metered Parking",
     "AKA":""
   },
   {
@@ -1180,23 +1190,23 @@
     "AKA":""
   },
   {
-    "Name":"DeFrees Lab",
-    "Category":"Engineering",
-    "ImageURL":"http://images.localist.com/images/main/business_huge.png?1340747100",
-    "Address":"",
-    "Latitude":42.44465,
-    "Longitude":-76.48479957728475,
-    "Notes":"",
-    "AKA":""
-  },
-  {
     "Name":"Dean's Garden",
     "Category":"Plantations",
     "ImageURL":"http://images.localist.com/photo/000/016/544/huge/u09wMqimiP301K7O.jpg?1298662590",
     "Address":"",
     "Latitude":42.4496,
-    "Longitude":-76.47728611111111,
+    "Longitude":-76.47728611,
     "Notes":"Plantations",
+    "AKA":""
+  },
+  {
+    "Name":"DeFrees Lab",
+    "Category":"Engineering",
+    "ImageURL":"http://images.localist.com/images/main/business_huge.png?1340747100",
+    "Address":"",
+    "Latitude":42.44465,
+    "Longitude":-76.48479958,
+    "Notes":"",
     "AKA":""
   },
   {
@@ -1274,8 +1284,8 @@
     "Category":"East Hill",
     "ImageURL":"",
     "Address":"",
-    "Latitude":42.44323075468782,
-    "Longitude":-76.46916095964916,
+    "Latitude":42.44323075,
+    "Longitude":-76.46916096,
     "Notes":"",
     "AKA":""
   },
@@ -1304,18 +1314,8 @@
     "Category":"Community",
     "ImageURL":"http://images.localist.com/photo/000/016/692/huge/D_KUcwXlbqkAuiX8.jpg?1298887173",
     "Address":"",
-    "Latitude":42.44042741966716,
-    "Longitude":-76.49690704583793,
-    "Notes":"",
-    "AKA":""
-  },
-  {
-    "Name":"Dryden/Elmwood",
-    "Category":"Carshare",
-    "ImageURL":"",
-    "Address":"",
-    "Latitude":42.4412003,
-    "Longitude":-76.4822998,
+    "Latitude":42.44042742,
+    "Longitude":-76.49690705,
     "Notes":"",
     "AKA":""
   },
@@ -1394,18 +1394,8 @@
     "Category":"Areas and Features",
     "ImageURL":"http://images.localist.com/photo/000/016/550/huge/t6F7QeID4mnhCpYp.jpg?1298662620",
     "Address":"",
-    "Latitude":42.44239734568337,
-    "Longitude":-76.48747576535891,
-    "Notes":"",
-    "AKA":""
-  },
-  {
-    "Name":"Eddy/Dryden",
-    "Category":"Carshare",
-    "ImageURL":"",
-    "Address":"",
-    "Latitude":42.4422989,
-    "Longitude":-76.4873962,
+    "Latitude":42.44239735,
+    "Longitude":-76.48747577,
     "Notes":"",
     "AKA":""
   },
@@ -1424,8 +1414,8 @@
     "Category":"Areas and Features",
     "ImageURL":"http://images.localist.com/photo/000/016/695/huge/aA3I3QzCidJJFqtM.jpg?1298888069",
     "Address":"",
-    "Latitude":42.4445244352726,
-    "Longitude":-76.48362705461125,
+    "Latitude":42.44452444,
+    "Longitude":-76.48362705,
     "Notes":"",
     "AKA":""
   },
@@ -1437,6 +1427,16 @@
     "Latitude":42.446437,
     "Longitude":-76.459806,
     "Notes":"",
+    "AKA":""
+  },
+  {
+    "Name":"Equine and Farm Animal Hospitals",
+    "Category":"East Campus",
+    "ImageURL":"http://images.localist.com/images/main/business_huge.png?1340747100",
+    "Address":"",
+    "Latitude":42.44735587,
+    "Longitude":-76.46349311,
+    "Notes":"Equine Hospital,Farm Animal Hospital",
     "AKA":""
   },
   {
@@ -1464,19 +1464,9 @@
     "Category":"Near Campus",
     "ImageURL":"http://images.localist.com/images/main/business_huge.png?1340747100",
     "Address":"",
-    "Latitude":42.46151388888889,
-    "Longitude":-76.45801111111112,
+    "Latitude":42.46151389,
+    "Longitude":-76.45801111,
     "Notes":"Horses; Blue Grass Lane",
-    "AKA":""
-  },
-  {
-    "Name":"Equine and Farm Animal Hospitals",
-    "Category":"East Campus",
-    "ImageURL":"http://images.localist.com/images/main/business_huge.png?1340747100",
-    "Address":"",
-    "Latitude":42.44735587146558,
-    "Longitude":-76.46349310680466,
-    "Notes":"Equine Hospital,Farm Animal Hospital",
     "AKA":""
   },
   {
@@ -1494,8 +1484,8 @@
     "Category":"Athletics",
     "ImageURL":"http://images.localist.com/images/main/business_huge.png?1340747100",
     "Address":"",
-    "Latitude":42.44278145355228,
-    "Longitude":-76.47973073272239,
+    "Latitude":42.44278145,
+    "Longitude":-76.47973073,
     "Notes":"",
     "AKA":""
   },
@@ -1504,8 +1494,8 @@
     "Category":"Areas and Features",
     "ImageURL":"http://images.localist.com/photo/000/016/691/huge/wgg35hu8WpbkoLcV.jpg?1298886050",
     "Address":"",
-    "Latitude":42.45368055555556,
-    "Longitude":-76.47257131475479,
+    "Latitude":42.45368056,
+    "Longitude":-76.47257131,
     "Notes":"",
     "AKA":""
   },
@@ -1514,8 +1504,8 @@
     "Category":"Community",
     "ImageURL":"",
     "Address":"",
-    "Latitude":42.45343334578066,
-    "Longitude":-76.49757430849698,
+    "Latitude":42.45343335,
+    "Longitude":-76.49757431,
     "Notes":"",
     "AKA":""
   },
@@ -1534,8 +1524,8 @@
     "Category":"East Campus",
     "ImageURL":"http://images.localist.com/images/main/business_huge.png?1340747100",
     "Address":"",
-    "Latitude":42.44774928379528,
-    "Longitude":-76.46723663983026,
+    "Latitude":42.44774928,
+    "Longitude":-76.46723664,
     "Notes":"",
     "AKA":""
   },
@@ -1564,8 +1554,8 @@
     "Category":"East Campus",
     "ImageURL":"http://images.localist.com/images/main/business_huge.png?1340747100",
     "Address":"",
-    "Latitude":42.44878055555555,
-    "Longitude":-76.46930132249992,
+    "Latitude":42.44878056,
+    "Longitude":-76.46930132,
     "Notes":"",
     "AKA":""
   },
@@ -1634,8 +1624,8 @@
     "Category":"Athletics",
     "ImageURL":"http://images.localist.com/photo/000/016/492/huge/BggR9UlrItgh24PO.jpg?1298662328",
     "Address":"",
-    "Latitude":42.44501176256377,
-    "Longitude":-76.47825661934418,
+    "Latitude":42.44501176,
+    "Longitude":-76.47825662,
     "Notes":"Hall of Fame",
     "AKA":""
   },
@@ -1680,22 +1670,12 @@
     "AKA":""
   },
   {
-    "Name":"Green St",
-    "Category":"Carshare",
-    "ImageURL":"",
-    "Address":"",
-    "Latitude":42.4387016,
-    "Longitude":-76.4973984,
-    "Notes":"",
-    "AKA":""
-  },
-  {
     "Name":"Grossman Pond",
     "Category":"Plantations",
     "ImageURL":"http://images.localist.com/images/main/business_huge.png?1340747100",
     "Address":"",
-    "Latitude":42.45211666666667,
-    "Longitude":-76.45438888888889,
+    "Latitude":42.45211667,
+    "Longitude":-76.45438889,
     "Notes":"Plantations",
     "AKA":""
   },
@@ -1744,8 +1724,8 @@
     "Category":"Community",
     "ImageURL":"http://images.localist.com/images/main/business_huge.png?1340747100",
     "Address":"",
-    "Latitude":42.45511319081163,
-    "Longitude":-76.51721254024353,
+    "Latitude":42.45511319,
+    "Longitude":-76.51721254,
     "Notes":"",
     "AKA":""
   },
@@ -1764,8 +1744,8 @@
     "Category":"State",
     "ImageURL":"http://images.localist.com/images/main/business_huge.png?1340747100",
     "Address":"",
-    "Latitude":42.44147299475389,
-    "Longitude":-76.24818966468412,
+    "Latitude":42.44147299,
+    "Longitude":-76.24818966,
     "Notes":"Sheep; Beef; Cattle; Dairy; Cows",
     "AKA":""
   },
@@ -1774,8 +1754,8 @@
     "Category":"Near Campus",
     "ImageURL":"http://images.localist.com/images/main/business_huge.png?1340747100",
     "Address":"",
-    "Latitude":42.45821994533021,
-    "Longitude":-76.3845801388267,
+    "Latitude":42.45821995,
+    "Longitude":-76.38458014,
     "Notes":"Telescopes; telescope; HBO; Mount Pleasant, Mt. Pleasant",
     "AKA":""
   },
@@ -1804,8 +1784,8 @@
     "Category":"State",
     "ImageURL":"http://images.localist.com/images/main/business_huge.png?1340747100",
     "Address":"",
-    "Latitude":42.87675714092701,
-    "Longitude":-77.00741734635007,
+    "Latitude":42.87675714,
+    "Longitude":-77.00741735,
     "Notes":"",
     "AKA":""
   },
@@ -1834,8 +1814,8 @@
     "Category":"Areas and Features",
     "ImageURL":"http://images.localist.com/photo/000/016/564/huge/q9xq_Cs2LAO3SCTl.jpg?1298662688",
     "Address":"",
-    "Latitude":42.44669683894491,
-    "Longitude":-76.48507194844021,
+    "Latitude":42.44669684,
+    "Longitude":-76.48507195,
     "Notes":"",
     "AKA":""
   },
@@ -1854,8 +1834,8 @@
     "Category":"North Campus",
     "ImageURL":"http://images.localist.com/images/main/business_huge.png?1340747100",
     "Address":"",
-    "Latitude":42.45564415875947,
-    "Longitude":-76.47605786812652,
+    "Latitude":42.45564416,
+    "Longitude":-76.47605787,
     "Notes":"Housing",
     "AKA":""
   },
@@ -1874,8 +1854,8 @@
     "Category":"East Campus",
     "ImageURL":"http://images.localist.com/images/main/business_huge.png?1340747100",
     "Address":"",
-    "Latitude":42.4487183691615,
-    "Longitude":-76.4687770613175,
+    "Latitude":42.44871837,
+    "Longitude":-76.46877706,
     "Notes":"",
     "AKA":""
   },
@@ -1884,8 +1864,8 @@
     "Category":"West Campus",
     "ImageURL":"http://images.localist.com/photo/000/016/567/huge/mZ4TgYavAyqfma_9.jpg?1298662702",
     "Address":"",
-    "Latitude":42.4483611111111,
-    "Longitude":-76.49021666666667,
+    "Latitude":42.44836111,
+    "Longitude":-76.49021667,
     "Notes":"Cafe (www.shortstopdeli.com/hot-truck); Truck",
     "AKA":""
   },
@@ -1894,8 +1874,8 @@
     "Category":"Plantations",
     "ImageURL":"http://images.localist.com/photo/000/016/568/huge/_fVSm0G6_7w_eVCI.jpg?1298662706",
     "Address":"",
-    "Latitude":42.45105555555556,
-    "Longitude":-76.45460555555556,
+    "Latitude":42.45105556,
+    "Longitude":-76.45460556,
     "Notes":"Plantations",
     "AKA":""
   },
@@ -1904,19 +1884,9 @@
     "Category":"Athletics",
     "ImageURL":"http://images.localist.com/photo/000/016/569/huge/5D1Ty_fd03mVT0es.jpg?1298662710",
     "Address":"",
-    "Latitude":42.44417185951525,
-    "Longitude":-76.48060022508952,
+    "Latitude":42.44417186,
+    "Longitude":-76.48060023,
     "Notes":"Baseball",
-    "AKA":""
-  },
-  {
-    "Name":"Hudson/Columbia",
-    "Category":"Carshare",
-    "ImageURL":"",
-    "Address":"",
-    "Latitude":42.4360008,
-    "Longitude":-76.4922028,
-    "Notes":"",
     "AKA":""
   },
   {
@@ -1964,8 +1934,8 @@
     "Category":"East Campus",
     "ImageURL":"",
     "Address":"",
-    "Latitude":42.44781982385726,
-    "Longitude":-76.46417232707067,
+    "Latitude":42.44781982,
+    "Longitude":-76.46417233,
     "Notes":"",
     "AKA":""
   },
@@ -1974,8 +1944,8 @@
     "Category":"Central Campus",
     "ImageURL":"http://images.localist.com/photo/000/016/570/huge/MNp_i6hUPqDeh5Yx.jpg?1298662715",
     "Address":"",
-    "Latitude":42.44695516891749,
-    "Longitude":-76.48005966774562,
+    "Latitude":42.44695517,
+    "Longitude":-76.48005967,
     "Notes":"",
     "AKA":""
   },
@@ -2004,8 +1974,8 @@
     "Category":"East Campus",
     "ImageURL":"",
     "Address":"",
-    "Latitude":42.44886111111111,
-    "Longitude":-76.46988316063275,
+    "Latitude":42.44886111,
+    "Longitude":-76.46988316,
     "Notes":"",
     "AKA":""
   },
@@ -2014,8 +1984,8 @@
     "Category":"Community",
     "ImageURL":"http://images.localist.com/images/main/business_huge.png?1340747100",
     "Address":"",
-    "Latitude":42.43949166666666,
-    "Longitude":-76.51103444132687,
+    "Latitude":42.43949167,
+    "Longitude":-76.51103444,
     "Notes":"710 W. State St.",
     "AKA":""
   },
@@ -2024,8 +1994,8 @@
     "Category":"State",
     "ImageURL":"",
     "Address":"",
-    "Latitude":42.44701169589159,
-    "Longitude":-76.47998026615886,
+    "Latitude":42.4470117,
+    "Longitude":-76.47998027,
     "Notes":"QuickState; http://www.cornell.edu/visiting/ithaca/",
     "AKA":""
   },
@@ -2034,8 +2004,8 @@
     "Category":"Community",
     "ImageURL":"",
     "Address":"",
-    "Latitude":42.42192222222222,
-    "Longitude":-76.49499089765351,
+    "Latitude":42.42192222,
+    "Longitude":-76.4949909,
     "Notes":"",
     "AKA":""
   },
@@ -2044,8 +2014,8 @@
     "Category":"Community",
     "ImageURL":"http://images.localist.com/photo/000/016/572/huge/Aleuk9SxUxBSoKBx.jpg?1298662725",
     "Address":"",
-    "Latitude":42.43960833333333,
-    "Longitude":-76.49683611111111,
+    "Latitude":42.43960833,
+    "Longitude":-76.49683611,
     "Notes":"Sagan Planet Walk; Food; Shopping; Bars; Restaurants; Shops",
     "AKA":""
   },
@@ -2054,8 +2024,8 @@
     "Category":"Community",
     "ImageURL":"http://images.localist.com/photo/000/016/573/huge/R2IphBqZuPLH8oNb.jpg?1298662729",
     "Address":"",
-    "Latitude":42.45101111111111,
-    "Longitude":-76.5093150559042,
+    "Latitude":42.45101111,
+    "Longitude":-76.50931506,
     "Notes":"",
     "AKA":""
   },
@@ -2064,8 +2034,8 @@
     "Category":"Community",
     "ImageURL":"",
     "Address":"",
-    "Latitude":42.45507391136056,
-    "Longitude":-76.49866238343768,
+    "Latitude":42.45507391,
+    "Longitude":-76.49866238,
     "Notes":"",
     "AKA":""
   },
@@ -2074,8 +2044,8 @@
     "Category":"Community",
     "ImageURL":"http://images.localist.com/images/main/business_huge.png?1340747100",
     "Address":"",
-    "Latitude":42.43701936554292,
-    "Longitude":-76.49762174761412,
+    "Latitude":42.43701937,
+    "Longitude":-76.49762175,
     "Notes":"",
     "AKA":""
   },
@@ -2084,8 +2054,8 @@
     "Category":"Community",
     "ImageURL":"http://images.localist.com/photo/000/016/574/huge/qke0ygsekV0xHK1V.jpg?1298662733",
     "Address":"",
-    "Latitude":42.44975833333333,
-    "Longitude":-76.50446057216041,
+    "Latitude":42.44975833,
+    "Longitude":-76.50446057,
     "Notes":"",
     "AKA":""
   },
@@ -2124,8 +2094,8 @@
     "Category":"East Campus",
     "ImageURL":"",
     "Address":"",
-    "Latitude":42.44795277777777,
-    "Longitude":-76.46430277777777,
+    "Latitude":42.44795278,
+    "Longitude":-76.46430278,
     "Notes":"Ambulatory and Production Medicine Hospital for Animals",
     "AKA":""
   },
@@ -2134,8 +2104,8 @@
     "Category":"North Campus",
     "ImageURL":"http://images.localist.com/photo/000/018/814/huge/vSzTPRumsa17nOzM.jpg?1308651500",
     "Address":"",
-    "Latitude":42.45511082868874,
-    "Longitude":-76.4761191309069,
+    "Latitude":42.45511083,
+    "Longitude":-76.47611913,
     "Notes":"",
     "AKA":""
   },
@@ -2164,8 +2134,8 @@
     "Category":"North Campus",
     "ImageURL":"http://images.localist.com/photo/000/018/813/huge/CfFWidM2bQEo6S2D.jpg?1308651457",
     "Address":"",
-    "Latitude":42.45242796996109,
-    "Longitude":-76.4797914919881,
+    "Latitude":42.45242797,
+    "Longitude":-76.47979149,
     "Notes":"",
     "AKA":""
   },
@@ -2174,8 +2144,8 @@
     "Category":"Plantations",
     "ImageURL":"http://images.localist.com/images/main/business_huge.png?1340747100",
     "Address":"",
-    "Latitude":42.45301111111112,
-    "Longitude":-76.45384166666668,
+    "Latitude":42.45301111,
+    "Longitude":-76.45384167,
     "Notes":"Plantations",
     "AKA":""
   },
@@ -2184,8 +2154,8 @@
     "Category":"North Campus",
     "ImageURL":"http://images.localist.com/images/main/business_huge.png?1340747100",
     "Address":"",
-    "Latitude":42.45724166666667,
-    "Longitude":-76.48062777777778,
+    "Latitude":42.45724167,
+    "Longitude":-76.48062778,
     "Notes":"Intramural Sports",
     "AKA":""
   },
@@ -2194,8 +2164,8 @@
     "Category":"Arts",
     "ImageURL":"http://images.localist.com/photo/000/016/761/huge/z6RlrYrHx1xJmgRs.jpg?1298996351",
     "Address":"",
-    "Latitude":42.45072826618113,
-    "Longitude":-76.4860723320483,
+    "Latitude":42.45072827,
+    "Longitude":-76.48607233,
     "Notes":"Cafe (www.campuslife.cornell.edu/campuslife/dining/two-naked-guys-cafe.cfm)",
     "AKA":""
   },
@@ -2204,8 +2174,8 @@
     "Category":"State",
     "ImageURL":"http://images.localist.com/images/main/business_huge.png?1340747100",
     "Address":"",
-    "Latitude":42.87744166666667,
-    "Longitude":-77.00721771520627,
+    "Latitude":42.87744167,
+    "Longitude":-77.00721772,
     "Notes":"Frank A. Lee Library; Geneva Experiment Station Library",
     "AKA":""
   },
@@ -2224,8 +2194,8 @@
     "Category":"East Campus",
     "ImageURL":"",
     "Address":"",
-    "Latitude":42.44808229374934,
-    "Longitude":-76.46439746082663,
+    "Latitude":42.44808229,
+    "Longitude":-76.46439746,
     "Notes":"",
     "AKA":""
   },
@@ -2234,8 +2204,8 @@
     "Category":"Co-ops",
     "ImageURL":"http://images.localist.com/images/main/business_huge.png?1340747100",
     "Address":"",
-    "Latitude":42.44799166666667,
-    "Longitude":-76.49131666666666,
+    "Latitude":42.44799167,
+    "Longitude":-76.49131667,
     "Notes":"Housing",
     "AKA":""
   },
@@ -2244,8 +2214,8 @@
     "Category":"Athletics",
     "ImageURL":"http://images.localist.com/photo/000/016/580/huge/AnwXyaCOWtZDNKQJ.jpg?1298662758",
     "Address":"",
-    "Latitude":42.44672731004505,
-    "Longitude":-76.47266029506604,
+    "Latitude":42.44672731,
+    "Longitude":-76.4726603,
     "Notes":"Track and Field",
     "AKA":""
   },
@@ -2324,8 +2294,8 @@
     "Category":"East Campus",
     "ImageURL":"http://images.localist.com/images/main/business_huge.png?1340747100",
     "Address":"",
-    "Latitude":42.44789722222222,
-    "Longitude":-76.46935277777779,
+    "Latitude":42.44789722,
+    "Longitude":-76.46935278,
     "Notes":"",
     "AKA":""
   },
@@ -2374,8 +2344,8 @@
     "Category":"East Campus",
     "ImageURL":"",
     "Address":"",
-    "Latitude":42.44822502541795,
-    "Longitude":-76.46445826860396,
+    "Latitude":42.44822503,
+    "Longitude":-76.46445827,
     "Notes":"",
     "AKA":""
   },
@@ -2395,7 +2365,7 @@
     "ImageURL":"http://images.localist.com/images/main/business_huge.png?1340747100",
     "Address":"",
     "Latitude":42.485575,
-    "Longitude":-76.45862476838232,
+    "Longitude":-76.45862477,
     "Notes":"",
     "AKA":""
   },
@@ -2414,8 +2384,8 @@
     "Category":"East Campus",
     "ImageURL":"http://images.localist.com/images/main/business_huge.png?1340747100",
     "Address":"",
-    "Latitude":42.44947126094862,
-    "Longitude":-76.46257043427542,
+    "Latitude":42.44947126,
+    "Longitude":-76.46257043,
     "Notes":"",
     "AKA":""
   },
@@ -2424,8 +2394,8 @@
     "Category":"Areas and Features",
     "ImageURL":"http://images.localist.com/photo/000/016/584/huge/ACw7jv__CXu9VwsR.jpg?1298662781",
     "Address":"",
-    "Latitude":42.44857433820509,
-    "Longitude":-76.48636809379705,
+    "Latitude":42.44857434,
+    "Longitude":-76.48636809,
     "Notes":"",
     "AKA":""
   },
@@ -2434,8 +2404,8 @@
     "Category":"East Campus",
     "ImageURL":"http://images.localist.com/photo/000/016/585/huge/mgeEhBu3UaYRNbo6.jpg?1298662786",
     "Address":"",
-    "Latitude":42.44249734879541,
-    "Longitude":-76.45803123736826,
+    "Latitude":42.44249735,
+    "Longitude":-76.45803124,
     "Notes":"",
     "AKA":""
   },
@@ -2484,8 +2454,8 @@
     "Category":"North Campus",
     "ImageURL":"http://images.localist.com/photo/000/016/587/huge/E_UUKARzKbf_cf9N.jpg?1298662794",
     "Address":"",
-    "Latitude":42.45336111111111,
-    "Longitude":-76.48125277777778,
+    "Latitude":42.45336111,
+    "Longitude":-76.48125278,
     "Notes":"Cafe (www.louieslunch.com); Truck",
     "AKA":""
   },
@@ -2514,8 +2484,8 @@
     "Category":"East Campus",
     "ImageURL":"",
     "Address":"",
-    "Latitude":42.44839035563588,
-    "Longitude":-76.46454040917499,
+    "Latitude":42.44839036,
+    "Longitude":-76.46454041,
     "Notes":"",
     "AKA":""
   },
@@ -2524,8 +2494,8 @@
     "Category":"East Campus",
     "ImageURL":"http://images.localist.com/images/main/business_huge.png?1340747100",
     "Address":"",
-    "Latitude":42.44316615602954,
-    "Longitude":-76.47118311928311,
+    "Latitude":42.44316616,
+    "Longitude":-76.47118312,
     "Notes":"",
     "AKA":""
   },
@@ -2547,16 +2517,6 @@
     "Latitude":42.448793,
     "Longitude":-76.476343,
     "Notes":"Manndible Cafe (manndiblecafe.com); Albert R. Mann Library",
-    "AKA":""
-  },
-  {
-    "Name":"Maple Ave",
-    "Category":"Carshare",
-    "ImageURL":"",
-    "Address":"",
-    "Latitude":42.4413986,
-    "Longitude":-76.4753036,
-    "Notes":"",
     "AKA":""
   },
   {
@@ -2624,8 +2584,8 @@
     "Category":"West Campus",
     "ImageURL":"http://images.localist.com/images/main/business_huge.png?1340747100",
     "Address":"",
-    "Latitude":42.44723859723326,
-    "Longitude":-76.48801326472957,
+    "Latitude":42.4472386,
+    "Longitude":-76.48801326,
     "Notes":"Housing",
     "AKA":""
   },
@@ -2634,8 +2594,8 @@
     "Category":"Arts",
     "ImageURL":"http://images.localist.com/photo/000/016/595/huge/lCzKLNBY3MmOHFno.jpg?1298662830",
     "Address":"",
-    "Latitude":42.44938933697732,
-    "Longitude":-76.48543029250196,
+    "Latitude":42.44938934,
+    "Longitude":-76.48543029,
     "Notes":"",
     "AKA":""
   },
@@ -2644,8 +2604,8 @@
     "Category":"Central Campus",
     "ImageURL":"http://images.localist.com/photo/000/016/596/huge/_Xbhk_nsvclyKd8x.jpg?1298662834",
     "Address":"",
-    "Latitude":42.44755833333333,
-    "Longitude":-76.48505277777778,
+    "Latitude":42.44755833,
+    "Longitude":-76.48505278,
     "Notes":"Chimes Concerts",
     "AKA":""
   },
@@ -2664,8 +2624,8 @@
     "Category":"Athletics",
     "ImageURL":"http://images.localist.com/images/main/business_huge.png?1340747100",
     "Address":"",
-    "Latitude":42.47016986412833,
-    "Longitude":-76.5031021934047,
+    "Latitude":42.47016986,
+    "Longitude":-76.50310219,
     "Notes":"Sailboats",
     "AKA":""
   },
@@ -2674,8 +2634,8 @@
     "Category":"North Campus",
     "ImageURL":"http://images.localist.com/photo/000/016/598/huge/vHn5spPOlLhyt20h.jpg?1298662842",
     "Address":"",
-    "Latitude":42.45438603750161,
-    "Longitude":-76.47689447045187,
+    "Latitude":42.45438604,
+    "Longitude":-76.47689447,
     "Notes":"Housing",
     "AKA":""
   },
@@ -2694,8 +2654,8 @@
     "Category":"Near Campus",
     "ImageURL":"http://images.localist.com/images/main/business_huge.png?1340747100",
     "Address":"",
-    "Latitude":42.43904444444444,
-    "Longitude":-76.48755277777778,
+    "Latitude":42.43904444,
+    "Longitude":-76.48755278,
     "Notes":"AAP; 122 Eddy St.",
     "AKA":""
   },
@@ -2714,8 +2674,8 @@
     "Category":"Plantations",
     "ImageURL":"http://images.localist.com/photo/000/016/599/huge/k2RflC_i7nVZ8y0S.jpg?1298662846",
     "Address":"",
-    "Latitude":42.44778358988403,
-    "Longitude":-76.47757970515482,
+    "Latitude":42.44778359,
+    "Longitude":-76.47757971,
     "Notes":"Plantations; Minns Garden",
     "AKA":""
   },
@@ -2774,8 +2734,8 @@
     "Category":"Community",
     "ImageURL":"http://images.localist.com/photo/000/017/003/huge/RoLEq8dKdMiE401q.jpg?1299841940",
     "Address":"",
-    "Latitude":42.46634225981987,
-    "Longitude":-76.53638357372144,
+    "Latitude":42.46634226,
+    "Longitude":-76.53638357,
     "Notes":"Paleontological Research Institution",
     "AKA":""
   },
@@ -2804,8 +2764,8 @@
     "Category":"East Campus",
     "ImageURL":"http://images.localist.com/images/main/business_huge.png?1340747100",
     "Address":"",
-    "Latitude":42.44729800319504,
-    "Longitude":-76.46845999782299,
+    "Latitude":42.447298,
+    "Longitude":-76.46846,
     "Notes":"",
     "AKA":""
   },
@@ -2814,8 +2774,8 @@
     "Category":"State",
     "ImageURL":"",
     "Address":"",
-    "Latitude":40.70585565280153,
-    "Longitude":-73.89585841478242,
+    "Latitude":40.70585565,
+    "Longitude":-73.89585841,
     "Notes":"QuickState; QuickWorld; http://www.cornell.edu/nyc/",
     "AKA":""
   },
@@ -2824,8 +2784,8 @@
     "Category":"State",
     "ImageURL":"http://images.localist.com/images/main/business_huge.png?1340747100",
     "Address":"",
-    "Latitude":42.877110000326,
-    "Longitude":-77.00765099994464,
+    "Latitude":42.87711,
+    "Longitude":-77.007651,
     "Notes":"NYSAES; QuickState; http://cals.cornell.edu/nysaes/",
     "AKA":""
   },
@@ -2844,8 +2804,8 @@
     "Category":"Central Campus",
     "ImageURL":"http://images.localist.com/images/main/business_huge.png?1340747100",
     "Address":"",
-    "Latitude":42.45052986899349,
-    "Longitude":-76.4804966589451,
+    "Latitude":42.45052987,
+    "Longitude":-76.48049666,
     "Notes":"",
     "AKA":""
   },
@@ -2854,8 +2814,8 @@
     "Category":"Areas and Features",
     "ImageURL":"http://images.localist.com/photo/000/016/552/huge/pvOf_eLB5g6BQpCw.jpg?1298662631",
     "Address":"",
-    "Latitude":42.45186111111111,
-    "Longitude":-76.45599444444444,
+    "Latitude":42.45186111,
+    "Longitude":-76.45599444,
     "Notes":"Plantations",
     "AKA":""
   },
@@ -2864,18 +2824,8 @@
     "Category":"Central Campus",
     "ImageURL":"http://images.localist.com/images/main/business_huge.png?1340747100",
     "Address":"",
-    "Latitude":42.45024663982961,
-    "Longitude":-76.48044684980954,
-    "Notes":"",
-    "AKA":""
-  },
-  {
-    "Name":"North Campus",
-    "Category":"Carshare",
-    "ImageURL":"",
-    "Address":"",
-    "Latitude":42.456501,
-    "Longitude":-76.4776993,
+    "Latitude":42.45024664,
+    "Longitude":-76.48044685,
     "Notes":"",
     "AKA":""
   },
@@ -2884,8 +2834,8 @@
     "Category":"Areas and Features",
     "ImageURL":"http://images.localist.com/images/main/business_huge.png?1340747100",
     "Address":"",
-    "Latitude":42.45525978830351,
-    "Longitude":-76.47831624576979,
+    "Latitude":42.45525979,
+    "Longitude":-76.47831625,
     "Notes":"",
     "AKA":""
   },
@@ -3044,8 +2994,8 @@
     "Category":"North Campus",
     "ImageURL":"http://images.localist.com/photo/000/016/607/huge/3VyZSBCYoeMkJL3v.jpg?1298662883",
     "Address":"",
-    "Latitude":42.45210573025183,
-    "Longitude":-76.48027858583075,
+    "Latitude":42.45210573,
+    "Longitude":-76.48027859,
     "Notes":"",
     "AKA":""
   },
@@ -3054,19 +3004,9 @@
     "Category":"Co-ops",
     "ImageURL":"http://images.localist.com/images/main/business_huge.png?1340747100",
     "Address":"",
-    "Latitude":42.4427016140413,
-    "Longitude":-76.48416898180099,
+    "Latitude":42.44270161,
+    "Longitude":-76.48416898,
     "Notes":"Housing",
-    "AKA":""
-  },
-  {
-    "Name":"Oak/College",
-    "Category":"Carshare",
-    "ImageURL":"",
-    "Address":"",
-    "Latitude":42.4426003,
-    "Longitude":-76.4848022,
-    "Notes":"",
     "AKA":""
   },
   {
@@ -3074,8 +3014,8 @@
     "Category":"Central Campus",
     "ImageURL":"http://images.localist.com/photo/000/016/608/huge/PZpR5HEkuowOaI13.jpg?1298662889",
     "Address":"",
-    "Latitude":42.45074127699409,
-    "Longitude":-76.48125595870647,
+    "Latitude":42.45074128,
+    "Longitude":-76.48125596,
     "Notes":"",
     "AKA":""
   },
@@ -3110,16 +3050,6 @@
     "AKA":""
   },
   {
-    "Name":"Orchards Parking",
-    "Category":"Parking",
-    "ImageURL":"",
-    "Address":"",
-    "Latitude":42.44519893221601,
-    "Longitude":-76.46231350856533,
-    "Notes":"Parking for Cornell Orchards",
-    "AKA":""
-  },
-  {
     "Name":"Oxley Equestrian Center",
     "Category":"East Hill",
     "ImageURL":"http://images.localist.com/photo/000/016/821/huge/7wD_MmCHjiA6P46s.jpg?1299108430",
@@ -3130,92 +3060,12 @@
     "AKA":""
   },
   {
-    "Name":"Parking Garage",
-    "Category":"Parking",
-    "ImageURL":"",
-    "Address":"167 Hoy Rd, Ithaca, NY 14850",
-    "Latitude":42.443951,
-    "Longitude":-76.479574,
-    "Notes":"Metered Parking",
-    "AKA":""
-  },
-  {
-    "Name":"Parking at Alumni House",
-    "Category":"Parking",
-    "ImageURL":"",
-    "Address":"",
-    "Latitude":42.45202462236333,
-    "Longitude":-76.48101211510237,
-    "Notes":"Metered Parking",
-    "AKA":""
-  },
-  {
-    "Name":"Parking at Appel",
-    "Category":"Parking",
-    "ImageURL":"",
-    "Address":"",
-    "Latitude":42.45352362931494,
-    "Longitude":-76.47542146951328,
-    "Notes":"Metered Parking",
-    "AKA":""
-  },
-  {
-    "Name":"Parking at Art Museum",
-    "Category":"Parking",
-    "ImageURL":"",
-    "Address":"",
-    "Latitude":42.45100573371759,
-    "Longitude":-76.48596671721697,
-    "Notes":"Metered Parking",
-    "AKA":""
-  },
-  {
-    "Name":"Parking at Friedman",
-    "Category":"Parking",
-    "ImageURL":"",
-    "Address":"",
-    "Latitude":42.44548888888889,
-    "Longitude":-76.47520833333334,
-    "Notes":"Metered Parking",
-    "AKA":""
-  },
-  {
-    "Name":"Parking at Helen Newman",
-    "Category":"Parking",
-    "ImageURL":"",
-    "Address":"",
-    "Latitude":42.4529243212554,
-    "Longitude":-76.47847575930174,
-    "Notes":"Metered Parking",
-    "AKA":""
-  },
-  {
-    "Name":"Parking at RPCC",
-    "Category":"Parking",
-    "ImageURL":"",
-    "Address":"",
-    "Latitude":42.45633610589406,
-    "Longitude":-76.47762515302635,
-    "Notes":"Metered Parking",
-    "AKA":""
-  },
-  {
-    "Name":"Parking at The Straight",
-    "Category":"Parking",
-    "ImageURL":"",
-    "Address":"",
-    "Latitude":42.44638094120206,
-    "Longitude":-76.48617381388807,
-    "Notes":"Metered Parking",
-    "AKA":""
-  },
-  {
     "Name":"Parrot Hall",
     "Category":"State",
     "ImageURL":"http://images.localist.com/images/main/business_huge.png?1340747100",
     "Address":"",
-    "Latitude":42.87689944825755,
-    "Longitude":-77.00803030067536,
+    "Latitude":42.87689945,
+    "Longitude":-77.0080303,
     "Notes":"",
     "AKA":""
   },
@@ -3224,8 +3074,8 @@
     "Category":"Areas and Features",
     "ImageURL":"http://images.localist.com/photo/000/016/612/huge/M1jqii7ajL82vAeF.jpg?1298662913",
     "Address":"",
-    "Latitude":42.45199634308092,
-    "Longitude":-76.48610279769602,
+    "Latitude":42.45199634,
+    "Longitude":-76.4861028,
     "Notes":"",
     "AKA":""
   },
@@ -3234,8 +3084,8 @@
     "Category":"Plantations",
     "ImageURL":"http://images.localist.com/images/main/business_huge.png?1340747100",
     "Address":"",
-    "Latitude":42.44914444444444,
-    "Longitude":-76.47250555555556,
+    "Latitude":42.44914444,
+    "Longitude":-76.47250556,
     "Notes":"Plantations",
     "AKA":""
   },
@@ -3244,19 +3094,9 @@
     "Category":"Areas and Features",
     "ImageURL":"http://images.localist.com/photo/000/016/613/huge/sLw7Y9Q6Yasu57wP.jpg?1298662917",
     "Address":"",
-    "Latitude":42.44687932475086,
-    "Longitude":-76.48222236983815,
+    "Latitude":42.44687932,
+    "Longitude":-76.48222237,
     "Notes":"",
-    "AKA":""
-  },
-  {
-    "Name":"Peterson Lot",
-    "Category":"Parking",
-    "ImageURL":"",
-    "Address":"",
-    "Latitude":42.44779166666666,
-    "Longitude":-76.47047222222223,
-    "Notes":"Metered Parking",
     "AKA":""
   },
   {
@@ -3264,8 +3104,8 @@
     "Category":"Plantations",
     "ImageURL":"http://images.localist.com/images/main/business_huge.png?1340747100",
     "Address":"",
-    "Latitude":42.45151111111112,
-    "Longitude":-76.45201388888889,
+    "Latitude":42.45151111,
+    "Longitude":-76.45201389,
     "Notes":"Plantations",
     "AKA":""
   },
@@ -3394,8 +3234,8 @@
     "Category":"East Campus",
     "ImageURL":"http://images.localist.com/images/main/business_huge.png?1340747100",
     "Address":"",
-    "Latitude":42.44837823906735,
-    "Longitude":-76.46855275585531,
+    "Latitude":42.44837824,
+    "Longitude":-76.46855276,
     "Notes":"",
     "AKA":""
   },
@@ -3424,19 +3264,9 @@
     "Category":"Areas and Features",
     "ImageURL":"http://images.localist.com/photo/000/016/690/huge/wCWo7205tLxrmYuO.jpg?1298885120",
     "Address":"",
-    "Latitude":42.44941495389194,
-    "Longitude":-76.47190280093616,
+    "Latitude":42.44941495,
+    "Longitude":-76.4719028,
     "Notes":"",
-    "AKA":""
-  },
-  {
-    "Name":"Plantations Parking",
-    "Category":"Parking",
-    "ImageURL":"",
-    "Address":"",
-    "Latitude":42.44926666666667,
-    "Longitude":-76.47184444444444,
-    "Notes":"Parking for Plantations Visitors",
     "AKA":""
   },
   {
@@ -3464,8 +3294,8 @@
     "Category":"East Campus",
     "ImageURL":"http://images.localist.com/images/main/business_huge.png?1340747100",
     "Address":"",
-    "Latitude":42.4434021182748,
-    "Longitude":-76.47134162006432,
+    "Latitude":42.44340212,
+    "Longitude":-76.47134162,
     "Notes":"",
     "AKA":""
   },
@@ -3474,8 +3304,8 @@
     "Category":"Co-ops",
     "ImageURL":"http://images.localist.com/images/main/business_huge.png?1340747100",
     "Address":"",
-    "Latitude":42.45487222222223,
-    "Longitude":-76.48206111111111,
+    "Latitude":42.45487222,
+    "Longitude":-76.48206111,
     "Notes":"Housing",
     "AKA":""
   },
@@ -3524,8 +3354,8 @@
     "Category":"North Campus",
     "ImageURL":"http://images.localist.com/photo/000/016/617/huge/ssEKQ64wlJgCJp_7.jpg?1298662941",
     "Address":"",
-    "Latitude":42.45356689566225,
-    "Longitude":-76.47753064757525,
+    "Latitude":42.4535669,
+    "Longitude":-76.47753065,
     "Notes":"",
     "AKA":""
   },
@@ -3614,8 +3444,8 @@
     "Category":"Athletics",
     "ImageURL":"http://images.localist.com/photo/000/016/622/huge/jQPeI5n6jnudfdPo.jpg?1298662961",
     "Address":"",
-    "Latitude":42.46033474956923,
-    "Longitude":-76.47435491643975,
+    "Latitude":42.46033475,
+    "Longitude":-76.47435492,
     "Notes":"Moakley House; Golf Center",
     "AKA":""
   },
@@ -3644,8 +3474,8 @@
     "Category":"Athletics",
     "ImageURL":"http://images.localist.com/photo/000/016/624/huge/L3Zvy7yghGdJwiUy.jpg?1298662970",
     "Address":"",
-    "Latitude":42.44679725700298,
-    "Longitude":-76.47523518324763,
+    "Latitude":42.44679726,
+    "Longitude":-76.47523518,
     "Notes":"",
     "AKA":""
   },
@@ -3654,8 +3484,8 @@
     "Category":"Plantations",
     "ImageURL":"http://images.localist.com/photo/000/016/625/huge/h5S1ArUdUleiq58I.jpg?1298662975",
     "Address":"",
-    "Latitude":42.44973393629716,
-    "Longitude":-76.47144018476159,
+    "Latitude":42.44973394,
+    "Longitude":-76.47144018,
     "Notes":"Plantations",
     "AKA":""
   },
@@ -3674,8 +3504,8 @@
     "Category":"East Hill",
     "ImageURL":"",
     "Address":"",
-    "Latitude":42.43560555555555,
-    "Longitude":-76.46621194606172,
+    "Latitude":42.43560556,
+    "Longitude":-76.46621195,
     "Notes":"220 Pine Tree Road",
     "AKA":""
   },
@@ -3694,8 +3524,8 @@
     "Category":"Plantations",
     "ImageURL":"http://images.localist.com/photo/000/016/627/huge/zLcUTh9JU4jtjA56.jpg?1298662985",
     "Address":"",
-    "Latitude":42.44788055555555,
-    "Longitude":-76.48043888888888,
+    "Latitude":42.44788056,
+    "Longitude":-76.48043889,
     "Notes":"Plantations",
     "AKA":""
   },
@@ -3714,28 +3544,8 @@
     "Category":"East Campus",
     "ImageURL":"http://images.localist.com/images/main/business_huge.png?1340747100",
     "Address":"",
-    "Latitude":42.44824722222222,
-    "Longitude":-76.46375280725587,
-    "Notes":"",
-    "AKA":""
-  },
-  {
-    "Name":"S Geneva/McGraw",
-    "Category":"Carshare",
-    "ImageURL":"",
-    "Address":"",
-    "Latitude":42.4375992,
-    "Longitude":-76.5006027,
-    "Notes":"",
-    "AKA":""
-  },
-  {
-    "Name":"SPCA",
-    "Category":"Community",
-    "ImageURL":"http://images.localist.com/images/main/business_huge.png?1340747100",
-    "Address":"",
-    "Latitude":42.4720490979038,
-    "Longitude":-76.43861175853604,
+    "Latitude":42.44824722,
+    "Longitude":-76.46375281,
     "Notes":"",
     "AKA":""
   },
@@ -3744,8 +3554,8 @@
     "Category":"Areas and Features",
     "ImageURL":"http://images.localist.com/photo/000/016/628/huge/omQrUX5omsjmQJ5R.jpg?1298662990",
     "Address":"",
-    "Latitude":42.4517361175123,
-    "Longitude":-76.47311946553991,
+    "Latitude":42.45173612,
+    "Longitude":-76.47311947,
     "Notes":"",
     "AKA":""
   },
@@ -3794,8 +3604,8 @@
     "Category":"Athletics",
     "ImageURL":"http://images.localist.com/photo/000/016/631/huge/d_IhbnFUAPtBlX1r.jpg?1298663003",
     "Address":"",
-    "Latitude":42.44403207297739,
-    "Longitude":-76.47865684947895,
+    "Latitude":42.44403207,
+    "Longitude":-76.47865685,
     "Notes":"Football; Lacrosse; LAX",
     "AKA":""
   },
@@ -3804,8 +3614,8 @@
     "Category":"Athletics",
     "ImageURL":"http://images.localist.com/images/main/business_huge.png?1340747100",
     "Address":"",
-    "Latitude":42.44502993141838,
-    "Longitude":-76.47917392343093,
+    "Latitude":42.44502993,
+    "Longitude":-76.47917392,
     "Notes":"",
     "AKA":""
   },
@@ -3854,8 +3664,8 @@
     "Category":"Plantations",
     "ImageURL":"http://images.localist.com/images/main/business_huge.png?1340747100",
     "Address":"",
-    "Latitude":42.45191944444445,
-    "Longitude":-76.45512222222223,
+    "Latitude":42.45191944,
+    "Longitude":-76.45512222,
     "Notes":"Plantations",
     "AKA":""
   },
@@ -3880,26 +3690,6 @@
     "AKA":""
   },
   {
-    "Name":"Seneca/Cayuga",
-    "Category":"Carshare",
-    "ImageURL":"",
-    "Address":"",
-    "Latitude":42.4404984,
-    "Longitude":-76.4988022,
-    "Notes":"",
-    "AKA":""
-  },
-  {
-    "Name":"Seneca/Fulton",
-    "Category":"Carshare",
-    "ImageURL":"",
-    "Address":"",
-    "Latitude":42.4403,
-    "Longitude":-76.5102997,
-    "Notes":"",
-    "AKA":""
-  },
-  {
     "Name":"Sheldon Court",
     "Category":"Collegetown",
     "ImageURL":"http://images.localist.com/photo/000/016/635/huge/2nrt7LmInK4XOPQL.jpg?1298663022",
@@ -3914,8 +3704,8 @@
     "Category":"World",
     "ImageURL":"",
     "Address":"",
-    "Latitude":43.08102222222222,
-    "Longitude":-70.76067222222223,
+    "Latitude":43.08102222,
+    "Longitude":-70.76067222,
     "Notes":"SML",
     "AKA":""
   },
@@ -4004,8 +3794,8 @@
     "Category":"Athletics",
     "ImageURL":"http://images.localist.com/images/main/business_huge.png?1340747100",
     "Address":"",
-    "Latitude":42.44716111111111,
-    "Longitude":-76.47367687589171,
+    "Latitude":42.44716111,
+    "Longitude":-76.47367688,
     "Notes":"",
     "AKA":""
   },
@@ -4014,8 +3804,8 @@
     "Category":"Engineering",
     "ImageURL":"http://images.localist.com/photo/000/016/638/huge/IB9Tjt3TxT0_TU5u.jpg?1298663038",
     "Address":"",
-    "Latitude":42.44360988391442,
-    "Longitude":-76.48499067032061,
+    "Latitude":42.44360988,
+    "Longitude":-76.48499067,
     "Notes":"",
     "AKA":""
   },
@@ -4024,9 +3814,19 @@
     "Category":"Central Campus",
     "ImageURL":"http://images.localist.com/photo/000/016/639/huge/IvgWWUYamWv_YPmP.jpg?1298663043",
     "Address":"",
-    "Latitude":42.44889251628421,
-    "Longitude":-76.48113843588189,
+    "Latitude":42.44889252,
+    "Longitude":-76.48113844,
     "Notes":"Spacecraft Planetary Imaging Facility; SPIF",
+    "AKA":""
+  },
+  {
+    "Name":"SPCA",
+    "Category":"Community",
+    "ImageURL":"http://images.localist.com/images/main/business_huge.png?1340747100",
+    "Address":"",
+    "Latitude":42.4720491,
+    "Longitude":-76.43861176,
+    "Notes":"",
     "AKA":""
   },
   {
@@ -4034,29 +3834,9 @@
     "Category":"Community",
     "ImageURL":"http://images.localist.com/images/main/business_huge.png?1340747100",
     "Address":"",
-    "Latitude":42.43941388888889,
-    "Longitude":-76.49955555555556,
+    "Latitude":42.43941389,
+    "Longitude":-76.49955556,
     "Notes":"State Street Theatre; State St. Theatre",
-    "AKA":""
-  },
-  {
-    "Name":"State/Corn",
-    "Category":"Carshare",
-    "ImageURL":"",
-    "Address":"",
-    "Latitude":42.4393005,
-    "Longitude":-76.5057983,
-    "Notes":"",
-    "AKA":""
-  },
-  {
-    "Name":"State/Quarry",
-    "Category":"Carshare",
-    "ImageURL":"",
-    "Address":"",
-    "Latitude":42.4388008,
-    "Longitude":-76.4888,
-    "Notes":"",
     "AKA":""
   },
   {
@@ -4064,8 +3844,8 @@
     "Category":"Central Campus",
     "ImageURL":"http://images.localist.com/images/main/business_huge.png?1340747100",
     "Address":"",
-    "Latitude":42.44545558211482,
-    "Longitude":-76.48213663171964,
+    "Latitude":42.44545558,
+    "Longitude":-76.48213663,
     "Notes":"",
     "AKA":""
   },
@@ -4074,8 +3854,8 @@
     "Category":"Central Campus",
     "ImageURL":"http://images.localist.com/photo/000/016/641/huge/TDxY48ZOKPTWb0Fe.jpg?1298663050",
     "Address":"",
-    "Latitude":42.44577564390459,
-    "Longitude":-76.48215481743551,
+    "Latitude":42.44577564,
+    "Longitude":-76.48215482,
     "Notes":"Nestle Hotel Library",
     "AKA":""
   },
@@ -4094,8 +3874,8 @@
     "Category":"Areas and Features",
     "ImageURL":"http://images.localist.com/images/main/business_huge.png?1340747100",
     "Address":"",
-    "Latitude":42.44906387026753,
-    "Longitude":-76.48391970939053,
+    "Latitude":42.44906387,
+    "Longitude":-76.48391971,
     "Notes":"",
     "AKA":""
   },
@@ -4104,8 +3884,8 @@
     "Category":"Areas and Features",
     "ImageURL":"http://images.localist.com/images/main/business_huge.png?1340747100",
     "Address":"",
-    "Latitude":42.44901573690047,
-    "Longitude":-76.48530191359337,
+    "Latitude":42.44901574,
+    "Longitude":-76.48530191,
     "Notes":"",
     "AKA":""
   },
@@ -4114,18 +3894,8 @@
     "Category":"Areas and Features",
     "ImageURL":"http://images.localist.com/photo/000/016/642/huge/9upKZQHOpBwbElLZ.jpg?1298663056",
     "Address":"",
-    "Latitude":42.44683055555555,
-    "Longitude":-76.4823465535406,
-    "Notes":"",
-    "AKA":""
-  },
-  {
-    "Name":"Stewart Ave",
-    "Category":"Carshare",
-    "ImageURL":"",
-    "Address":"",
-    "Latitude":42.4482002,
-    "Longitude":-76.490303,
+    "Latitude":42.44683056,
+    "Longitude":-76.48234655,
     "Notes":"",
     "AKA":""
   },
@@ -4134,8 +3904,8 @@
     "Category":"Community",
     "ImageURL":"http://images.localist.com/photo/000/016/643/huge/ukqcuGUHk31DE1A5.jpg?1298663062",
     "Address":"",
-    "Latitude":42.46207777777778,
-    "Longitude":-76.5017680378435,
+    "Latitude":42.46207778,
+    "Longitude":-76.50176804,
     "Notes":"",
     "AKA":""
   },
@@ -4164,8 +3934,8 @@
     "Category":"State",
     "ImageURL":"http://images.localist.com/images/main/business_huge.png?1340747100",
     "Address":"",
-    "Latitude":42.87660435772936,
-    "Longitude":-77.00673040059793,
+    "Latitude":42.87660436,
+    "Longitude":-77.0067304,
     "Notes":"",
     "AKA":""
   },
@@ -4174,8 +3944,8 @@
     "Category":"Areas and Features",
     "ImageURL":"http://images.localist.com/photo/000/016/684/huge/iLF_UT0hMV7iX4VO.jpg?1298883853",
     "Address":"",
-    "Latitude":42.44488677911563,
-    "Longitude":-76.48363160273516,
+    "Latitude":42.44488678,
+    "Longitude":-76.4836316,
     "Notes":"",
     "AKA":""
   },
@@ -4184,8 +3954,8 @@
     "Category":"East Campus",
     "ImageURL":"http://images.localist.com/images/main/business_huge.png?1340747100",
     "Address":"",
-    "Latitude":42.44599652035036,
-    "Longitude":-76.4701902322082,
+    "Latitude":42.44599652,
+    "Longitude":-76.47019023,
     "Notes":"",
     "AKA":""
   },
@@ -4204,8 +3974,8 @@
     "Category":"East Campus",
     "ImageURL":"http://images.localist.com/images/main/business_huge.png?1340747100",
     "Address":"",
-    "Latitude":42.44793055555555,
-    "Longitude":-76.46362104956994,
+    "Latitude":42.44793056,
+    "Longitude":-76.46362105,
     "Notes":"",
     "AKA":""
   },
@@ -4214,8 +3984,8 @@
     "Category":"Community",
     "ImageURL":"http://images.localist.com/photo/000/016/645/huge/2wz38Sb2lM_xyl5f.jpg?1298663073",
     "Address":"",
-    "Latitude":42.54650965527017,
-    "Longitude":-76.59849151554533,
+    "Latitude":42.54650966,
+    "Longitude":-76.59849152,
     "Notes":"",
     "AKA":""
   },
@@ -4234,8 +4004,8 @@
     "Category":"NYC",
     "ImageURL":"",
     "Address":"",
-    "Latitude":40.76216100025913,
-    "Longitude":-73.9499639997845,
+    "Latitude":40.762161,
+    "Longitude":-73.949964,
     "Notes":"http://www.cornell.edu/nyc/",
     "AKA":""
   },
@@ -4244,8 +4014,8 @@
     "Category":"Co-ops",
     "ImageURL":"http://images.localist.com/images/main/business_huge.png?1340747100",
     "Address":"",
-    "Latitude":42.44579774805806,
-    "Longitude":-76.48709308304801,
+    "Latitude":42.44579775,
+    "Longitude":-76.48709308,
     "Notes":"",
     "AKA":""
   },
@@ -4280,16 +4050,6 @@
     "AKA":""
   },
   {
-    "Name":"Titus/Plain",
-    "Category":"Carshare",
-    "ImageURL":"",
-    "Address":"",
-    "Latitude":42.4342003,
-    "Longitude":-76.5039978,
-    "Notes":"",
-    "AKA":""
-  },
-  {
     "Name":"Tobin Fieldhouse",
     "Category":"North Campus",
     "ImageURL":"http://images.localist.com/photo/000/018/816/huge/2ONYuJeTCLBvKwBQ.jpg?1308651561",
@@ -4314,8 +4074,8 @@
     "Category":"Community",
     "ImageURL":"http://images.localist.com/images/main/business_huge.png?1340747100",
     "Address":"",
-    "Latitude":42.45059877255562,
-    "Longitude":-76.50349812144292,
+    "Latitude":42.45059877,
+    "Longitude":-76.50349812,
     "Notes":"4-H; 615 Willow Ave., Ithaca",
     "AKA":""
   },
@@ -4324,8 +4084,8 @@
     "Category":"Community",
     "ImageURL":"http://images.localist.com/images/main/business_huge.png?1340747100",
     "Address":"",
-    "Latitude":42.48984166666667,
-    "Longitude":-76.46226989757149,
+    "Latitude":42.48984167,
+    "Longitude":-76.4622699,
     "Notes":"",
     "AKA":""
   },
@@ -4334,28 +4094,8 @@
     "Category":"Community",
     "ImageURL":"http://images.localist.com/images/main/business_huge.png?1340747100",
     "Address":"",
-    "Latitude":42.43838654901615,
-    "Longitude":-76.49836600648406,
-    "Notes":"",
-    "AKA":""
-  },
-  {
-    "Name":"Tower/Garden",
-    "Category":"Carshare",
-    "ImageURL":"",
-    "Address":"",
-    "Latitude":42.4474983,
-    "Longitude":-76.4792023,
-    "Notes":"",
-    "AKA":""
-  },
-  {
-    "Name":"Triangle Park",
-    "Category":"Carshare",
-    "ImageURL":"",
-    "Address":"",
-    "Latitude":42.4450989,
-    "Longitude":-76.4992981,
+    "Latitude":42.43838655,
+    "Longitude":-76.49836601,
     "Notes":"",
     "AKA":""
   },
@@ -4364,8 +4104,8 @@
     "Category":"Ag",
     "ImageURL":"",
     "Address":"",
-    "Latitude":42.4478957097447,
-    "Longitude":-76.47914474372737,
+    "Latitude":42.44789571,
+    "Longitude":-76.47914474,
     "Notes":"Dining (www.campuslife.cornell.edu/campuslife/dining/trillium.cfm); Cafe (www.campuslife.cornell.edu/campuslife/dining/trillium-express.cfm)",
     "AKA":""
   },
@@ -4384,8 +4124,8 @@
     "Category":"Areas and Features",
     "ImageURL":"http://images.localist.com/photo/000/016/647/huge/WaDgkemcDkoWJ3cs.jpg?1298663095",
     "Address":"",
-    "Latitude":42.44300910743182,
-    "Longitude":-76.48430180887063,
+    "Latitude":42.44300911,
+    "Longitude":-76.48430181,
     "Notes":"",
     "AKA":""
   },
@@ -4394,8 +4134,8 @@
     "Category":"Near Campus",
     "ImageURL":"http://images.localist.com/images/main/business_huge.png?1340747100",
     "Address":"",
-    "Latitude":42.45963809897865,
-    "Longitude":-76.46083958270836,
+    "Latitude":42.4596381,
+    "Longitude":-76.46083958,
     "Notes":"",
     "AKA":""
   },
@@ -4404,8 +4144,8 @@
     "Category":"North Campus",
     "ImageURL":"http://images.localist.com/photo/000/016/648/huge/WIJZ0wdRZQWZdB_8.jpg?1298663100",
     "Address":"",
-    "Latitude":42.45534043065749,
-    "Longitude":-76.47672298027284,
+    "Latitude":42.45534043,
+    "Longitude":-76.47672298,
     "Notes":"Housing",
     "AKA":""
   },
@@ -4414,8 +4154,8 @@
     "Category":"North Campus",
     "ImageURL":"http://images.localist.com/photo/000/018/821/huge/cD5ceBMr80149BQz.jpg?1308651865",
     "Address":"",
-    "Latitude":42.45391944444444,
-    "Longitude":-76.48433888888889,
+    "Latitude":42.45391944,
+    "Longitude":-76.48433889,
     "Notes":"410 Thurston Ave.",
     "AKA":""
   },
@@ -4455,7 +4195,7 @@
     "ImageURL":"http://images.localist.com/photo/000/016/652/huge/AL0EtSsvCs8sMiBG.jpg?1298663117",
     "Address":"",
     "Latitude":42.447425,
-    "Longitude":-76.46580833333334,
+    "Longitude":-76.46580833,
     "Notes":"Veterinary Library; Flower-Sprecher Veterinary Library",
     "AKA":""
   },
@@ -4464,8 +4204,8 @@
     "Category":"East Campus",
     "ImageURL":"http://images.localist.com/photo/000/016/653/huge/kcW0jeVrE_11zc6j.jpg?1298663122",
     "Address":"",
-    "Latitude":42.44739161182001,
-    "Longitude":-76.46436471052175,
+    "Latitude":42.44739161,
+    "Longitude":-76.46436471,
     "Notes":"",
     "AKA":""
   },
@@ -4514,8 +4254,8 @@
     "Category":"Co-ops",
     "ImageURL":"http://images.localist.com/photo/000/018/819/huge/abNcgeybyVzupZHC.jpg?1308651646",
     "Address":"",
-    "Latitude":42.45637222222223,
-    "Longitude":-76.48251666666667,
+    "Latitude":42.45637222,
+    "Longitude":-76.48251667,
     "Notes":"Housing",
     "AKA":""
   },
@@ -4534,8 +4274,8 @@
     "Category":"Co-ops",
     "ImageURL":"http://images.localist.com/images/main/business_huge.png?1340747100",
     "Address":"",
-    "Latitude":42.45013240209666,
-    "Longitude":-76.48816716353014,
+    "Latitude":42.4501324,
+    "Longitude":-76.48816716,
     "Notes":"",
     "AKA":""
   },
@@ -4544,8 +4284,8 @@
     "Category":"Areas and Features",
     "ImageURL":"http://images.localist.com/photo/000/016/657/huge/9Ov8gubiBB9rYzM3.jpg?1298663142",
     "Address":"",
-    "Latitude":42.44654877226635,
-    "Longitude":-76.48329010021544,
+    "Latitude":42.44654877,
+    "Longitude":-76.4832901,
     "Notes":"",
     "AKA":""
   },
@@ -4554,8 +4294,8 @@
     "Category":"NYC",
     "ImageURL":"",
     "Address":"",
-    "Latitude":40.76405936206212,
-    "Longitude":-73.95542748306603,
+    "Latitude":40.76405936,
+    "Longitude":-73.95542748,
     "Notes":"Medical College Library; Samuel J. Wood Library; C. V. Starr Biomedical Information Center",
     "AKA":""
   },
@@ -4564,8 +4304,8 @@
     "Category":"World",
     "ImageURL":"http://images.localist.com/photo/000/016/688/huge/DpZuW8isGD2iy88h.jpg?1298884635",
     "Address":"",
-    "Latitude":25.31811388888888,
-    "Longitude":51.43931944444444,
+    "Latitude":25.31811389,
+    "Longitude":51.43931944,
     "Notes":"QuickWorld; http://www.cornell.edu/visiting/qatar/",
     "AKA":""
   },
@@ -4584,8 +4324,8 @@
     "Category":"Areas and Features",
     "ImageURL":"http://images.localist.com/images/main/business_huge.png?1340747100",
     "Address":"",
-    "Latitude":42.44758368677813,
-    "Longitude":-76.48915914864365,
+    "Latitude":42.44758369,
+    "Longitude":-76.48915915,
     "Notes":"",
     "AKA":""
   },
@@ -4630,16 +4370,6 @@
     "AKA":""
   },
   {
-    "Name":"Wilson Synchrotron Lab Parking",
-    "Category":"Parking",
-    "ImageURL":"",
-    "Address":"",
-    "Latitude":42.44471063976241,
-    "Longitude":-76.47119791736762,
-    "Notes":"Parking for Wilson Synchrotron Lab Visitors",
-    "AKA":""
-  },
-  {
     "Name":"Wing Hall",
     "Category":"East Campus",
     "ImageURL":"http://images.localist.com/images/main/business_huge.png?1340747100",
@@ -4654,8 +4384,8 @@
     "Category":"Plantations",
     "ImageURL":"http://images.localist.com/photo/000/016/662/huge/gowmW0neY8hra8CS.jpg?1298663170",
     "Address":"",
-    "Latitude":42.44910555555555,
-    "Longitude":-76.47141388888889,
+    "Latitude":42.44910556,
+    "Longitude":-76.47141389,
     "Notes":"Plantations",
     "AKA":""
   },
@@ -4674,179 +4404,9 @@
     "Category":"Plantations",
     "ImageURL":"http://images.localist.com/images/main/business_huge.png?1340747100",
     "Address":"",
-    "Latitude":42.45260833333334,
-    "Longitude":-76.45610555555555,
+    "Latitude":42.45260833,
+    "Longitude":-76.45610556,
     "Notes":"Plantations",
-    "AKA":""
-  },
-  {
-    "Name":"104 West! (Kosher Dining Hall)",
-    "Category":"Co-ops",
-    "ImageURL":"",
-    "Address":"",
-    "Latitude":42.44431072842651,
-    "Longitude":-76.48787869831379,
-    "Notes":"Dining (www.campuslife.cornell.edu/campuslife/dining/104west.cfm); 104 West Ave.",
-    "AKA":""
-  },
-  {
-    "Name":"112 Edgemoor",
-    "Category":"Co-ops",
-    "ImageURL":"http://images.localist.com/images/main/business_huge.png?1340747100",
-    "Address":"",
-    "Latitude":42.44409097246667,
-    "Longitude":-76.48841178339316,
-    "Notes":"Housing",
-    "AKA":""
-  },
-  {
-    "Name":"116 Maple Ave.",
-    "Category":"Parking",
-    "ImageURL":"http://images.localist.com/images/main/business_huge.png?1340747100",
-    "Address":"",
-    "Latitude":42.441306,
-    "Longitude":-76.476433,
-    "Notes":"Transportation Services; Parking Permits",
-    "AKA":""
-  },
-  {
-    "Name":"120 Maple Ave.",
-    "Category":"Near Campus",
-    "ImageURL":"",
-    "Address":"",
-    "Latitude":42.441336,
-    "Longitude":-76.47553,
-    "Notes":"CIT",
-    "AKA":""
-  },
-  {
-    "Name":"301 College Ave.",
-    "Category":"Collegetown",
-    "ImageURL":"http://images.localist.com/images/main/business_huge.png?1340747100",
-    "Address":"",
-    "Latitude":42.44033831466796,
-    "Longitude":-76.48499926544106,
-    "Notes":"",
-    "AKA":""
-  },
-  {
-    "Name":"309 College Ave.",
-    "Category":"Collegetown",
-    "ImageURL":"",
-    "Address":"",
-    "Latitude":42.44081656915536,
-    "Longitude":-76.48497643192042,
-    "Notes":"The Nines",
-    "AKA":""
-  },
-  {
-    "Name":"312 College Ave.",
-    "Category":"Collegetown",
-    "ImageURL":"http://images.localist.com/images/main/business_huge.png?1340747100",
-    "Address":"",
-    "Latitude":42.44089595553945,
-    "Longitude":-76.48533033686954,
-    "Notes":"University Photography; Office of Web Communications (OWC); University Communications, FSAP",
-    "AKA":""
-  },
-  {
-    "Name":"337 Pine Tree Road",
-    "Category":"East Hill",
-    "ImageURL":"http://images.localist.com/images/main/business_huge.png?1340747100",
-    "Address":"",
-    "Latitude":42.43792222222222,
-    "Longitude":-76.4627076368322,
-    "Notes":"",
-    "AKA":""
-  },
-  {
-    "Name":"341 Pine Tree Road",
-    "Category":"East Hill",
-    "ImageURL":"http://images.localist.com/images/main/business_huge.png?1340747100",
-    "Address":"",
-    "Latitude":42.4379379131725,
-    "Longitude":-76.46308945310345,
-    "Notes":"",
-    "AKA":""
-  },
-  {
-    "Name":"353 Pine Tree Road",
-    "Category":"East Hill",
-    "ImageURL":"http://images.localist.com/images/main/business_huge.png?1340747100",
-    "Address":"",
-    "Latitude":42.43813181335253,
-    "Longitude":-76.46215440174669,
-    "Notes":"",
-    "AKA":""
-  },
-  {
-    "Name":"373 Pine Tree Road",
-    "Category":"East Hill",
-    "ImageURL":"http://images.localist.com/images/main/business_huge.png?1340747100",
-    "Address":"",
-    "Latitude":42.43765918906487,
-    "Longitude":-76.4620922176125,
-    "Notes":"",
-    "AKA":""
-  },
-  {
-    "Name":"377 Pine Tree Road",
-    "Category":"East Hill",
-    "ImageURL":"http://images.localist.com/images/main/business_huge.png?1340747100",
-    "Address":"",
-    "Latitude":42.43763229771285,
-    "Longitude":-76.46314939786039,
-    "Notes":"",
-    "AKA":""
-  },
-  {
-    "Name":"391 Pine Tree Road",
-    "Category":"East Hill",
-    "ImageURL":"http://images.localist.com/images/main/business_huge.png?1340747100",
-    "Address":"",
-    "Latitude":42.43904444444444,
-    "Longitude":-76.46531944444445,
-    "Notes":"CISER",
-    "AKA":""
-  },
-  {
-    "Name":"395 Pine Tree Road",
-    "Category":"East Hill",
-    "ImageURL":"http://images.localist.com/images/main/business_huge.png?1340747100",
-    "Address":"",
-    "Latitude":42.43896307755732,
-    "Longitude":-76.46319460416808,
-    "Notes":"",
-    "AKA":""
-  },
-  {
-    "Name":"4-H Acres",
-    "Category":"Community",
-    "ImageURL":"http://images.localist.com/images/main/business_huge.png?1340747100",
-    "Address":"",
-    "Latitude":42.47316663284014,
-    "Longitude":-76.41905012036506,
-    "Notes":"418 Lower Creek Road, Ithaca",
-    "AKA":""
-  },
-  {
-    "Name":"409 College Ave.",
-    "Category":"Collegetown",
-    "ImageURL":"",
-    "Address":"",
-    "Latitude":42.44211388888888,
-    "Longitude":-76.48496599999045,
-    "Notes":"Student Agencies, Faculty and Staff Assistance Program",
-    "AKA":""
-  },
-  {
-    "Name":"726 University Ave.",
-    "Category":"West Campus",
-    "ImageURL":"http://images.localist.com/images/main/business_huge.png?1340747100",
-    "Address":"",
-    "Latitude":42.44956111111111,
-    "Longitude":-76.48878611111111,
-    "Notes":"",
     "AKA":""
   }
 ]
