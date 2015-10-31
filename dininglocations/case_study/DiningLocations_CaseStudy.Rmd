@@ -1,0 +1,124 @@
+---
+title: "Dining Locations Case Study"
+author: "Noah Rubin (nar62)"
+date: "October 26, 2015"
+output: html_document
+---
+```{r}
+# library from hadley wickham for web scraping inspired
+# by beautiful soup (see: https://github.com/hadley/rvest)
+library(xml2);
+library(rvest);
+
+namesURL = "https://living.sas.cornell.edu/dine/wheretoeat/";
+labelsHTML = read_html(namesURL);
+names(labelsHTML);
+```
+<p><b>
+rvest provides a few main methods for parsing HTML: <br>
+<p style="text-indent:50px;">
+- html_node(".class #id node_type") --> extracts nodes that have class = class, id = id, type = node_type <br>
+</p>
+<p style="text-indent:50px;">
+- e.x. html_node("strong span"), html_node(".reference a"), etc.
+</p>
+</b></p>
+```{r}
+linkNodes = labelsHTML %>%
+  html_nodes("a");
+
+links = linkNodes %>%
+  html_attr("href");
+
+labels = linkNodes %>%
+  html_text();
+
+# preview links and labels
+head(links); head(labels);
+```
+<p><b>
+Thus, we find that a lot of the links and labels are garbage, 
+so it's time to clean them up. First, however, we will combine
+them into a data frame for manipulation
+</b></p>
+```{r, fig.width=20}
+diningLocations = as.data.frame(cbind(labels = labels, links = links));
+# view data frame
+diningLocations[44:80,]
+```
+<p><b>
+As you can see from the frame above, cbind() combines the columns, and
+as.data.frame coerces the combined columns into a data frame.  The columns
+can be accessed by diningLocations\$links or diningLocations\$labels.  Now
+I'm going to manually clean up the frame and only keep the relevant link:label
+pairs.
+</b></p>
+```{r}
+# only keep rows 44 to 78
+diningLocations = diningLocations[45:78,];
+# remove duplicates
+diningLocations = diningLocations[!duplicated(diningLocations$labels),];
+#remove unnecessary labels
+exclude = c("convenience stores", "Cornell Dining Now");
+diningLocations = diningLocations[-which(diningLocations$labels %in% exclude),];
+# add domain to links
+domain = "https://living.sas.cornell.edu";
+diningLocations$links = paste(domain, diningLocations$links);
+diningLocations$labels
+# Looks like the duplicate function missed Jansen's Market
+diningLocations = diningLocations[-which(diningLocations$labels == "Jansen’s Market"),];
+```
+<p><b>
+Ok, for the cool part: getting latitude and longitude of each location.  As a first pass, I'm going to use the ggmap library, created by David Kahle and Hadley Wickham. Among other things, this lib provides a geocode method that returns the latitude and longitude of a given location. I'm also using a library called "purrr," produced by Hadley Wickham in the spirit of underscore.js.
+</b></p>
+```{r, results='hide', message=FALSE}
+# ggplot 2 is dependency of ggmap
+library(ggplot2);
+# ggmap is library for map visualizations, and
+# location informaiton and manipulations
+library(ggmap);
+library(purrr);
+
+# locales stores the lat and longs given by geocode
+locales = diningLocations$labels %>%
+  # adding "Cornell University" for accuracy's sake
+  paste(., " Cornell University", sep="") %>%
+  # get lat and long
+  map(geocode);
+```
+```{r}
+head(locales);
+```
+
+<p><b>
+Well, ggmap (as well as really any other library in R) sucks at getting coordinates for very specific and unpopular destinations like dining halls on west campus at Cornell University. Alas, all that is left is to change the information after the decimal points for lat and long, then we are done.
+</b><p>
+```{r}
+# separate latitudes and longitudes for altering
+latitudes = locales %>%
+  map(function(position) position$lat) %>%
+  unlist;
+longitudes = locales %>%
+  map(function(position) position$lon) %>%
+  unlist;
+
+# construct latitude decimal point alterations
+lat_alts = c(.4473495, .4423221, .4534478, .4534452, .4535259, .453041, .4559407, .4535825, .4480805, .4457864, .4467172, .4484227, .4482542, .4466849, .4508134, .450099, .4467172, .4500624, .4443652, .446679, .4472154, .446891, .4478062, .4483435, .4488146, .4472589, .4468473, .4479873, .4439353);
+# construct longitude decimal point alterations
+long_alts = c(.4732484, .4872978, .4910123, .4910123, .4783553, .4841109, .4796581, .4783072, .4867747, .4854713, .4878249, .4832169, .4814839, .4863926, .4862022, .4836112, .4878249, .4814158, .4845526, .4857208, .484334, .4799113, .4815657, .4917249, .4916712, .4909148, .4916337, .4893484, .4897629);
+
+# combine latitude and longitude corrections
+latitudes = round(latitudes, 0) + lat_alts;
+longitudes = round(longitudes, 0) - long_alts;
+diningLocations$Latitude = latitudes;
+diningLocations$Longitude = longitudes;
+
+# fini! final data frame:
+diningLocations[-2];
+```
+<p><b>
+And that's it! If you want to write a file to a directory, follow these commands: <br>
+<i> 1) setwd("path/to/directory"); </i> <br>
+<i> 2) write.csv(data_frame, file="filename.csv"); </i> <br>
+where data_frame is the dataframe object.  This of course assumes you want to write to .csv file, but there are plenty of write methods depending on the type of file you want to create.
+</b></p>
