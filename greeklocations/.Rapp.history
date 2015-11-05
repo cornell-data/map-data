@@ -1,0 +1,252 @@
+dbinom(6, 10, .25)
+demo()
+n = 20
+p = .4
+rbinom(5, n, p)
+par(mfrow=c(3,3))
+for(x in seq(5, 45, by=5)) { numberHeads = rbinom(x, n, p); hist(x=numberHeads, col="dodgerblue") }
+par(mfrow=c(4,4))
+for(x in seq(5, 80, by=5)) { numberHeads = rbinom(x, n, p); hist(x=numberHeads, col="dodgerblue") }
+for(x in seq(5, 80, by=5)) { numberHeads = rbinom(x, n, p); hist(x=numberHeads, col="dodgerblue", main=paste("Number of Heads w/ Sample Size ", x)) }
+for(x in seq(5, 80, by=5)) { numberHeads = rbinom(x, n, p); hist(x=numberHeads, col="dodgerblue", main=paste("Number of Heads w/ Sample Size ", x)); lines(numberHeads); }
+?lines
+numberHeads
+for(x in seq(5, 80, by=5)) { numberHeads = rbinom(x, n, p); hist(x=numberHeads, col="dodgerblue", main=paste("Number of Heads w/ Sample Size ", x)) }
+fdc = read.csv("/Users/noahrubin1/Documents/1BTRY3010/Data/Lab2_FDCindex.csv");
+hist(fdc$Pharmaceuticals)
+table(fdc)
+table(summary(fdc))
+barplot(t(fdc), names=c(("Jan","Feb","Mar","Apr","May","Jun", "Jul","Aug","Sep","Oct","Nov","Dec"))
+barplot(t(fdc), names=c("Jan","Feb","Mar","Apr","May","Jun", "Jul","Aug","Sep","Oct","Nov","Dec"))
+table(t(fdc))
+table(t(fdc), dnn=list.name(c("Jan","Feb","Mar","Apr","May","Jun",                "Jul","Aug","Sep","Oct","Nov","Dec")))
+table(t(fdc), dnn=list.names(c("Jan","Feb","Mar","Apr","May","Jun",                "Jul","Aug","Sep","Oct","Nov","Dec")))
+table(t(fdc))
+stem(t(fdc))
+fdc
+cbind(c("Jan","Feb","Mar","Apr","May","Jun",                "Jul","Aug","Sep","Oct","Nov","Dec"))
+cbind(c("Jan","Feb","Mar","Apr","May","Jun",                "Jul","Aug","Sep","Oct","Nov","Dec"), fdc)
+fdc
+fdc_months = cbind(c("Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"), fdc)
+fdc_months
+fdc_months[0]
+fdc_months$c("Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", = fdc_months$Month
+fdc_months$Month = fdc_months$c("Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep",
+ladskjf
+ds;alkfjdl'asJF;'ALSDF';LKDASF
+`qklj`
+fdc = read.csv("/Users/noahrubin1/Documents/1BTRY3010/Data/Lab2_FDCindex.csv")
+fdc
+fdc$Month = c("Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec")
+fdc
+sample = c(24.5, 24.8, 26.8, 35, 26.5, 28.0, 22.6, 27.2, 28.9, 29.1)
+sample
+plot(sample)
+lines(sample)
+sample = cbind()
+q()
+?pt
+original = c(59.0, 68.0, 63.0, 60.0, 57.0, 63.0, 71.0, 67.0, 66.0, 62.0, 59.0, 71.0, 62.0, 67.0, 60.0, 60.0, 50.0, 56.0, 62.0, 55.0, 62.0, 48.0, 46.0, 52.0, 44.0, 45.0)
+plot(original)
+lines(original)
+smoothed = c(0.0, 6.993062438057483, 5.114965312190288, 1.6689791873141724, -1.3310208126858276, 2.6620416253716552, 10.216055500495541, 8.891972249752229, 7.222993062438057, 3.8919722497522296, 0.6689791873141724, 9.32408325074331, 5.006937561942517, 6.885034687809712, 2.560951437066402, 1.0, -6.770069375619426, -4.337958374628345, 1.6620416253716552, -2.4390485629335976, 1.4390485629335978, -7.878097125867195, -12.554013875123886, -8.337958374628343, -13.21605550049554, -15.0)
+plot(smoothed)
+lines(smoothed)
+par(mfrow=c(1,2))
+plot(original)
+lines(original)
+plot(smoothed)
+lines(smoothed)
+smoothed3 = c(0.0, 7.800687013858727, 4.666284992300707, 1.399770995380424, -1.600229004619576, 3.200458009239152, 10.93394401231887, 8.533027993840566, 7.1332569984601415, 3.5330279938405655, 0.39977099538042404, 10.400916018478304, 4.199312986141273, 7.333715007699293, 1.9327989892209896, 1.0, -7.667430015398586, -3.799541990760848, 2.200458009239152, -3.0672010107790104, 2.0672010107790104, -9.13440202155802, -12.733486003079717, -7.799541990760848, -13.933944012318868, -15.0)
+smoothed4 = c(0.0, 8.315139016445682, 4.380478324196843, 1.2282869945181059, -1.7717130054818941, 3.5434260109637883, 11.39123468128505, 8.304382659357474, 7.076095664839369, 3.3043826593574743, 0.22828699451810583, 11.086852021927577, 3.6848609835543176, 7.619521675803157, 1.5326696538755802, 1.0, -8.239043351606314, -3.4565739890362117, 2.5434260109637883, -3.46733034612442, 2.46733034612442, -9.93466069224884, -12.847808670321264, -7.456573989036212, -14.39123468128505, -15.0)
+par(mfrow=c(2,2))
+plot(original); lines(original); plot(smoothed); lines(smoothed); plot(smoothed3); lines(smoothed3); plot(smoothed4); lines(smoothed4);
+par(mfrow=c(2,2))
+plot(original, xlab="Visit", ylab="Letters", main="Original Letters Data (PID 40)"); lines(original); plot(smoothed, xlab="Visit", ylab="Smoothed Letters", main="Smoothed to Baseline, Squared"); lines(smoothed); plot(smoothed3, xlab="Visit", ylab="Smoothed Letters", main="Smoothed to Baseline, Cubed"); lines(smoothed3); plot(smoothed4, xlab="Visit", ylab="Smoothed Letters", main="Smoothed to Baseline, Biquadratic"); lines(smoothed4);
+linearsmooth = c(5.03448275862069, 1.6804123711340209, 7.773195876288661, 6.381443298969073, 4.608247422680413, -3.8247422680412377, 0.21649484536082475, -8.443298969072165, -13.123711340206187)
+par(mfrow=c(3,2))
+plot(original, xlab="Visit", ylab="Letters", main="Original Letters Data (PID 40)"); lines(original); plot(smoothed, xlab="Visit", ylab="Smoothed Letters", main="Smoothed to Baseline, Squared"); lines(smoothed); plot(smoothed3, xlab="Visit", ylab="Smoothed Letters", main="Smoothed to Baseline, Cubed"); lines(smoothed3); plot(smoothed4, xlab="Visit", ylab="Smoothed Letters", main="Smoothed to Baseline, Biquadratic"); lines(smoothed4); plot(linearsmooth, xlab="States", ylab="Smoothed Letters", main="Smoothed to Baseline, Linear"); lines(linearsmooth);
+title("Smoothing Techniques for Visit Data: Linear and Exponential")
+par(mfrow=c(3,2))
+plot(original, xlab="Visit", ylab="Letters", main="Original Letters Data (PID 40)"); lines(original); plot(smoothed, xlab="Visit", ylab="Smoothed Letters", main="Smoothed to Baseline, Squared"); lines(smoothed); plot(smoothed3, xlab="Visit", ylab="Smoothed Letters", main="Smoothed to Baseline, Cubed"); lines(smoothed3); plot(smoothed4, xlab="Visit", ylab="Smoothed Letters", main="Smoothed to Baseline, Biquadratic"); lines(smoothed4); plot(linearsmooth, xlab="States", ylab="Smoothed Letters", main="Smoothed to Baseline, Linear"); lines(linearsmooth);
+data$x = c(3,1,0,4)
+data = Non
+data = None
+data
+data = cbind(c(3,1,0,4),c(2,2,1,3))
+data
+names(data)
+(1/8) * sum(data[,1]^2)
+data[,1]^2
+sum(data[,1]^2)
+sum(data[,1]^2)/8
+-2 + 3
+h0 = seq(0,0.4, by=.1)
+h1 = seq(0,0.4, by=.05)
+h2 = seq(0,0.4, by=.025)
+h0
+h1
+h2
+?devtools
+??devtools
+library("devtools")
+install.package("devtools")
+install.packages("devtools")
+?ggplot2
+??ggplot2
+install.packages("ggplot2)
+f
+fq
+q
+install.packages("ggplot2")
+library("devtools")
+?devtools
+install_github("ProjectMOSAIC/mosaic", username="noahrubin")
+library("mosaic")
+install.packages(c("DBI", "devtools", "dplyr", "ggplot2", "haven", "knitr", "lubridate", "packrat", "readr", "rmarkdown", "rsqlite", "rvest", "scales", "shiny", "stringr", "tidyr"))
+install.packages("RSQLite")
+devtools::install_github("garettgman/DSR")
+devtools::install_github("garrettgman/DSR")
+q()
+ls
+ls()
+r(list=ls())
+rm(list=ls())
+install.packages("mgvc")
+install.packages("mgcv")
+update.packages("pandoc")
+require(pandoc)
+install.packages("pandoc")
+install.packages("readxl")
+library("readxl")
+library("swirl")
+getwd()
+q()
+swirl()
+library(swirl)
+library(tydr)
+install.packages(swirl)
+library("swirl")
+library("tydr")
+install.packages("tydr")
+library("tydr")
+install.packages("tydr")
+o2 = data.frame(Above = c(5.2,4.8,5.1,5.0,4.9,4.8,5.0,4.7,4.7,5.0,4.7,5.1,5.0,4.9,4.9),#
+Below = c(4.2,4.4,4.7,4.9,4.6,4.8,4.9,4.6,5.1,4.3,5.5,4.7,4.9,4.8,4.7))
+o2
+boxplot(o2)
+o2 = data.frame(Above = c(5.2,4.8,5.1,5.0,4.9,4.8,5.0,4.7,4.7,5.0,4.7,5.1,5.0,4.9,4.9),#
+Below = c(4.2,4.4,4.7,4.9,4.6,4.8,4.9,4.6,5.1,4.3,5.5,4.7,4.9,4.8,4.7));
+o2
+hist(o2$Above)
+barplot(as.matrix(o2))
+barplot(o2)
+length(o2)
+length(o2$Above)
+var(o2$Above)
+var(o2$Below)
+t.test(o2$Above, o2$Below, var.equal=F)
+o2.tTest = t.test(o2$Above, o2$Below, var.equal=F)
+names(o2.tTest)
+install.packages("purrr")
+install.packages("dyplr")
+library("devtools")
+devtools::install_github("hadley/dplyr")
+devtools::install_github("hadley/lazyeval")
+library(dplyr)
+library("devtools")
+devtools::install_github("hadley/tidyr")
+install.packages("lubridate")
+install.packages("rvest")
+library(rvest)
+locations = read_html("https://living.sas.cornell.edu/dine/wheretoeat/")
+names(locations)
+locations$doc
+locations$node
+links = locations %>% html_nodes("a") %>% html_text()
+links
+links = locations %>% html_nodes("a .CP___PAGEID_") %>% html_text()
+links
+locationNames = links[44:78]
+locationNames
+links
+links = locations %>% html_nodes("a") %>% html_text()
+locationNames = links[44:78]
+locationNames
+locationNames[-3]
+locationNames[-1]
+locationNames[-2]
+locationNames[-c(2)]
+locationNames
+locationNames(-c(1, 3, 6))
+locationNames[-c(1, 3, 6)]
+locationNames[-c(1, 3, 6, 7)]
+ls
+ldskjf;ladsjf
+clear
+install.packages("ggmap")
+?geocode
+library(ggmap)
+?geocode
+geocode("Mattin's Café")
+geocode("Mattin's Café Cornell University")
+install.packages("dismo")
+taxes = c(9075*.1, (36900-9076)*.15, (89350-36901)*.25, (89425-89351)*.28);
+taxes
+sum(taxes)
+taxes.total = sum(taxes) + 89425*.0515
+taxes.federal = sum(taxes)
+taxes.state = 89425*.0515
+taxes.effective = taxes.total/89425
+taxes.effective
+taxes.total
+89425-taxes.total
+4000*12
+3000*12
+income = 89425-taxes.total
+income - 3000*12
+living = 3000*12
+living
+(income-living)/12
+income.perMonth = (income-living)/12
+income.perMonth
+income.perDay = income.perMonth/30
+income.perDay
+income.perDay - 5000/12/30
+(income-5000-living)/12/30
+((income-5000-living)/12)/30
+((income-8000-living)/12)/30
+((income-10000-living)/12)/30
+89425*.05
+income = 52000
+taxes = c(9075*.1, (36900-9076)*.15, (52000-36901)*.25)
+taxes
+sum(taxes)
+income.afterTax = income-sum(taxes)
+income.afterTax
+rentPerMonth = 1500+142
+totalRent = rentPerMonth*12
+income.afterTax - totalRent
+(income.afterTax - totalRent)/12
+trans = 41.25*12
+(income.afterTax - totalRent-trans)/12
+(income.afterTax - totalRent-trans)/12/4
+(income.afterTax - totalRent-trans)/12/4 - 100
+((income.afterTax - totalRent-trans)/12/4 - 100)/7
+source("~/Documents/CODI/greeklocations/greeklocations.R")
+ls()
+greeklocations
+write.csv(greeklocations, "~/Documents/CODI/greeklocations/greeklocations.csv")
+typeof(greeklocations)
+source("~/Documents/CODI/greeklocations/greeklocations.R")
+ls()
+greeklocations$labels
+typeof(greeklocations$labels)
+apply(greeklocations, 2, typeof)
+apply(greeklocations, 1, typeof)
+chapterInformation$labels
+chapterInformation$labels = greeklocations$labels
+chapterInformation$labels
+head(chapterInformation)
+chapterInformation
+write.csv(chapterInformation, file="chapterinformation.csv")
