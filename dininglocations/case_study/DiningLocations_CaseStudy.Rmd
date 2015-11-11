@@ -1,58 +1,97 @@
 ---
-title: "Dining Locations Case Study"
+title: "Web Scraping in R: A Primer"
 author: "Noah Rubin (nar62)"
 date: "October 26, 2015"
 output: html_document
 ---
+
+<p>
+This tutorial, as the title above suggests, is a primer on web scraping in R using the <a href="https://github.com/hadley/rvest"><i>rvest</i></a> library from Hadley Wickham.  This library allows one to easily scrape websites by tag, class, id, and attributes.  If you have ever used the <a href="http://www.crummy.com/software/BeautifulSoup/">Beautiful Soup</a> library for python, rvest was created with that library in mind.  <br>
+
+If you do not have R installed on your machine, go <a href="https://cran.r-project.org/">here</a> to download the proper type for your OS. **Note, I wrote this tutorial using R version 3.1.3 (2015-03-09), A.K.A. "Smooth Sidewalk", and so you may experience issues with packages and such if you are using a different version.  If you would like to attempt to manage and use multiple versions of R, you may find <a href="https://support.rstudio.com/hc/en-us/articles/200486138-Using-Different-Versions-of-R">this resource</a> to be helpful. <br>
+
+Once you have R installed, I would also suggest installing <a href="https://www.rstudio.com/products/rstudio/download/">RStudio</a>, which at the time of this writing is at version 0.99.489.  Aside from being a fairly decent IDE for R, it comes with some kickass features, like R Markdown (the thing I used to create this tutorial).  For more information on how to create awesome documents with R Markdown, go <a href="http://rmarkdown.rstudio.com/">here</a>. <br>
+
+The packages used in this tutorial are:
+<ol>
+<li>
+<a href="https://github.com/hadley/rvest">rvest</a>
+<p> Web scraping library, explained in some detail later on </p>
+</li>
+<li>
+<a href="https://cran.r-project.org/web/packages/ggmap/index.html">ggmap</a>
+<p> Amongst other things, contains a 'geocode' method that returns latitude and longitude coordinates for a given location (in this tutorial, locations are given as strings of names of places) </p>
+</li>
+<li>
+<a href="https://github.com/hadley/purrr">purrr</a>
+<p> Definitely a must-have library if you're into functional-style programming.  Contains all sorts of mapping and other functional methods, in the spirit of the javascript libarary <a href="http://underscorejs.org/">underscore.js</a> </p>
+</li>
+</ol>
+<p>
+I would also be doing you a disservice if I failed to mention the <a href="https://github.com/hadley/devtools">devtools</a> library, also by Hadley Wickham.  At this point you may have realized, Hadley is the man (and also chief scientist at RStudio).  Devtools is a development library that will make your life a lot easier if you begin to use R more heavily.  You can install it by using the command 'install.packages("devtools")', which is one way to install any package available through the CRAN project.  However, once you download devtools, and you may have noticed already, perusing the website for rvest and purrr, that you can also use the command 'devtools::install("package_name")', or to install a package from github, 'devtools::install_github("package_name")'. <br>
+
+To illustrate the simplicity of scraping with rvest, I have chosen the task of extracting dining hall names and locations from the Cornell dining website, as well as the location API provided through ggmap (although you'll see the issue with relying on ggmap later).  The general task for this case study is to get the names of dining halls on Cornell's campus, then get their latitudes and longitudes.  Let's dive in!
+</p>
+</p>
 ```{r}
-# library from hadley wickham for web scraping inspired
-# by beautiful soup (see: https://github.com/hadley/rvest)
+# xml2 is a dependency for rvest
 library(xml2);
 library(rvest);
+# ggplot 2 is dependency of ggmap
+library(ggplot2);
+library(ggmap);
+library(purrr);
 
+# set the url to be parsed
 namesURL = "https://living.sas.cornell.edu/dine/wheretoeat/";
+# get the HTML, parse into DOM
 labelsHTML = read_html(namesURL);
 names(labelsHTML);
 ```
-<p><b>
-rvest provides a few main methods for parsing HTML: <br>
-<p style="text-indent:50px;">
-- html_node(".class #id node_type") --> extracts nodes that have class = class, id = id, type = node_type <br>
+<p>
+The most important parts of rvest are:
+<ul>
+<li>
+Create an HTML document from a url, file on disk, or string HTML <i>read_html()</i>.
+</li>
+<li>
+Use css selectors on the document with the <i>html_nodes()</i> method.  For example, html_nodes(".cls") will select all nodes with the class '.cls'.  A useful resource for learning more about this method is the rvest github page, linked above.  I also encourage you to experiment with it on your own!
+</li>
+<li>
+Extract components by tag using <i>html_tag()</i>, get all text within a tag with <i>html_text()</i>, and get the attributes with <i>html_attrs()</i>.
+</li>
+</ul>
 </p>
-<p style="text-indent:50px;">
-- e.x. html_node("strong span"), html_node(".reference a"), etc.
-</p>
-</b></p>
 ```{r}
+# get the link nodes (a tags)
 linkNodes = labelsHTML %>%
   html_nodes("a");
 
+# extract the links from the link nodes
 links = linkNodes %>%
   html_attr("href");
 
+# extract the dining location names
+# from the link tags
 labels = linkNodes %>%
   html_text();
 
 # preview links and labels
 head(links); head(labels);
 ```
-<p><b>
-Thus, we find that a lot of the links and labels are garbage, 
+<p>
+Thus, we find that a lot of the links and labels are not worth keeping, 
 so it's time to clean them up. First, however, we will combine
-them into a data frame for manipulation
-</b></p>
+them into a data frame for manipulation.  Data frames are the way tables are represented in R, and can be thought of as a collection of vectors as columns with equal length (but often varying types).  R makes data manipulation in data frames extremely easy.  You can read more about data frames <a href="http://www.r-tutor.com/r-introduction/data-frame">here</a>.
+</p>
 ```{r, fig.width=20}
-diningLocations = as.data.frame(cbind(labels = labels, links = links));
+diningLocations = data.frame(labels = labels, links = links);
 # view data frame
 diningLocations[44:80,]
 ```
-<p><b>
-As you can see from the frame above, cbind() combines the columns, and
-as.data.frame coerces the combined columns into a data frame.  The columns
-can be accessed by diningLocations\$links or diningLocations\$labels.  Now
-I'm going to manually clean up the frame and only keep the relevant link:label
-pairs.
-</b></p>
+<p>
+As you can see from the frame above, the data.frame creates a data frame from the given columns.  Note how I assigned names to each column, which is then the name used to access that column.  The columns can be accessed by diningLocations\$links or diningLocations\$labels.  Now I'm going to manually clean up the frame and only keep the relevant link:label pairs.
+</p>
 ```{r}
 # only keep rows 44 to 78
 diningLocations = diningLocations[45:78,];
@@ -68,17 +107,10 @@ diningLocations$labels
 # Looks like the duplicate function missed Jansen's Market
 diningLocations = diningLocations[-which(diningLocations$labels == "Jansen’s Market"),];
 ```
-<p><b>
-Ok, for the cool part: getting latitude and longitude of each location.  As a first pass, I'm going to use the ggmap library, created by David Kahle and Hadley Wickham. Among other things, this lib provides a geocode method that returns the latitude and longitude of a given location. I'm also using a library called "purrr," produced by Hadley Wickham in the spirit of underscore.js.
-</b></p>
+<p>
+Ok, for the cool part: getting latitude and longitude of each location.  As a first pass, I'm going to use the ggmap library, created by David Kahle and Hadley Wickham. As mentioned above, this lib provides a geocode method that returns the latitude and longitude of a given location.  The 'map' method is provided by the purrr library, also mentioned above.  It is important to note that, unlike Java or Python, where imported methods are attached to the namespace of the imported module (unless you use from ____ import *), R dumps all methods into the same namespace (essentially).  So, even though 'map' comes from the purrr, it can be used just by calling 'map()'.
+</p>
 ```{r, results='hide', message=FALSE}
-# ggplot 2 is dependency of ggmap
-library(ggplot2);
-# ggmap is library for map visualizations, and
-# location informaiton and manipulations
-library(ggmap);
-library(purrr);
-
 # locales stores the lat and longs given by geocode
 locales = diningLocations$labels %>%
   # adding "Cornell University" for accuracy's sake
@@ -89,10 +121,9 @@ locales = diningLocations$labels %>%
 ```{r}
 head(locales);
 ```
-
-<p><b>
-Well, ggmap (as well as really any other library in R) sucks at getting coordinates for very specific and unpopular destinations like dining halls on west campus at Cornell University. Alas, all that is left is to change the information after the decimal points for lat and long, then we are done.
-</b><p>
+<p>
+Well, ggmap (as well as really any other library in R) didn't perform very well for getting coordinates of very specific and unpopular destinations like dining halls on west campus at Cornell University. Alas, all that is left is to do change the information after the decimal points for lat and long, then we are done.
+</p>
 ```{r}
 # separate latitudes and longitudes for altering
 latitudes = locales %>%
@@ -116,9 +147,9 @@ diningLocations$Longitude = longitudes;
 # fini! final data frame:
 diningLocations[-2];
 ```
-<p><b>
+<p>
 And that's it! If you want to write a file to a directory, follow these commands: <br>
 <i> 1) setwd("path/to/directory"); </i> <br>
 <i> 2) write.csv(data_frame, file="filename.csv"); </i> <br>
-where data_frame is the dataframe object.  This of course assumes you want to write to .csv file, but there are plenty of write methods depending on the type of file you want to create.
-</b></p>
+where data_frame is the data frame object.  This of course assumes you want to write to .csv file, but there are plenty of write methods depending on the type of file you want to create.
+</p>
