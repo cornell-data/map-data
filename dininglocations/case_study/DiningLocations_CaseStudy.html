@@ -231,7 +231,7 @@ diningLocations[44:80,]</code></pre>
 <p>
 As you can see from the frame above, the data.frame creates a data frame from the given columns. Note how I assigned names to each column, which is then the name used to access that column. The columns can be accessed by diningLocations$links or diningLocations$labels. Now I’m going to manually clean up the frame and only keep the relevant link:label pairs.
 </p>
-<pre class="r"><code># only keep rows 44 to 78
+<pre class="r"><code># only keep rows 45 to 78
 diningLocations = diningLocations[45:78,];
 # remove duplicates
 diningLocations = diningLocations[!duplicated(diningLocations$labels),];
